@@ -1,0 +1,15 @@
+
+img.legislator{
+  outline: #555555 solid 5px;
+}
+
+
+img.Democrat{
+  outline: #0000FF solid 5px;
+}
+
+
+img.Republican{
+  outline: #FF0000 solid 5px;
+}
+

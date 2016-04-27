@@ -1,0 +1,7963 @@
+[
+  {
+    "social": {
+      "facebook": "congresswomanaumuaamata",
+      "facebook_id": "1537155909907320",
+      "twitter": "RepAmata",
+      "youtube_id": "UCGdrLQbt1PYDTPsampx4t1A",
+      "twitter_id": 3026622545
+    },
+    "id": {
+      "bioguide": "R000600",
+      "govtrack": 412664,
+      "thomas": "02222"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepCresentHardy",
+      "youtube": "RepHardy",
+      "facebook_id": "320612381469421",
+      "twitter": "RepHardy",
+      "youtube_id": "UCc8E6NWCdgrXjBVI2NNPYdA",
+      "twitter_id": 2964222544
+    },
+    "id": {
+      "bioguide": "H001070",
+      "govtrack": 412645,
+      "thomas": "02260"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepToddYoung",
+      "youtube": "RepToddYoung",
+      "facebook_id": "186203844738421",
+      "twitter": "RepToddYoung",
+      "youtube_id": "UCuknj4PGn91gHDNAfboZEgQ",
+      "twitter_id": 234128524
+    },
+    "id": {
+      "bioguide": "Y000064",
+      "govtrack": 412428,
+      "thomas": "02019"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senjoniernst",
+      "facebook_id": "351671691660938",
+      "instagram_id": 1582702853,
+      "twitter": "SenJoniErnst",
+      "youtube_id": "UCLwrmtF_84FIcK3TyMs4MIw",
+      "twitter_id": 2856787757,
+      "instagram": "senjoniernst"
+    },
+    "id": {
+      "bioguide": "E000295",
+      "govtrack": 412667,
+      "thomas": "02283"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorThomTillis",
+      "facebook_id": "1576257352609470",
+      "twitter": "senthomtillis",
+      "youtube_id": "UCUD9VGV4SSGWjGdbn37Ea2w",
+      "twitter_id": 2964174789
+    },
+    "id": {
+      "bioguide": "T000476",
+      "govtrack": 412668,
+      "thomas": "02291"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanKevinYoder",
+      "youtube": "RepYoder",
+      "facebook_id": "154026694650252",
+      "twitter": "RepKevinYoder",
+      "youtube_id": "UCCeYmn4A8kZEHCcAfeUW9lQ",
+      "twitter_id": 252819642
+    },
+    "id": {
+      "bioguide": "Y000063",
+      "govtrack": 412430,
+      "thomas": "02021"
+    }
+  },
+  {
+    "social": {
+      "facebook": "214258646163",
+      "youtube": "RepJohnYarmuth",
+      "facebook_id": "214258646163",
+      "twitter": "RepJohnYarmuth",
+      "youtube_id": "UCy5KW4yrEfEiyZRX45Eoxkg",
+      "twitter_id": 384913290
+    },
+    "id": {
+      "bioguide": "Y000062",
+      "govtrack": 412211,
+      "thomas": "01853"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepDonYoung",
+      "youtube": "RepDonYoung",
+      "facebook_id": "7476269851",
+      "twitter": "RepDonYoung",
+      "youtube_id": "UCg5ZIR5-82EbJiNeI1bqT-A",
+      "twitter_id": 37007274
+    },
+    "id": {
+      "bioguide": "Y000033",
+      "govtrack": 400440,
+      "thomas": "01256"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSteveWomack",
+      "youtube": "CongressmanWomack",
+      "facebook_id": "135898413136490",
+      "twitter": "Rep_SteveWomack",
+      "youtube_id": "UCXJbUDLYX-wGIhRuN66hqZw",
+      "twitter_id": 234469322
+    },
+    "id": {
+      "bioguide": "W000809",
+      "govtrack": 412402,
+      "thomas": "01991"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepWilson",
+      "youtube": "repfredericawilson",
+      "facebook_id": "162327487151626",
+      "twitter": "RepWilson",
+      "youtube_id": "UCP5QBhng_lHv-vJgE_h7lpA",
+      "twitter_id": 234014087
+    },
+    "id": {
+      "bioguide": "W000808",
+      "govtrack": 412412,
+      "thomas": "02004"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepWebster",
+      "youtube": "repdanwebster",
+      "facebook_id": "188572961157305",
+      "twitter": "RepWebster",
+      "youtube_id": "UCCoX4VdU7U11eGEA0lbRtLw",
+      "twitter_id": 281540744
+    },
+    "id": {
+      "bioguide": "W000806",
+      "govtrack": 412410,
+      "thomas": "02002"
+    }
+  },
+  {
+    "social": {
+      "facebook": "MarkRWarner",
+      "facebook_id": "7935122852",
+      "instagram_id": 515327940,
+      "twitter": "MarkWarner",
+      "twitter_id": 7429102,
+      "youtube": "SenatorMarkWarner",
+      "youtube_id": "UCwyivNlEGf4sGd1oDLfY5jw",
+      "instagram": "senatorwarner"
+    },
+    "id": {
+      "bioguide": "W000805",
+      "govtrack": 412321,
+      "thomas": "01897"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRobWittman",
+      "youtube": "RobWittman",
+      "facebook_id": "38932542633",
+      "twitter": "RobWittman",
+      "youtube_id": "UCIqIb-OaTbkIdU426eYIdPg",
+      "twitter_id": 15356407
+    },
+    "id": {
+      "bioguide": "W000804",
+      "govtrack": 412255,
+      "thomas": "01886"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorWhitehouse",
+      "youtube": "SenatorWhitehouse",
+      "facebook_id": "194172833926853",
+      "twitter": "SenWhitehouse",
+      "youtube_id": "UCnG0N70SNBkNqvIMLodPTIA",
+      "twitter_id": 242555999,
+      "instagram": "SenWhitehouse"
+    },
+    "id": {
+      "bioguide": "W000802",
+      "govtrack": 412247,
+      "thomas": "01823"
+    }
+  },
+  {
+    "social": {
+      "facebook": "PeterWelch",
+      "facebook_id": "72680720883",
+      "instagram_id": 1559860900,
+      "twitter": "PeterWelch",
+      "twitter_id": 1410590874,
+      "youtube": "reppeterwelch",
+      "youtube_id": "UC0YfApJx6qNaAQ-ir93U8xA",
+      "instagram": "peterwelchvt"
+    },
+    "id": {
+      "bioguide": "W000800",
+      "govtrack": 412239,
+      "thomas": "01879"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepWalberg",
+      "youtube": "RepWalberg",
+      "facebook_id": "187654104587692",
+      "twitter": "RepWalberg",
+      "youtube_id": "UChpf3_3Wn8f3qSJbsYXrhvg",
+      "twitter_id": 237862972
+    },
+    "id": {
+      "bioguide": "W000798",
+      "govtrack": 412213,
+      "thomas": "01855"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepDWS",
+      "youtube": "RepWassermanSchultz",
+      "facebook_id": "88904724121",
+      "twitter": "RepDWStweets",
+      "youtube_id": "UCfHQiJVvMlYbVAxrMSLdO4w",
+      "twitter_id": 1140648348,
+      "instagram": "RepDWSTweets"
+    },
+    "id": {
+      "bioguide": "W000797",
+      "govtrack": 400623,
+      "thomas": "01777"
+    }
+  },
+  {
+    "social": {
+      "facebook": "71389451419",
+      "youtube": "RepLynnWestmoreland",
+      "facebook_id": "71389451419",
+      "twitter": "RepWestmoreland",
+      "youtube_id": "UCofsQVHgAUcxNoV5RP6XyYg",
+      "twitter_id": 137407124
+    },
+    "id": {
+      "bioguide": "W000796",
+      "govtrack": 400627,
+      "thomas": "01779"
+    }
+  },
+  {
+    "social": {
+      "facebook": "JoeWilson",
+      "facebook_id": "70150469414",
+      "instagram_id": 519685522,
+      "twitter": "RepJoeWilson",
+      "twitter_id": 254082173,
+      "youtube": "RepJoeWilson",
+      "youtube_id": "UC3aR1B8m7Z1uycO65yDnpCg",
+      "instagram": "repjoewilson"
+    },
+    "id": {
+      "bioguide": "W000795",
+      "govtrack": 400433,
+      "thomas": "01688"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repgregwalden",
+      "facebook_id": "313301365382225",
+      "instagram_id": 382962594,
+      "twitter": "RepGregWalden",
+      "twitter_id": 32010840,
+      "youtube": "RepGregWalden",
+      "youtube_id": "UCyaDp6ANSM9tvW7Y3LT_4KQ",
+      "instagram": "repgregwalden"
+    },
+    "id": {
+      "bioguide": "W000791",
+      "govtrack": 400419,
+      "thomas": "01596"
+    }
+  },
+  {
+    "social": {
+      "youtube": "senronwyden",
+      "twitter_id": 250188760,
+      "twitter": "RonWyden",
+      "youtube_id": "UCsd3UEaoLoqX60P88BdpGGw",
+      "instagram_id": 9443881,
+      "instagram": "wydenpress"
+    },
+    "id": {
+      "bioguide": "W000779",
+      "govtrack": 300100,
+      "thomas": "01247"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorWicker",
+      "facebook_id": "158401580882385",
+      "instagram_id": 367948073,
+      "twitter": "SenatorWicker",
+      "twitter_id": 264219447,
+      "youtube": "SenatorWicker",
+      "youtube_id": "UCIlKHiTjSkcQP_knBcXHWSg",
+      "instagram": "senatorwicker"
+    },
+    "id": {
+      "bioguide": "W000437",
+      "govtrack": 400432,
+      "thomas": "01226"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepEdWhitfield",
+      "youtube": "WhitfieldKY01",
+      "facebook_id": "91115765425",
+      "twitter": "RepEdWhitfield",
+      "youtube_id": "UCnt-VKq7FFzt3EWoo6mhDoA",
+      "twitter_id": 234906311
+    },
+    "id": {
+      "bioguide": "W000413",
+      "govtrack": 400431,
+      "thomas": "01222"
+    }
+  },
+  {
+    "social": {
+      "facebook": "MaxineWaters",
+      "youtube": "MaxineWaters",
+      "facebook_id": "117483585008",
+      "twitter": "MaxineWaters",
+      "youtube_id": "UCOQ2js1VYFlo74n7Ns8WsLQ",
+      "twitter_id": 36686040
+    },
+    "id": {
+      "bioguide": "W000187",
+      "govtrack": 400422,
+      "thomas": "01205"
+    }
+  },
+  {
+    "social": {
+      "facebook": "chrisvanhollen",
+      "facebook_id": "109304033877",
+      "instagram_id": 268595235,
+      "twitter": "ChrisVanHollen",
+      "twitter_id": 18137749,
+      "youtube": "RepChrisVanHollen",
+      "youtube_id": "UCkpfJWu1N9Okd6PE_NidtBQ",
+      "instagram": "chrisvanhollen"
+    },
+    "id": {
+      "bioguide": "V000128",
+      "govtrack": 400415,
+      "thomas": "01729"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repvisclosky",
+      "youtube": "PeteVisclosky1",
+      "facebook_id": "118723661514709",
+      "twitter": "RepVisclosky",
+      "youtube_id": "UC9njNo6tTComo9Kn7imz7Mg",
+      "twitter_id": 193872188
+    },
+    "id": {
+      "bioguide": "V000108",
+      "govtrack": 400417,
+      "thomas": "01188"
+    }
+  },
+  {
+    "social": {
+      "facebook": "8037068318",
+      "youtube": "nydiavelazquez",
+      "facebook_id": "8037068318",
+      "twitter": "NydiaVelazquez",
+      "youtube_id": "UCqMKPkKeeHFOOiZ9vxhXGVg",
+      "twitter_id": 164369297
+    },
+    "id": {
+      "bioguide": "V000081",
+      "govtrack": 400416,
+      "thomas": "01184"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatortomudall",
+      "youtube": "senatortomudall",
+      "facebook_id": "106433512869",
+      "twitter": "SenatorTomUdall",
+      "youtube_id": "UCADpIVS6bxOcr-uWnJCC9pQ",
+      "twitter_id": 60828944
+    },
+    "id": {
+      "bioguide": "U000039",
+      "govtrack": 400413,
+      "thomas": "01567"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepFredUpton",
+      "youtube": "RepFredUpton",
+      "facebook_id": "212027388827797",
+      "twitter": "RepFredUpton",
+      "youtube_id": "UCsN16IzEo4ViZNEMgeCrQ7w",
+      "twitter_id": 124224165
+    },
+    "id": {
+      "bioguide": "U000031",
+      "govtrack": 400414,
+      "thomas": "01177"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanScottTipton",
+      "youtube": "RepScottTipton",
+      "facebook_id": "191428784201721",
+      "twitter": "RepTipton",
+      "youtube_id": "UCh9ssh1dvzpr1HOWaFm8rcg",
+      "twitter_id": 242873057
+    },
+    "id": {
+      "bioguide": "T000470",
+      "govtrack": 412405,
+      "thomas": "01997"
+    }
+  },
+  {
+    "social": {
+      "facebook": "paul.tonko",
+      "youtube": "reppaultonko",
+      "facebook_id": "30671144824",
+      "twitter": "RepPaulTonko",
+      "youtube_id": "UC3P2SGFmmuCYRsjeso0hOQQ",
+      "twitter_id": 84119348
+    },
+    "id": {
+      "bioguide": "T000469",
+      "govtrack": 412319,
+      "thomas": "01942"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanTitus",
+      "facebook_id": "120660834778561",
+      "instagram_id": 1110185253,
+      "twitter": "RepDinaTitus",
+      "twitter_id": 122174004,
+      "youtube": "CongresswomanTitus",
+      "youtube_id": "UC_US4jNqECuMSNrB7yVCbbw",
+      "instagram": "dinatitusnv"
+    },
+    "id": {
+      "bioguide": "T000468",
+      "govtrack": 412318,
+      "thomas": "01940"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanGT",
+      "youtube": "CongressmanGT",
+      "facebook_id": "14463006747",
+      "twitter": "CongressmanGT",
+      "youtube_id": "UCNWX7lbWWvnNdzVMFI9DRiQ",
+      "twitter_id": 18967498
+    },
+    "id": {
+      "bioguide": "T000467",
+      "govtrack": 412317,
+      "thomas": "01952"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepTsongas",
+      "youtube": "RepTsongas",
+      "facebook_id": "131079823624873",
+      "twitter": "NikiInTheHouse",
+      "youtube_id": "UCVyHRbyMpIF3_Xfl4LzumCA",
+      "twitter_id": 242892689
+    },
+    "id": {
+      "bioguide": "T000465",
+      "govtrack": 412254,
+      "thomas": "01884"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatortester",
+      "youtube": "senatorjontester",
+      "facebook_id": "210573031664",
+      "twitter": "SenatorTester",
+      "youtube_id": "UCgXAF-CON1coZFMxQkfj0fg",
+      "twitter_id": 515822213
+    },
+    "id": {
+      "bioguide": "T000464",
+      "govtrack": 412244,
+      "thomas": "01829"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMikeTurner",
+      "youtube": "CongressmanTurner",
+      "facebook_id": "9275036647",
+      "twitter": "RepMikeTurner",
+      "youtube_id": "UC-6Ss-aZ3OPisf9GdVGtN8g",
+      "twitter_id": 51228911
+    },
+    "id": {
+      "bioguide": "T000463",
+      "govtrack": 400411,
+      "thomas": "01741"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepPatTiberi",
+      "facebook_id": "90452932937",
+      "instagram_id": 1213878120,
+      "twitter": "TiberiPress",
+      "twitter_id": 3145255727,
+      "youtube": "PatTiberi",
+      "youtube_id": "UCr9reyLip23im9SVDJ9IGAg",
+      "instagram": "pattiberi"
+    },
+    "id": {
+      "bioguide": "T000462",
+      "govtrack": 400406,
+      "thomas": "01664"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatortoomey",
+      "youtube": "sentoomey",
+      "facebook_id": "189274047751251",
+      "twitter": "SenToomey",
+      "youtube_id": "UCDUM4FFU1p-_YuHqmBglyXw",
+      "twitter_id": 221162525
+    },
+    "id": {
+      "bioguide": "T000461",
+      "govtrack": 400408,
+      "thomas": "02085"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMikeThompson",
+      "youtube": "CongressmanMThompson",
+      "facebook_id": "7109195747",
+      "twitter": "RepThompson",
+      "youtube_id": "UC6pGbtqHZYZmScFGSz5bbdg",
+      "twitter_id": 303861808
+    },
+    "id": {
+      "bioguide": "T000460",
+      "govtrack": 400403,
+      "thomas": "01593"
+    }
+  },
+  {
+    "social": {
+      "youtube": "johnthune",
+      "twitter": "SenJohnThune",
+      "youtube_id": "UCRu6lpRfxhkDGUrKDgQNZYQ",
+      "twitter_id": 296361085
+    },
+    "id": {
+      "bioguide": "T000250",
+      "govtrack": 400546,
+      "thomas": "01534"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repmacthornberry",
+      "youtube": "RepMacThornberry",
+      "facebook_id": "7760165627",
+      "twitter": "MacTXPress",
+      "youtube_id": "UCIfCqubtIZnQDwDS8YNmL2A",
+      "twitter_id": 377534571
+    },
+    "id": {
+      "bioguide": "T000238",
+      "govtrack": 400404,
+      "thomas": "01155"
+    }
+  },
+  {
+    "social": {
+      "facebook": "7259193379",
+      "facebook_id": "7259193379",
+      "instagram_id": 347410575,
+      "twitter": "BennieGThompson",
+      "twitter_id": 82453460,
+      "youtube": "RepBennieThompson",
+      "youtube_id": "UCzt2pBxh0dI24kYrWretXRw",
+      "instagram": "benniegthompson"
+    },
+    "id": {
+      "bioguide": "T000193",
+      "govtrack": 400402,
+      "thomas": "01151"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepAustinScott",
+      "youtube": "RepAustinScott",
+      "facebook_id": "131177916946914",
+      "twitter": "AustinScottGA08",
+      "youtube_id": "UC5M7eKHKQStktMyjieiHYZQ",
+      "twitter_id": 234797704
+    },
+    "id": {
+      "bioguide": "S001189",
+      "govtrack": 412417,
+      "thomas": "02009"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanMarlinStutzman",
+      "youtube": "repstutzman",
+      "facebook_id": "109067049164902",
+      "twitter": "RepStutzman",
+      "youtube_id": "UC2B2GD4YKasXj4a9Hmbsylw",
+      "twitter_id": 211901075
+    },
+    "id": {
+      "bioguide": "S001188",
+      "govtrack": 412392,
+      "thomas": "01981"
+    }
+  },
+  {
+    "social": {
+      "facebook": "116058275133542",
+      "youtube": "RepSteveStivers",
+      "facebook_id": "116058275133542",
+      "twitter": "RepSteveStivers",
+      "youtube_id": "UCfZrE20pIcR-LeFUV7r2Ixw",
+      "twitter_id": 211420609,
+      "instagram": "RepSteveStivers"
+    },
+    "id": {
+      "bioguide": "S001187",
+      "govtrack": 412461,
+      "thomas": "02047"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSewell",
+      "youtube": "RepSewell",
+      "facebook_id": "117758198297225",
+      "twitter": "RepTerriSewell",
+      "youtube_id": "UCHkEHtfrfUWOFtbUFQTQH7Q",
+      "twitter_id": 381152398
+    },
+    "id": {
+      "bioguide": "S001185",
+      "govtrack": 412396,
+      "thomas": "01988"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorTimScott",
+      "youtube": "SenatorTimScott",
+      "facebook_id": "163207553711385",
+      "twitter": "SenatorTimScott",
+      "youtube_id": "UCSfAsbG80CNInSKrtpKoL-w",
+      "twitter_id": 217543151,
+      "instagram": "SenatorTimScott"
+    },
+    "id": {
+      "bioguide": "S001184",
+      "govtrack": 412471,
+      "thomas": "02056"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repdavidschweikert",
+      "facebook_id": "150338151681908",
+      "instagram_id": 181147397,
+      "twitter": "RepDavid",
+      "twitter_id": 229197216,
+      "youtube": "RepDavidSchweikert",
+      "youtube_id": "UCVvuNVzkOUp7p_Pzkc6Zuvw",
+      "instagram": "repdavid"
+    },
+    "id": {
+      "bioguide": "S001183",
+      "govtrack": 412399,
+      "thomas": "01994"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorShaheen",
+      "youtube": "senatorshaheen",
+      "facebook_id": "127503767282103",
+      "twitter": "SenatorShaheen",
+      "youtube_id": "UCjLZAZMbDrybHyttdEC9LFA",
+      "twitter_id": 109287731
+    },
+    "id": {
+      "bioguide": "S001181",
+      "govtrack": 412323,
+      "thomas": "01901"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repschrader",
+      "youtube": "repkurtschrader",
+      "facebook_id": "94978896695",
+      "twitter": "RepSchrader",
+      "youtube_id": "UCrWRXVaGJtcImc_kknuDsAw",
+      "twitter_id": 20545793
+    },
+    "id": {
+      "bioguide": "S001180",
+      "govtrack": 412315,
+      "thomas": "01950"
+    }
+  },
+  {
+    "social": {
+      "facebook": "153423912663",
+      "facebook_id": "153423912663",
+      "youtube_id": "UC-fbzxBSiC98eAE2goaANVQ",
+      "youtube": "CongressmanSablan"
+    },
+    "id": {
+      "bioguide": "S001177",
+      "govtrack": 412312,
+      "thomas": "01962"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSteveScalise",
+      "facebook_id": "50936151681",
+      "instagram_id": 1210937919,
+      "twitter": "SteveScalise",
+      "twitter_id": 1209417007,
+      "youtube": "RepSteveScalise",
+      "youtube_id": "UCmYveHBVXVBRxl7GiCL-gjw",
+      "instagram": "stevescalise"
+    },
+    "id": {
+      "bioguide": "S001176",
+      "govtrack": 412261,
+      "thomas": "01892"
+    }
+  },
+  {
+    "social": {
+      "facebook": "JackieSpeier",
+      "youtube": "jackiespeierca12",
+      "facebook_id": "99332606976",
+      "twitter": "RepSpeier",
+      "youtube_id": "UCevmyTb0HSO8irVaR2gYyoA",
+      "twitter_id": 24913074
+    },
+    "id": {
+      "bioguide": "S001175",
+      "govtrack": 412259,
+      "thomas": "01890"
+    }
+  },
+  {
+    "social": {
+      "youtube": "RepAdrianSmith",
+      "twitter": "RepAdrianSmith",
+      "youtube_id": "UCIgn2z-hwxx_aeggnyhv54Q",
+      "twitter_id": 296245061
+    },
+    "id": {
+      "bioguide": "S001172",
+      "govtrack": 412217,
+      "thomas": "01860"
+    }
+  },
+  {
+    "social": {
+      "facebook": "81058818750",
+      "youtube": "RepSiresNJ13",
+      "facebook_id": "81058818750",
+      "twitter": "Rep_Albio_Sires",
+      "youtube_id": "UCfdEcWPNGoIxpYoTANF4PBA",
+      "twitter_id": 2193480787
+    },
+    "id": {
+      "bioguide": "S001165",
+      "govtrack": 412186,
+      "thomas": "01818"
+    }
+  },
+  {
+    "social": {
+      "facebook": "113303673339",
+      "youtube": "RepDavidScott",
+      "facebook_id": "113303673339",
+      "twitter": "RepDavidScott",
+      "youtube_id": "UCgf28zRkLSqAUiPuJhGdF0w",
+      "twitter_id": 168673083
+    },
+    "id": {
+      "bioguide": "S001157",
+      "govtrack": 400363,
+      "thomas": "01722"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanLindaSanchez",
+      "youtube": "LindaTSanchez",
+      "facebook_id": "110685735673141",
+      "twitter": "RepLindaSanchez",
+      "youtube_id": "UCu1K6uHxjMgj2mvzM7O9-ow",
+      "twitter_id": 312134473
+    },
+    "id": {
+      "bioguide": "S001156",
+      "govtrack": 400355,
+      "thomas": "01757"
+    }
+  },
+  {
+    "social": {
+      "facebook": "Rep.Shuster",
+      "youtube": "repshuster",
+      "facebook_id": "54386677806",
+      "twitter": "RepBillShuster",
+      "youtube_id": "UCEfLAXoX-pV3ETccADGOdXg",
+      "twitter_id": 22527499
+    },
+    "id": {
+      "bioguide": "S001154",
+      "govtrack": 409888,
+      "thomas": "01681"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepAdamSchiff",
+      "youtube": "adamschiff",
+      "facebook_id": "9086721830",
+      "twitter": "RepAdamSchiff",
+      "youtube_id": "UCadiUi-KZoFk1K5ZDsluLcA",
+      "twitter_id": 29501253
+    },
+    "id": {
+      "bioguide": "S001150",
+      "govtrack": 400361,
+      "thomas": "01635"
+    }
+  },
+  {
+    "social": {
+      "facebook": "96007744606",
+      "youtube": "CongMikeSimpson",
+      "facebook_id": "96007744606",
+      "twitter": "CongMikeSimpson",
+      "youtube_id": "UCNXe0rJJeULTAP_7oyQNw8g",
+      "twitter_id": 76132891
+    },
+    "id": {
+      "bioguide": "S001148",
+      "govtrack": 400376,
+      "thomas": "01590"
+    }
+  },
+  {
+    "social": {
+      "facebook": "janschakowsky",
+      "youtube": "repschakowsky",
+      "facebook_id": "160143957118",
+      "twitter": "JanSchakowsky",
+      "youtube_id": "UCuCHHPSENUEaaeH8n_CYDXQ",
+      "twitter_id": 24195214
+    },
+    "id": {
+      "bioguide": "S001145",
+      "govtrack": 400360,
+      "thomas": "01588"
+    }
+  },
+  {
+    "social": {
+      "facebook": "jeffsessions",
+      "youtube": "SenatorSessions",
+      "facebook_id": "23444159584",
+      "twitter": "SenatorSessions",
+      "youtube_id": "UCd5Nv9gL89TCR03kD2SfaIQ",
+      "twitter_id": 47975734
+    },
+    "id": {
+      "bioguide": "S001141",
+      "govtrack": 300088,
+      "thomas": "01548"
+    }
+  },
+  {
+    "social": {
+      "youtube": "senatorstabenow",
+      "twitter": "SenStabenow",
+      "youtube_id": "UCFoDKCvxSwCUfDv-4Eg4K5A",
+      "twitter_id": 76456274
+    },
+    "id": {
+      "bioguide": "S000770",
+      "govtrack": 300093,
+      "thomas": "01531"
+    }
+  },
+  {
+    "social": {
+      "facebook": "LamarSmithTX21",
+      "youtube": "lamarsmithtexas21",
+      "facebook_id": "107736785195",
+      "twitter": "LamarSmithTX21",
+      "youtube_id": "UCc2q5flh9dSoyg4W9osGW8Q",
+      "twitter_id": 15856366
+    },
+    "id": {
+      "bioguide": "S000583",
+      "govtrack": 400381,
+      "thomas": "01075"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepAdamSmith",
+      "youtube": "CongressmanAdamSmith",
+      "facebook_id": "288586617834523",
+      "twitter": "RepAdamSmith",
+      "youtube_id": "UCcrHso483LOfC6WwDnzAh-g",
+      "twitter_id": 58928690
+    },
+    "id": {
+      "bioguide": "S000510",
+      "govtrack": 400379,
+      "thomas": "01528"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepLouiseSlaughter",
+      "youtube": "louiseslaughter",
+      "facebook_id": "82424647700",
+      "twitter": "LouiseSlaughter",
+      "youtube_id": "UCm9G5-ikIk62LgZxRnlB7fg",
+      "twitter_id": 63169388
+    },
+    "id": {
+      "bioguide": "S000480",
+      "govtrack": 400378,
+      "thomas": "01069"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repshimkus",
+      "youtube": "repshimkus",
+      "facebook_id": "123916254317516",
+      "twitter": "RepShimkus",
+      "youtube_id": "UCVXSvuk-csQRKBI0oPzcEnw",
+      "twitter_id": 15600527
+    },
+    "id": {
+      "bioguide": "S000364",
+      "govtrack": 400373,
+      "thomas": "01527"
+    }
+  },
+  {
+    "social": {
+      "facebook": "63158229861",
+      "youtube": "shermanca27",
+      "facebook_id": "63158229861",
+      "twitter": "BradSherman",
+      "youtube_id": "UCPisrz6-SLwVy2l9Mcy8kug",
+      "twitter_id": 30216513
+    },
+    "id": {
+      "bioguide": "S000344",
+      "govtrack": 400371,
+      "thomas": "01526"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RichardShelby",
+      "youtube": "SenatorRichardShelby",
+      "facebook_id": "50850514797",
+      "twitter": "SenShelby",
+      "youtube_id": "UCyMzDCRZrmhr_OGDjVuAeJw",
+      "twitter_id": 21111098
+    },
+    "id": {
+      "bioguide": "S000320",
+      "govtrack": 300089,
+      "thomas": "01049"
+    }
+  },
+  {
+    "social": {
+      "facebook": "petesessions",
+      "youtube": "PeteSessions",
+      "facebook_id": "367963843082",
+      "twitter": "PeteSessions",
+      "youtube_id": "UCDSBWdAlrCZq2W8P3wR_LCg",
+      "twitter_id": 24735461
+    },
+    "id": {
+      "bioguide": "S000250",
+      "govtrack": 400367,
+      "thomas": "01525"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJoseSerrano",
+      "facebook_id": "273446508512",
+      "instagram_id": 1422526654,
+      "twitter": "RepJoseSerrano",
+      "twitter_id": 33563161,
+      "instagram": "repjoseserrano"
+    },
+    "id": {
+      "bioguide": "S000248",
+      "govtrack": 400366,
+      "thomas": "01042"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSensenbrenner",
+      "youtube": "RepSensenbrenner",
+      "facebook_id": null,
+      "twitter": "JimPressOffice",
+      "youtube_id": "UCUNfNsc2CVsqivJ2wThQF6A",
+      "twitter_id": 851621377
+    },
+    "id": {
+      "bioguide": "S000244",
+      "govtrack": 400365,
+      "thomas": "01041"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanBobbyScott",
+      "facebook_id": "123839200978190",
+      "instagram_id": 1173348983,
+      "twitter": "RepBobbyScott",
+      "twitter_id": 161791703,
+      "youtube": "repbobbyscott",
+      "youtube_id": "UCdNNcpw8arCsUp55JwK_QAA",
+      "instagram": "repbobbyscott"
+    },
+    "id": {
+      "bioguide": "S000185",
+      "govtrack": 400364,
+      "thomas": "01037"
+    }
+  },
+  {
+    "social": {
+      "facebook": "chuckschumer",
+      "youtube": "SenatorSchumer",
+      "facebook_id": "15771239406",
+      "twitter": "SenSchumer",
+      "youtube_id": "UC-ABttxh8uQv_10qmwGaidw",
+      "twitter_id": 17494010
+    },
+    "id": {
+      "bioguide": "S000148",
+      "govtrack": 300087,
+      "thomas": "01036"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatorsanders",
+      "youtube": "senatorsanders",
+      "facebook_id": "9124187907",
+      "twitter": "SenSanders",
+      "youtube_id": "UCD_DaKNac0Ta-2PeHuoQ1uA",
+      "twitter_id": 29442313
+    },
+    "id": {
+      "bioguide": "S000033",
+      "govtrack": 400357,
+      "thomas": "01010"
+    }
+  },
+  {
+    "social": {
+      "facebook": "LorettaSanchez",
+      "youtube": "LorettaSanchezLive",
+      "facebook_id": "90966961167",
+      "twitter": "LorettaSanchez",
+      "youtube_id": "UCsPNjUsu5AvCJnVrdW_XjwA",
+      "twitter_id": 108376246
+    },
+    "id": {
+      "bioguide": "S000030",
+      "govtrack": 400356,
+      "thomas": "01522"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorMarcoRubio",
+      "youtube": "SenatorMarcoRubio",
+      "facebook_id": "178910518800987",
+      "twitter": "SenRubioPress",
+      "youtube_id": "UCh8t7sV_DBKz4A-RkL9feyg",
+      "twitter_id": 229966028
+    },
+    "id": {
+      "bioguide": "R000595",
+      "govtrack": 412491,
+      "thomas": "02084"
+    }
+  },
+  {
+    "social": {
+      "facebook": "dennis.ross.376",
+      "youtube": "RepDennisRoss",
+      "facebook_id": "469477579757018",
+      "twitter": "RepDennisRoss",
+      "youtube_id": "UCSjZ4oRWi_sO-aGM9CUBOJQ",
+      "twitter_id": 33655490
+    },
+    "id": {
+      "bioguide": "R000593",
+      "govtrack": 412411,
+      "thomas": "02003"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepToddRokita",
+      "youtube": "reptoddrokita",
+      "facebook_id": "183180288372896",
+      "twitter": "ToddRokita",
+      "youtube_id": "UCl_wYwGYw1AXiUoqNmwLxzA",
+      "twitter_id": 17544524,
+      "instagram": "RepToddRokita"
+    },
+    "id": {
+      "bioguide": "R000592",
+      "govtrack": 412426,
+      "thomas": "02017"
+    }
+  },
+  {
+    "social": {
+      "facebook": "Representative.Martha.Roby",
+      "youtube": "reproby",
+      "facebook_id": "174519582574426",
+      "twitter": "RepMarthaRoby",
+      "youtube_id": "UCeAWQdcSTlwv2vDGz0TQOxQ",
+      "twitter_id": 224294785
+    },
+    "id": {
+      "bioguide": "R000591",
+      "govtrack": 412394,
+      "thomas": "01986"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepScottRigell",
+      "youtube": "RepScottRigell",
+      "facebook_id": "167851429918010",
+      "twitter": "RepScottRigell",
+      "youtube_id": "UCNAzcysiI-NGAezezWQccRA",
+      "twitter_id": 221793778
+    },
+    "id": {
+      "bioguide": "R000589",
+      "govtrack": 412483,
+      "thomas": "02068"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRichmond",
+      "facebook_id": "197737020257085",
+      "twitter": "RepRichmond",
+      "twitter_id": 267854863
+    },
+    "id": {
+      "bioguide": "R000588",
+      "govtrack": 412432,
+      "thomas": "02023"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanReidRibble",
+      "youtube": "RepRibble",
+      "facebook_id": "157169920997203",
+      "twitter": "RepRibble",
+      "youtube_id": "UCE8Uht2wM9gdVsfniJLeMLw",
+      "twitter_id": 234053893
+    },
+    "id": {
+      "bioguide": "R000587",
+      "govtrack": 412489,
+      "thomas": "02073"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repjimrenacci",
+      "youtube": "repjimrenacci",
+      "facebook_id": "187639524595278",
+      "twitter": "RepJimRenacci",
+      "youtube_id": "UCHTvP1X0dgUU1lrMub4hbLw",
+      "twitter_id": 236916916
+    },
+    "id": {
+      "bioguide": "R000586",
+      "govtrack": 412462,
+      "thomas": "02048"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepTomReed",
+      "youtube": "CongressmanTomReed",
+      "facebook_id": "102449199835273",
+      "twitter": "RepTomReed",
+      "youtube_id": "UC-HFEKIHC7ydVUkxkZOLqTg",
+      "twitter_id": 252819323
+    },
+    "id": {
+      "bioguide": "R000585",
+      "govtrack": 412393,
+      "thomas": "01982"
+    }
+  },
+  {
+    "social": {
+      "facebook": "reptomrooney",
+      "youtube": "CongressmanRooney",
+      "facebook_id": "117697790448",
+      "twitter": "TomRooney",
+      "youtube_id": "UCHuDkMfCK3kmCpso7LyI3zA",
+      "twitter_id": 23970171
+    },
+    "id": {
+      "bioguide": "R000583",
+      "govtrack": 412311,
+      "thomas": "01916"
+    }
+  },
+  {
+    "social": {
+      "facebook": "DrPhilRoe",
+      "youtube": "drphilroe",
+      "facebook_id": "130725126985966",
+      "twitter": "DrPhilRoe",
+      "youtube_id": "UC8muYurPSNO8x2Qqk40mVOA",
+      "twitter_id": 52503751
+    },
+    "id": {
+      "bioguide": "R000582",
+      "govtrack": 412310,
+      "thomas": "01954"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRoskam",
+      "youtube": "RoskamIL06",
+      "facebook_id": "118777661469195",
+      "twitter": "PeterRoskam",
+      "youtube_id": "UCk8IZKV_RC1Wr-dh09kzVTw",
+      "twitter_id": 20015903
+    },
+    "id": {
+      "bioguide": "R000580",
+      "govtrack": 412202,
+      "thomas": "01848"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repdavereichert",
+      "youtube": "repdavereichert",
+      "facebook_id": "91504302598",
+      "twitter": "DaveReichert",
+      "youtube_id": "UC_Qs1fzY8WlHv6wJ1x7Hotg",
+      "twitter_id": 16102244
+    },
+    "id": {
+      "bioguide": "R000578",
+      "govtrack": 400660,
+      "thomas": "01810"
+    }
+  },
+  {
+    "social": {
+      "facebook": "timryan",
+      "youtube": "timryanvision",
+      "facebook_id": "121560497865",
+      "twitter": "RepTimRyan",
+      "youtube_id": "UCjAFlYCheFKjGg_Pxc2VOFA",
+      "twitter_id": 13491312
+    },
+    "id": {
+      "bioguide": "R000577",
+      "govtrack": 400352,
+      "thomas": "01756"
+    }
+  },
+  {
+    "social": {
+      "facebook": "184756771570504",
+      "youtube": "ruppersberger",
+      "facebook_id": "184756771570504",
+      "twitter": "Call_Me_Dutch",
+      "youtube_id": "UCk2S9iSHNpo1E1A7qZ0SPIw",
+      "twitter_id": 305620929
+    },
+    "id": {
+      "bioguide": "R000576",
+      "govtrack": 400349,
+      "thomas": "01728"
+    }
+  },
+  {
+    "social": {
+      "facebook": "171770326187035",
+      "facebook_id": "171770326187035",
+      "instagram_id": 259435765,
+      "twitter": "RepMikeRogersAL",
+      "twitter_id": 33977070,
+      "youtube": "MikeRogersAL03",
+      "youtube_id": "UCH-WUWuY0_dlKwJDSqKTJsg",
+      "instagram": "repmikerogersal"
+    },
+    "id": {
+      "bioguide": "R000575",
+      "govtrack": 400341,
+      "thomas": "01704"
+    }
+  },
+  {
+    "social": {
+      "facebook": "speakerryan",
+      "youtube": "reppaulryan",
+      "facebook_id": "924244934290700",
+      "twitter": "SpeakerRyan",
+      "youtube_id": "UC8nMpZAuz-gitzb2icE15Qw",
+      "twitter_id": 18916432,
+      "instagram": "SpeakerRyan"
+    },
+    "id": {
+      "bioguide": "R000570",
+      "govtrack": 400351,
+      "thomas": "01560"
+    }
+  },
+  {
+    "social": {
+      "facebook": "congressmanbobbyrush",
+      "youtube": "CongressmanRush",
+      "facebook_id": "230753786936538",
+      "twitter": "RepBobbyRush",
+      "youtube_id": "UCbWqxBnS_w_uFTdQAL0YH5g",
+      "twitter_id": 305216911
+    },
+    "id": {
+      "bioguide": "R000515",
+      "govtrack": 400350,
+      "thomas": "01003"
+    }
+  },
+  {
+    "social": {
+      "facebook": "EdRoyce",
+      "youtube": "RepEdRoyce",
+      "facebook_id": "6460640558",
+      "twitter": "RepEdRoyce",
+      "youtube_id": "UC9DUiRouRl6Rz6PEvQ4jRPw",
+      "twitter_id": 246769138
+    },
+    "id": {
+      "bioguide": "R000487",
+      "govtrack": 400348,
+      "thomas": "00998"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRoybalAllard",
+      "youtube": "RepRoybalAllard",
+      "facebook_id": "139773069370563",
+      "twitter": "RepRoybalAllard",
+      "youtube_id": "UC_T_RXWeJ-smmpjdNLOaMcg",
+      "twitter_id": 479872233
+    },
+    "id": {
+      "bioguide": "R000486",
+      "govtrack": 400347,
+      "thomas": "00997"
+    }
+  },
+  {
+    "social": {
+      "facebook": "iroslehtinen",
+      "youtube": "IleanaRosLehtinen",
+      "facebook_id": "286546974761109",
+      "twitter": "RosLehtinen",
+      "youtube_id": "UCf6XrWGZHjC7KgRd9JCAuBA",
+      "twitter_id": 14275291
+    },
+    "id": {
+      "bioguide": "R000435",
+      "govtrack": 400344,
+      "thomas": "00985"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanHalRogers",
+      "youtube": "RepHalRogers",
+      "facebook_id": "6722039085",
+      "twitter": "RepHalRogers",
+      "youtube_id": "UChVFKLZkRoHQDhp4zNvEezQ",
+      "twitter_id": 550401754
+    },
+    "id": {
+      "bioguide": "R000395",
+      "govtrack": 400340,
+      "thomas": "00977"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenPatRoberts",
+      "youtube": "SenPatRoberts",
+      "facebook_id": "205694792808927",
+      "twitter": "SenPatRoberts",
+      "youtube_id": "UCRpswvC8LgxzE9AYSFpqUgw",
+      "twitter_id": 75364211
+    },
+    "id": {
+      "bioguide": "R000307",
+      "govtrack": 300083,
+      "thomas": "00968"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorReid",
+      "youtube": "SenatorReid",
+      "facebook_id": "360249323990357",
+      "twitter": "SenatorReid",
+      "youtube_id": "UCxWLwXTG6_qs8K-68mCySRA",
+      "twitter_id": 16789970
+    },
+    "id": {
+      "bioguide": "R000146",
+      "govtrack": 300082,
+      "thomas": "00952"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenJackReed",
+      "youtube": "SenatorReed",
+      "facebook_id": "213866375370646",
+      "twitter": "SenJackReed",
+      "youtube_id": "UCT_aFVtsjxPwWKfO-PW_hPw",
+      "twitter_id": 486694111
+    },
+    "id": {
+      "bioguide": "R000122",
+      "govtrack": 300081,
+      "thomas": "00949"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CBRangel",
+      "youtube": "RepRangel",
+      "facebook_id": "7390589055",
+      "twitter": "CBRangel",
+      "youtube_id": "UCZwRwdLDW7ksC5tZV1_VUyQ",
+      "twitter_id": 21312077
+    },
+    "id": {
+      "bioguide": "R000053",
+      "govtrack": 400333,
+      "thomas": "00944"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repmikequigley",
+      "facebook_id": "158963645688",
+      "instagram_id": 1403659583,
+      "twitter": "RepMikeQuigley",
+      "twitter_id": 56864092,
+      "youtube": "RepMikeQuigley",
+      "youtube_id": "UCDP13XegdoZ4bxYHxM34yAA",
+      "instagram": "repmikequigley"
+    },
+    "id": {
+      "bioguide": "Q000023",
+      "govtrack": 412331,
+      "thomas": "01967"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorRandPaul",
+      "youtube": "SenatorRandPaul",
+      "facebook_id": "161355253917286",
+      "youtube_id": "UCeM9I-20oWUs8daIIpsNHoQ",
+      "instagram_id": 541357095,
+      "instagram": "senatorrandpaul"
+    },
+    "id": {
+      "bioguide": "P000603",
+      "govtrack": 412492,
+      "thomas": "02082"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanPompeo",
+      "youtube": "congressmanpompeo",
+      "facebook_id": "101965369880683",
+      "twitter": "RepMikePompeo",
+      "youtube_id": "UCHxVnNpdjh6jqutY91ufgUw",
+      "twitter_id": 244268646
+    },
+    "id": {
+      "bioguide": "P000602",
+      "govtrack": 412431,
+      "thomas": "02022"
+    }
+  },
+  {
+    "social": {
+      "facebook": "stevenpalazzo",
+      "youtube": "CongressmanPalazzo",
+      "facebook_id": "186908658003781",
+      "twitter": "CongPalazzo",
+      "youtube_id": "UCtPOy2vRbN2nD8dQPSOTXeA",
+      "twitter_id": 299883942
+    },
+    "id": {
+      "bioguide": "P000601",
+      "govtrack": 412443,
+      "thomas": "02035"
+    }
+  },
+  {
+    "social": {
+      "facebook": "bill.posey15",
+      "youtube": "CongressmanPosey",
+      "facebook_id": "100000080395369",
+      "twitter": "CongBillPosey",
+      "youtube_id": "UCoUwUkDpe1ZYd6tiaZfiMuA",
+      "twitter_id": 25086658
+    },
+    "id": {
+      "bioguide": "P000599",
+      "govtrack": 412309,
+      "thomas": "01915"
+    }
+  },
+  {
+    "social": {
+      "facebook": "jaredpolis",
+      "youtube": "JaredPolis31275",
+      "facebook_id": "53481427529",
+      "twitter": "JaredPolis",
+      "youtube_id": "UCJJ1Ye0mOzqZh1_GErFUISw",
+      "twitter_id": 15361570
+    },
+    "id": {
+      "bioguide": "P000598",
+      "govtrack": 412308,
+      "thomas": "01910"
+    }
+  },
+  {
+    "social": {
+      "facebook": "ChelliePingree",
+      "youtube": "congresswomanpingree",
+      "facebook_id": "91529332807",
+      "twitter": "ChelliePingree",
+      "youtube_id": "UCLKaWFM7I84WcreDRhhhkVg",
+      "twitter_id": 14984637
+    },
+    "id": {
+      "bioguide": "P000597",
+      "govtrack": 412307,
+      "thomas": "01927"
+    }
+  },
+  {
+    "social": {
+      "facebook": "pedropierluisi",
+      "youtube": "PierluisiCongress",
+      "facebook_id": "55139978107",
+      "twitter": "PedroPierluisi",
+      "youtube_id": "UCl4cArGMdko-kRB_7Bay6iA",
+      "twitter_id": 34972633
+    },
+    "id": {
+      "bioguide": "P000596",
+      "govtrack": 412306,
+      "thomas": "01953"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorGaryPeters",
+      "facebook_id": "88851604323",
+      "instagram_id": 1640246681,
+      "twitter": "SenGaryPeters",
+      "twitter_id": 236511574,
+      "youtube": "RepGaryPeters",
+      "youtube_id": "UC7LYNbnKSK2VZqQ98YROWHQ",
+      "instagram": "sengarypeters"
+    },
+    "id": {
+      "bioguide": "P000595",
+      "govtrack": 412305,
+      "thomas": "01929"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanErikPaulsen",
+      "youtube": "reperikpaulsen",
+      "facebook_id": "128558293848160",
+      "twitter": "RepErikPaulsen",
+      "youtube_id": "UC1IOW4Wqox-6gmZbjjGvzLg",
+      "twitter_id": 17513304
+    },
+    "id": {
+      "bioguide": "P000594",
+      "govtrack": 412303,
+      "thomas": "01930"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepPerlmutter",
+      "youtube": "RepPerlmutter",
+      "facebook_id": "86174496459",
+      "twitter": "RepPerlmutter",
+      "youtube_id": "UCJXuMAzxngpEvDdvlE6wS5g",
+      "twitter_id": 20552026
+    },
+    "id": {
+      "bioguide": "P000593",
+      "govtrack": 412192,
+      "thomas": "01835"
+    }
+  },
+  {
+    "social": {
+      "facebook": "106631626049851",
+      "facebook_id": "106631626049851",
+      "instagram_id": 438265816,
+      "twitter": "JudgeTedPoe",
+      "twitter_id": 74198348,
+      "youtube": "CongressmanTedPoe",
+      "youtube_id": "UCGdNUkVP16hOyL-fUDV1Knw",
+      "instagram": "judgetedpoe"
+    },
+    "id": {
+      "bioguide": "P000592",
+      "govtrack": 400652,
+      "thomas": "01802"
+    }
+  },
+  {
+    "social": {
+      "facebook": "reptomprice",
+      "youtube": "RepTomPrice",
+      "facebook_id": "172032960420",
+      "twitter": "RepTomPrice",
+      "youtube_id": "UCFdG6NwEceyorspUdEduBUg",
+      "twitter_id": 6577802
+    },
+    "id": {
+      "bioguide": "P000591",
+      "govtrack": 400626,
+      "thomas": "01778"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepStevePearce",
+      "youtube": "NMStevePearce",
+      "facebook_id": "180280568662135",
+      "twitter": "RepStevePearce",
+      "youtube_id": "UCaT7jt_M86sDK50eaaVsFvQ",
+      "twitter_id": 235271965
+    },
+    "id": {
+      "bioguide": "P000588",
+      "govtrack": 400313,
+      "thomas": "01738"
+    }
+  },
+  {
+    "social": {
+      "youtube": "RepDavidPrice",
+      "twitter": "RepDavidEPrice",
+      "youtube_id": "UCtX7bSXBLF9ge-Q955n5Vqw",
+      "twitter_id": 155669457
+    },
+    "id": {
+      "bioguide": "P000523",
+      "govtrack": 400326,
+      "thomas": "00930"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senrobportman",
+      "facebook_id": "45243961073",
+      "instagram_id": 370356159,
+      "twitter": "SenRobPortman",
+      "twitter_id": 18915145,
+      "youtube": "SenRobPortman",
+      "youtube_id": "UCwunkd8Zs-yAWKQwnwBp7ew",
+      "instagram": "senrobportman"
+    },
+    "id": {
+      "bioguide": "P000449",
+      "govtrack": 400325,
+      "thomas": "00924"
+    }
+  },
+  {
+    "social": {
+      "facebook": "94156528752",
+      "youtube": "congressmanjoepitts",
+      "facebook_id": "94156528752",
+      "twitter": "RepJoePitts",
+      "youtube_id": "UCSFHCnw0q2uDf2gj8TfN3Vg",
+      "twitter_id": 198526130
+    },
+    "id": {
+      "bioguide": "P000373",
+      "govtrack": 400320,
+      "thomas": "01514"
+    }
+  },
+  {
+    "social": {
+      "facebook": "NancyPelosi",
+      "youtube": "nancypelosi",
+      "facebook_id": "86574174383",
+      "twitter": "NancyPelosi",
+      "youtube_id": "UCxPeEcH0xaCK9nBK98EFhDg",
+      "twitter_id": 15764644
+    },
+    "id": {
+      "bioguide": "P000197",
+      "govtrack": 400314,
+      "thomas": "00905"
+    }
+  },
+  {
+    "social": {
+      "facebook": "pascrell",
+      "youtube": "RepPascrell",
+      "facebook_id": "303312929155",
+      "twitter": "BillPascrell",
+      "youtube_id": "UCIy1Ru8oA14aRjpq6L3i-EQ",
+      "twitter_id": 74508260
+    },
+    "id": {
+      "bioguide": "P000096",
+      "govtrack": 400309,
+      "thomas": "01510"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repfrankpallone",
+      "youtube": "repfrankpallone",
+      "facebook_id": "6517277731",
+      "twitter": "FrankPallone",
+      "youtube_id": "UCN0_wn9hs1LI3UKkji2PP2A",
+      "twitter_id": 31801993
+    },
+    "id": {
+      "bioguide": "P000034",
+      "govtrack": 400308,
+      "thomas": "00887"
+    }
+  },
+  {
+    "social": {
+      "facebook": "20718168936",
+      "facebook_id": "20718168936",
+      "twitter": "RepPeteOlson",
+      "twitter_id": 20053279
+    },
+    "id": {
+      "bioguide": "O000168",
+      "govtrack": 412302,
+      "thomas": "01955"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRichNugent",
+      "youtube": "RepRichNugent",
+      "facebook_id": "183541871674897",
+      "twitter": "RepRichNugent",
+      "youtube_id": "UClfwQJ4E_qLsALsI-O5rx3Q",
+      "twitter_id": 236479311
+    },
+    "id": {
+      "bioguide": "N000185",
+      "govtrack": 412409,
+      "thomas": "02001"
+    }
+  },
+  {
+    "social": {
+      "youtube": "RepKristiNoem",
+      "twitter": "RepKristiNoem",
+      "youtube_id": "UCZPzuVONjRwo5TsrKzbYRVA",
+      "twitter_id": 235251868
+    },
+    "id": {
+      "bioguide": "N000184",
+      "govtrack": 412475,
+      "thomas": "02060"
+    }
+  },
+  {
+    "social": {
+      "facebook": "rep.randy.neugebauer",
+      "youtube": "RandyNeugebauer",
+      "facebook_id": "64137294987",
+      "twitter": "RandyNeugebauer",
+      "youtube_id": "UCvuzExkN-z7cnMDPXZCpoLQ",
+      "twitter_id": 34340464
+    },
+    "id": {
+      "bioguide": "N000182",
+      "govtrack": 400441,
+      "thomas": "01758"
+    }
+  },
+  {
+    "social": {
+      "youtube": "RepDevinNunes",
+      "twitter": "Rep_DevinNunes",
+      "youtube_id": "UCtbArL6CmOfFqgmpuRjLp3w",
+      "twitter_id": 344972339
+    },
+    "id": {
+      "bioguide": "N000181",
+      "govtrack": 400297,
+      "thomas": "01710"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepGraceNapolitano",
+      "youtube": "RepGraceNapolitano",
+      "facebook_id": "163108420409412",
+      "twitter": "GraceNapolitano",
+      "youtube_id": "UCPWjmiAIR04oQ8QMoOWcDtA",
+      "twitter_id": 161411080
+    },
+    "id": {
+      "bioguide": "N000179",
+      "govtrack": 400290,
+      "thomas": "01602"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanNorton",
+      "youtube": "EleanorHNorton",
+      "facebook_id": "61731840657",
+      "twitter": "EleanorNorton",
+      "youtube_id": "UChRrAXUGylfxJjbquC6aUjQ",
+      "twitter_id": 23600262
+    },
+    "id": {
+      "bioguide": "N000147",
+      "govtrack": 400295,
+      "thomas": "00868"
+    }
+  },
+  {
+    "social": {
+      "youtube": "senbillnelson",
+      "twitter": "SenBillNelson",
+      "youtube_id": "UC1Iir7_h98mI9-hHzrDJWpw",
+      "twitter_id": 20597460
+    },
+    "id": {
+      "bioguide": "N000032",
+      "govtrack": 300078,
+      "thomas": "00859"
+    }
+  },
+  {
+    "social": {
+      "facebook": "325642654132598",
+      "youtube": "RepRichardENeal",
+      "facebook_id": "325642654132598",
+      "twitter": "RepRichardNeal",
+      "youtube_id": "UCZVtTydu0-MSK6G12GaKA4g",
+      "twitter_id": 442824717
+    },
+    "id": {
+      "bioguide": "N000015",
+      "govtrack": 400291,
+      "thomas": "00854"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanNadler",
+      "youtube": "congressmannadler",
+      "facebook_id": "78291598977",
+      "twitter": "RepJerryNadler",
+      "youtube_id": "UCQKj0qU1e7o2f5ftSh-c9aQ",
+      "twitter_id": 40302336
+    },
+    "id": {
+      "bioguide": "N000002",
+      "govtrack": 400289,
+      "thomas": "00850"
+    }
+  },
+  {
+    "social": {
+      "facebook": "JoeManchinIII",
+      "youtube": "SenatorJoeManchin",
+      "facebook_id": "10150135395755161",
+      "twitter": "Sen_JoeManchin",
+      "youtube_id": "UCGyPK_ye2ptpzQgOjKIn7ag",
+      "twitter_id": 234374703
+    },
+    "id": {
+      "bioguide": "M001183",
+      "govtrack": 412391,
+      "thomas": "01983"
+    }
+  },
+  {
+    "social": {
+      "facebook": "MulvaneySC5",
+      "youtube": "RepMickMulvaney",
+      "facebook_id": "188649667827713",
+      "twitter": "RepMickMulvaney",
+      "youtube_id": "UC9G3WmNenRi-g1zlDMIj4vQ",
+      "twitter_id": 240385577
+    },
+    "id": {
+      "bioguide": "M001182",
+      "govtrack": 412474,
+      "thomas": "02059"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanPatrickMeehan",
+      "youtube": "repmeehan",
+      "facebook_id": "136000283132824",
+      "twitter": "RepMeehan",
+      "youtube_id": "UCfOy3eW-KIg4aI3w_azyY6g",
+      "twitter_id": 248850174
+    },
+    "id": {
+      "bioguide": "M001181",
+      "govtrack": 412466,
+      "thomas": "02052"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMcKinley",
+      "youtube": "RepDavidMcKinley",
+      "facebook_id": "130377260362609",
+      "twitter": "RepMcKinley",
+      "youtube_id": "UCt7BWx4b8ubXa-PneAu103g",
+      "twitter_id": 240427862
+    },
+    "id": {
+      "bioguide": "M001180",
+      "govtrack": 412487,
+      "thomas": "02074"
+    }
+  },
+  {
+    "social": {
+      "facebook": "144408762280226",
+      "facebook_id": "144408762280226",
+      "instagram_id": 1395145806,
+      "twitter": "RepTomMarino",
+      "twitter_id": 240363117,
+      "youtube": "RepMarino",
+      "youtube_id": "UCL8AvZKY5KuPk0T7G0jv7HA",
+      "instagram": "reptommarino"
+    },
+    "id": {
+      "bioguide": "M001179",
+      "govtrack": 412468,
+      "thomas": "02053"
+    }
+  },
+  {
+    "social": {
+      "facebook": "81125319109",
+      "youtube": "McClintockCA04",
+      "facebook_id": "81125319109",
+      "twitter": "RepMcClintock",
+      "youtube_id": "UCMh04KC4LfIzKoXh2Xws_pw",
+      "twitter_id": 50152441
+    },
+    "id": {
+      "bioguide": "M001177",
+      "govtrack": 412295,
+      "thomas": "01908"
+    }
+  },
+  {
+    "social": {
+      "facebook": "jeffmerkley",
+      "facebook_id": "74374931545",
+      "instagram_id": 501463589,
+      "twitter": "SenJeffMerkley",
+      "twitter_id": 29201047,
+      "youtube": "SenatorJeffMerkley",
+      "youtube_id": "UCRoXttCJhMnLVCxCaa6VnNQ",
+      "instagram": "senjeffmerkley"
+    },
+    "id": {
+      "bioguide": "M001176",
+      "govtrack": 412325,
+      "thomas": "01900"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatormccaskill",
+      "facebook_id": "131498087618",
+      "instagram_id": 182810702,
+      "twitter": "McCaskillOffice",
+      "twitter_id": 57065141,
+      "youtube": "SenatorMcCaskill",
+      "youtube_id": "UCnarZ9jmNhI-eDcEPBwqMFw",
+      "instagram": "clairecmc"
+    },
+    "id": {
+      "bioguide": "M001170",
+      "govtrack": 412243,
+      "thomas": "01820"
+    }
+  },
+  {
+    "social": {
+      "facebook": "jerrymcnerney",
+      "youtube": "RepJerryMcNerney",
+      "facebook_id": "215241308510238",
+      "twitter": "RepMcNerney",
+      "youtube_id": "UClUOx6F8GKshxGBUBLkisug",
+      "twitter_id": 385429543
+    },
+    "id": {
+      "bioguide": "M001166",
+      "govtrack": 412189,
+      "thomas": "01832"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanKevinMcCarthy",
+      "youtube": "repkevinmccarthy",
+      "facebook_id": "51052893175",
+      "twitter": "GOPLeader",
+      "youtube_id": "UCdJUZUFSLJRlUpE-91-6DsA",
+      "twitter_id": 19739126,
+      "instagram": "RepKevinMcCarthy"
+    },
+    "id": {
+      "bioguide": "M001165",
+      "govtrack": 412190,
+      "thomas": "01833"
+    }
+  },
+  {
+    "social": {
+      "facebook": "doris.matsui",
+      "youtube": "RepDorisMatsui",
+      "facebook_id": null,
+      "twitter": "DorisMatsui",
+      "youtube_id": "UCSqqxVkvskHq3cY2MCbTZsw",
+      "twitter_id": 38254095
+    },
+    "id": {
+      "bioguide": "M001163",
+      "govtrack": 400663,
+      "thomas": "01814"
+    }
+  },
+  {
+    "social": {
+      "facebook": "GwenSMoore",
+      "youtube": "RepGwenMoore",
+      "facebook_id": "58864029545",
+      "twitter": "RepGwenMoore",
+      "youtube_id": "UCCs9o1XaSsCsqNpO0iO0_Ew",
+      "twitter_id": 22669526
+    },
+    "id": {
+      "bioguide": "M001160",
+      "govtrack": 400661,
+      "thomas": "01811"
+    }
+  },
+  {
+    "social": {
+      "facebook": "mcmorrisrodgers",
+      "youtube": "mcmorrisrodgers",
+      "facebook_id": "321618789771",
+      "twitter": "CathyMcMorris",
+      "youtube_id": "UCRp0lwIxAhq2Ia9_YgRWUkg",
+      "twitter_id": 17976923
+    },
+    "id": {
+      "bioguide": "M001159",
+      "govtrack": 400659,
+      "thomas": "01809"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepKennyMarchant",
+      "youtube": "RepKennyMarchant",
+      "facebook_id": "6349487899",
+      "twitter": "RepKenMarchant",
+      "youtube_id": "UCQpnTMp5TdTRWEes8cjIfyQ",
+      "twitter_id": 23976316
+    },
+    "id": {
+      "bioguide": "M001158",
+      "govtrack": 400656,
+      "thomas": "01806"
+    }
+  },
+  {
+    "social": {
+      "facebook": "michaeltmccaul",
+      "youtube": "MichaelTMcCaul",
+      "facebook_id": "6355254859",
+      "twitter": "RepMcCaul",
+      "youtube_id": "UCRw6sGE0PH7_FCeTT3PQRaA",
+      "twitter_id": 26424123
+    },
+    "id": {
+      "bioguide": "M001157",
+      "govtrack": 400654,
+      "thomas": "01804"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanMcHenry",
+      "facebook_id": "8045519803",
+      "instagram_id": 353406473,
+      "twitter": "PatrickMcHenry",
+      "twitter_id": 27676828,
+      "youtube": "CongressmanMcHenry",
+      "youtube_id": "UCY3PTRhkSH-eoltxPVZKD-w",
+      "instagram": "reppatrickmchenry"
+    },
+    "id": {
+      "bioguide": "M001156",
+      "govtrack": 400644,
+      "thomas": "01792"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenLisaMurkowski",
+      "youtube": "senatormurkowski",
+      "facebook_id": "25271170290",
+      "twitter": "LisaMurkowski",
+      "youtube_id": "UCaigku16AErqvD0wRuwGb9A",
+      "twitter_id": 18061669
+    },
+    "id": {
+      "bioguide": "M001153",
+      "govtrack": 300075,
+      "thomas": "01694"
+    }
+  },
+  {
+    "social": {
+      "facebook": "reptimmurphy",
+      "youtube": "TimMurphyPA18",
+      "facebook_id": "105769762798552",
+      "twitter": "RepTimMurphy",
+      "youtube_id": "UCmMrDji88FxLeqgin2ehA9A",
+      "twitter_id": 117777832
+    },
+    "id": {
+      "bioguide": "M001151",
+      "govtrack": 400285,
+      "thomas": "01744"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanCandiceMiller",
+      "facebook_id": "210401648605",
+      "instagram_id": 360018120,
+      "twitter": "CandiceMiller",
+      "twitter_id": 15281676,
+      "youtube": "candicemi10",
+      "youtube_id": "UCbILX1A8Hj3LiB_g8eZplGg",
+      "instagram": "repcandicemiller"
+    },
+    "id": {
+      "bioguide": "M001150",
+      "govtrack": 400276,
+      "thomas": "01731"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJeffMiller",
+      "facebook_id": "66367876671",
+      "youtube_id": "UCBigiVfkWLGze4x95dQLqoA",
+      "youtube": "RepJeffMiller"
+    },
+    "id": {
+      "bioguide": "M001144",
+      "govtrack": 400279,
+      "thomas": "01685"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repbettymccollum",
+      "facebook_id": "153386471383393",
+      "twitter": "BettyMcCollum04",
+      "twitter_id": 516880804
+    },
+    "id": {
+      "bioguide": "M001143",
+      "govtrack": 400259,
+      "thomas": "01653"
+    }
+  },
+  {
+    "social": {
+      "facebook": "gregorymeeksny05",
+      "youtube": "gwmeeks",
+      "facebook_id": "1557025818",
+      "twitter": "GregoryMeeks",
+      "youtube_id": "UCljJnwgQS6Z6-NypDyqKJZQ",
+      "twitter_id": 22812754
+    },
+    "id": {
+      "bioguide": "M001137",
+      "govtrack": 400271,
+      "thomas": "01506"
+    }
+  },
+  {
+    "social": {
+      "youtube": "SenatorPattyMurray",
+      "twitter_id": 293131808,
+      "twitter": "PattyMurray",
+      "youtube_id": "UCb8jq3TvQ3AzKsexhWfFLoA",
+      "instagram_id": 426137845,
+      "instagram": "senpattymurray"
+    },
+    "id": {
+      "bioguide": "M001111",
+      "govtrack": 300076,
+      "thomas": "01409"
+    }
+  },
+  {
+    "social": {
+      "facebook": "jerrymoran",
+      "facebook_id": "171578807105",
+      "instagram_id": 298271065,
+      "twitter": "JerryMoran",
+      "twitter_id": 18632666,
+      "youtube": "senatorjerrymoran",
+      "youtube_id": "UC1oRxeUPam6-53wPBZ3N02A",
+      "instagram": "senjerrymoran"
+    },
+    "id": {
+      "bioguide": "M000934",
+      "govtrack": 400284,
+      "thomas": "01507"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorMikulski",
+      "youtube": "senatormikulski",
+      "facebook_id": "142890125771427",
+      "twitter": "SenatorBarb",
+      "youtube_id": "UCaR3dD8SdaLMM432QSM5wmw",
+      "twitter_id": 132278386
+    },
+    "id": {
+      "bioguide": "M000702",
+      "govtrack": 300073,
+      "thomas": "00802"
+    }
+  },
+  {
+    "social": {
+      "facebook": "JohnMica",
+      "facebook_id": null,
+      "youtube_id": "UCz0LX75a5nOW-JzZ0OYQLgQ",
+      "youtube": "RepJohnMica"
+    },
+    "id": {
+      "bioguide": "M000689",
+      "govtrack": 400273,
+      "thomas": "00800"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatormenendez",
+      "facebook_id": "349744811357",
+      "instagram_id": 433044338,
+      "twitter": "SenatorMenendez",
+      "twitter_id": 18695134,
+      "youtube": "SenatorMenendezNJ",
+      "youtube_id": "UC0PV0K9Z5a9p3D5917KF5fw",
+      "instagram": "senatormenendez"
+    },
+    "id": {
+      "bioguide": "M000639",
+      "govtrack": 400272,
+      "thomas": "00791"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanJimMcDermott",
+      "youtube": "RepJimMcDermott",
+      "facebook_id": "246418928093",
+      "twitter": "RepJimMcDermott",
+      "youtube_id": "UCaghNJXAOo8VgJMKANvN1dg",
+      "twitter_id": 132201224
+    },
+    "id": {
+      "bioguide": "M000404",
+      "govtrack": 400262,
+      "thomas": "00766"
+    }
+  },
+  {
+    "social": {
+      "facebook": "mitchmcconnell",
+      "facebook_id": null,
+      "twitter": "McConnellPress",
+      "twitter_id": 339822881
+    },
+    "id": {
+      "bioguide": "M000355",
+      "govtrack": 300072,
+      "thomas": "01395"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJimMcGovern",
+      "youtube": "repjimmcgovern",
+      "facebook_id": "148299805224565",
+      "twitter": "RepMcGovern",
+      "youtube_id": "UCpiUqp2ZF64tXqgR_EQo27g",
+      "twitter_id": 242426145
+    },
+    "id": {
+      "bioguide": "M000312",
+      "govtrack": 400263,
+      "thomas": "01504"
+    }
+  },
+  {
+    "social": {
+      "facebook": "johnmccain",
+      "facebook_id": "6425923706",
+      "instagram_id": 44979810,
+      "twitter": "SenJohnMcCain",
+      "twitter_id": 19394188,
+      "youtube": "SenatorJohnMcCain",
+      "youtube_id": "UC9IJssXDUaKHzwx6gW4wEoA",
+      "instagram": "senjohnmccain"
+    },
+    "id": {
+      "bioguide": "M000303",
+      "govtrack": 300071,
+      "thomas": "00754"
+    }
+  },
+  {
+    "social": {
+      "facebook": "EdJMarkey",
+      "youtube": "RepMarkey",
+      "facebook_id": "6846731378",
+      "twitter": "SenMarkey",
+      "youtube_id": "UCT1ujew5yQy2uMhGrjiKHoA",
+      "twitter_id": 3047090620
+    },
+    "id": {
+      "bioguide": "M000133",
+      "govtrack": 400253,
+      "thomas": "00735"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepCarolynMaloney",
+      "facebook_id": "397176447066236",
+      "twitter": "RepMaloney",
+      "twitter_id": 258900199
+    },
+    "id": {
+      "bioguide": "M000087",
+      "govtrack": 400251,
+      "thomas": "00729"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatormikelee",
+      "facebook_id": "178081365556898",
+      "instagram_id": 391361701,
+      "twitter": "SenMikeLee",
+      "twitter_id": 88784440,
+      "youtube": "senatormikelee",
+      "youtube_id": "UCplVxs_j_sLAt0fkplXcl4A",
+      "instagram": "senmikelee"
+    },
+    "id": {
+      "bioguide": "L000577",
+      "govtrack": 412495,
+      "thomas": "02080"
+    }
+  },
+  {
+    "social": {
+      "facebook": "Rep.Billy.Long",
+      "youtube": "MOdistrict7",
+      "facebook_id": "139631049438354",
+      "twitter": "USRepLong",
+      "youtube_id": "UCLQcbyxpHXXAsUJckscQY8g",
+      "twitter_id": 1444015610
+    },
+    "id": {
+      "bioguide": "L000576",
+      "govtrack": 412445,
+      "thomas": "02033"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorLankford",
+      "facebook_id": "130873066975024",
+      "instagram_id": 1552251018,
+      "twitter": "SenatorLankford",
+      "twitter_id": 225921757,
+      "youtube": "SenatorLankford",
+      "youtube_id": "UCz8T6sK5fEycyWmVz6Vpe5Q",
+      "instagram": "senatorlankford"
+    },
+    "id": {
+      "bioguide": "L000575",
+      "govtrack": 412464,
+      "thomas": "02050"
+    }
+  },
+  {
+    "social": {
+      "facebook": "raul.r.labrador",
+      "youtube": "RepLabrador",
+      "facebook_id": "180970951936493",
+      "twitter": "Raul_Labrador",
+      "youtube_id": "UC1KKgNc0j8CoAGnWEJfhxJA",
+      "twitter_id": 246341769
+    },
+    "id": {
+      "bioguide": "L000573",
+      "govtrack": 412419,
+      "thomas": "02011"
+    }
+  },
+  {
+    "social": {
+      "facebook": "152754318103332",
+      "youtube": "CynthiaLummis",
+      "facebook_id": "152754318103332",
+      "twitter": "CynthiaLummis",
+      "youtube_id": "UCUHix8UBq4Ha3LnKPxTtlJw",
+      "twitter_id": 22831059
+    },
+    "id": {
+      "bioguide": "L000571",
+      "govtrack": 412294,
+      "thomas": "01960"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBenRayLujan",
+      "facebook_id": "112962521120",
+      "instagram_id": 1409819789,
+      "twitter": "RepBenRayLujan",
+      "twitter_id": 19318314,
+      "youtube": "Repbenraylujan",
+      "youtube_id": "UCcO5AmF8HuJo4d0awEbst7Q",
+      "instagram": "repbenraylujan"
+    },
+    "id": {
+      "bioguide": "L000570",
+      "govtrack": 412293,
+      "thomas": "01939"
+    }
+  },
+  {
+    "social": {
+      "facebook": "BlaineLuetkemeyer",
+      "youtube": "BLuetkemeyer",
+      "facebook_id": "1358702716",
+      "twitter": "RepBlainePress",
+      "youtube_id": "UCifiiQclKbBBrkSbCnN6REg",
+      "twitter_id": 1849261916
+    },
+    "id": {
+      "bioguide": "L000569",
+      "govtrack": 412292,
+      "thomas": "01931"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanLance",
+      "youtube": "CongressmanLance",
+      "facebook_id": "100830109970339",
+      "twitter": "RepLanceNJ7",
+      "youtube_id": "UCASO5iqjLfU4jo8xKKZIq8g",
+      "twitter_id": 613725908
+    },
+    "id": {
+      "bioguide": "L000567",
+      "govtrack": 412290,
+      "thomas": "01936"
+    }
+  },
+  {
+    "social": {
+      "facebook": "boblatta",
+      "facebook_id": "100000004848334",
+      "instagram_id": 26367713,
+      "twitter": "BobLatta",
+      "twitter_id": 15394954,
+      "youtube": "CongressmanBobLatta",
+      "youtube_id": "UCVSBVHoWu-eWnBBQaMKZ_sQ",
+      "instagram": "boblatta"
+    },
+    "id": {
+      "bioguide": "L000566",
+      "govtrack": 412256,
+      "thomas": "01885"
+    }
+  },
+  {
+    "social": {
+      "facebook": "DaveLoebsack",
+      "youtube": "congressmanloebsack",
+      "facebook_id": "291731316748",
+      "twitter": "DaveLoebsack",
+      "youtube_id": "UC0biZWEJAKHctxbmXfXJnOg",
+      "twitter_id": 510516465
+    },
+    "id": {
+      "bioguide": "L000565",
+      "govtrack": 412209,
+      "thomas": "01846"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanDougLamborn",
+      "youtube": "CongressmanLamborn",
+      "facebook_id": "45059452286",
+      "twitter": "RepDLamborn",
+      "youtube_id": "UCaYsGYMniq4nwBBMKFIwsow",
+      "twitter_id": 584012853
+    },
+    "id": {
+      "bioguide": "L000564",
+      "govtrack": 412191,
+      "thomas": "01834"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repdanlipinski",
+      "youtube": "lipinski03",
+      "facebook_id": "103286879730089",
+      "twitter": "RepLipinski",
+      "youtube_id": "UC4-dyxzIODTMk1-12QPEpoQ",
+      "twitter_id": 1009269193
+    },
+    "id": {
+      "bioguide": "L000563",
+      "govtrack": 400630,
+      "thomas": "01781"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repstephenlynch",
+      "youtube": "RepLynch",
+      "facebook_id": "133720816696865",
+      "twitter": "RepStephenLynch",
+      "youtube_id": "UCxL4zG0YWqC5XTO4af_FOgw",
+      "twitter_id": 310310133
+    },
+    "id": {
+      "bioguide": "L000562",
+      "govtrack": 400249,
+      "thomas": "01686"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRickLarsen",
+      "youtube": "congressmanlarsen",
+      "facebook_id": "135654683137079",
+      "twitter": "RepRickLarsen",
+      "youtube_id": "UCMv7LsJtiyO4AJcbRux5CxQ",
+      "twitter_id": 404132211
+    },
+    "id": {
+      "bioguide": "L000560",
+      "govtrack": 400232,
+      "thomas": "01675"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanJimLangevin",
+      "youtube": "jimlangevin",
+      "facebook_id": "6578978441",
+      "twitter": "JimLangevin",
+      "youtube_id": "UCQ1sth-7umw1k-fSVqdfRTg",
+      "twitter_id": 18909919
+    },
+    "id": {
+      "bioguide": "L000559",
+      "govtrack": 400230,
+      "thomas": "01668"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJohnLarson",
+      "youtube": "RepJohnLarson",
+      "facebook_id": "6352928631",
+      "twitter": "RepJohnLarson",
+      "youtube_id": "UCGPsvFF-9WfpdRSCcCrPLiQ",
+      "twitter_id": 50452197
+    },
+    "id": {
+      "bioguide": "L000557",
+      "govtrack": 400233,
+      "thomas": "01583"
+    }
+  },
+  {
+    "social": {
+      "facebook": "FrankLoBiondo",
+      "youtube": "USRepFrankLoBiondo",
+      "facebook_id": null,
+      "twitter": "RepLoBiondo",
+      "youtube_id": "UCXBUOE1MAEUMNIg67sivY9Q",
+      "twitter_id": 241207373
+    },
+    "id": {
+      "bioguide": "L000554",
+      "govtrack": 400244,
+      "thomas": "00699"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBarbaraLee",
+      "facebook_id": "92190287786",
+      "instagram_id": 1415801245,
+      "twitter": "RepBarbaraLee",
+      "twitter_id": 248735463,
+      "youtube": "RepLee",
+      "youtube_id": "UCnRgK2MXAQOUau0JXqseeNA",
+      "instagram": "repbarbaralee"
+    },
+    "id": {
+      "bioguide": "L000551",
+      "govtrack": 400237,
+      "thomas": "01501"
+    }
+  },
+  {
+    "social": {
+      "facebook": "7872057395",
+      "youtube": "RepFrankLucas",
+      "facebook_id": "7872057395",
+      "twitter": "RepFrankLucas",
+      "youtube_id": "UCdYZbKY8pkWAThqwC3fdVMg",
+      "twitter_id": 242772524
+    },
+    "id": {
+      "bioguide": "L000491",
+      "govtrack": 400247,
+      "thomas": "00711"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepLowey",
+      "youtube": "nitalowey",
+      "facebook_id": "158290607551599",
+      "twitter": "NitaLowey",
+      "youtube_id": "UCkmeBYqhbomcWNNWzQCqcbg",
+      "twitter_id": 221792092
+    },
+    "id": {
+      "bioguide": "L000480",
+      "govtrack": 400246,
+      "thomas": "00709"
+    }
+  },
+  {
+    "social": {
+      "facebook": "zoelofgren",
+      "youtube": "RepZoeLofgren",
+      "facebook_id": "221191600719",
+      "twitter": "RepZoeLofgren",
+      "youtube_id": "UCOaQ79adORFcaTuJZoIFuZQ",
+      "twitter_id": 267938462
+    },
+    "id": {
+      "bioguide": "L000397",
+      "govtrack": 400245,
+      "thomas": "00701"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJohnLewis",
+      "youtube": "repjohnlewis",
+      "facebook_id": "82737208404",
+      "twitter": "RepJohnLewis",
+      "youtube_id": "UC_jpkZzdyGhTBGBZ3UTNwjA",
+      "twitter_id": 29450962,
+      "instagram": "RepJohnLewis"
+    },
+    "id": {
+      "bioguide": "L000287",
+      "govtrack": 400240,
+      "thomas": "00688"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSandyLevin",
+      "youtube": "mi12yes",
+      "facebook_id": "223726364320243",
+      "twitter": "RepSandyLevin",
+      "youtube_id": "UCkVlSO4vhgPTgWYzY29Z7Gg",
+      "twitter_id": 25781141
+    },
+    "id": {
+      "bioguide": "L000263",
+      "govtrack": 400238,
+      "thomas": "00683"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorPatrickLeahy",
+      "youtube": "SenatorPatrickLeahy",
+      "facebook_id": "178569152181267",
+      "twitter": "SenatorLeahy",
+      "youtube_id": "UC46QHVobf7FO-tWehsRoDog",
+      "twitter_id": 242836537
+    },
+    "id": {
+      "bioguide": "L000174",
+      "govtrack": 300065,
+      "thomas": "01383"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepKinzinger",
+      "youtube": "RepAdamKinzinger",
+      "facebook_id": "187811174579106",
+      "twitter": "RepKinzinger",
+      "youtube_id": "UCjDHxyjndxxhjuPWyEBc7UA",
+      "twitter_id": 219429281
+    },
+    "id": {
+      "bioguide": "K000378",
+      "govtrack": 412421,
+      "thomas": "02014"
+    }
+  },
+  {
+    "social": {
+      "facebook": "191056827594903",
+      "youtube": "repmikekelly",
+      "facebook_id": "191056827594903",
+      "twitter": "MikeKellyPA",
+      "youtube_id": "UCoz6u3ooQxoijsWvhoQ0D-A",
+      "twitter_id": 935368364
+    },
+    "id": {
+      "bioguide": "K000376",
+      "govtrack": 412465,
+      "thomas": "02051"
+    }
+  },
+  {
+    "social": {
+      "facebook": "Congressman.Keating",
+      "youtube": "RepBillKeating",
+      "facebook_id": "183092598372008",
+      "twitter": "USRepKeating",
+      "youtube_id": "UC7KPV4xdxO2dms9vl6tETmg",
+      "twitter_id": 232992031
+    },
+    "id": {
+      "bioguide": "K000375",
+      "govtrack": 412435,
+      "thomas": "02025"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repjohnkline",
+      "youtube": "repjohnkline",
+      "facebook_id": "770135879667732",
+      "twitter": "RepJohnKline",
+      "youtube_id": "UCq-OxgMJUAZEGBT8q2JT9NQ",
+      "twitter_id": 76350004
+    },
+    "id": {
+      "bioguide": "K000363",
+      "govtrack": 400224,
+      "thomas": "01733"
+    }
+  },
+  {
+    "social": {
+      "facebook": "stevekingia",
+      "youtube": "stevekingia",
+      "facebook_id": "134325379926458",
+      "twitter": "SteveKingIA",
+      "youtube_id": "UCvdJ--cxsVyght3ZDise0mw",
+      "twitter_id": 48117116
+    },
+    "id": {
+      "bioguide": "K000362",
+      "govtrack": 400220,
+      "thomas": "01724"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorKirk",
+      "facebook_id": "116381528428230",
+      "instagram_id": 413493239,
+      "twitter": "SenatorKirk",
+      "twitter_id": 211588974,
+      "youtube": "SenatorKirk",
+      "youtube_id": "UCJ-pgDYehtW_7VdKtNuv7EA",
+      "instagram": "senatorkirk"
+    },
+    "id": {
+      "bioguide": "K000360",
+      "govtrack": 400222,
+      "thomas": "01647"
+    }
+  },
+  {
+    "social": {
+      "youtube": "RepPeterKing",
+      "twitter": "RepPeteKing",
+      "youtube_id": "UCbyQC19DsAq01oDBfZn_diw",
+      "twitter_id": 18277655
+    },
+    "id": {
+      "bioguide": "K000210",
+      "govtrack": 400219,
+      "thomas": "00635"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repronkind",
+      "youtube": "RepRonKind",
+      "facebook_id": "89152017954",
+      "twitter": "RepRonKind",
+      "youtube_id": "UC0_BilariURHwSHf9baGykg",
+      "twitter_id": 112740986
+    },
+    "id": {
+      "bioguide": "K000188",
+      "govtrack": 400218,
+      "thomas": "01498"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepresentativeMarcyKaptur",
+      "youtube": "USRepMarcyKaptur",
+      "facebook_id": "173753129419169",
+      "twitter": "RepMarcyKaptur",
+      "youtube_id": "UCIJUNf22o09nO02oQPLKQ6w",
+      "twitter_id": 581141508
+    },
+    "id": {
+      "bioguide": "K000009",
+      "govtrack": 400211,
+      "thomas": "00616"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senronjohnson",
+      "youtube": "SenatorRonJohnson",
+      "facebook_id": "186181661410703",
+      "twitter": "SenRonJohnson",
+      "youtube_id": "UCG9XyTVtOAs7VX_q_QVHoaw",
+      "twitter_id": 233737858
+    },
+    "id": {
+      "bioguide": "J000293",
+      "govtrack": 412496,
+      "thomas": "02086"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBillJohnson",
+      "facebook_id": "170477096312258",
+      "instagram_id": 763495818,
+      "twitter": "RepBillJohnson",
+      "twitter_id": 211530910,
+      "youtube": "RepBillJohnson",
+      "youtube_id": "UCtF08Ay71haDRoJosRN2P_Q",
+      "instagram": "repbilljohnson"
+    },
+    "id": {
+      "bioguide": "J000292",
+      "govtrack": 412460,
+      "thomas": "02046"
+    }
+  },
+  {
+    "social": {
+      "facebook": "replynnjenkins",
+      "youtube": "RepLynnJenkins",
+      "facebook_id": "6974973662",
+      "twitter": "RepLynnJenkins",
+      "youtube_id": "UCBW06VosGJtZ_wCyGKET5KQ",
+      "twitter_id": 19658173
+    },
+    "id": {
+      "bioguide": "J000290",
+      "govtrack": 412284,
+      "thomas": "01921"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repjimjordan",
+      "youtube": "RepJimJordan",
+      "facebook_id": "35499336459",
+      "twitter": "Jim_Jordan",
+      "youtube_id": "UCPFBhS00ivPV585GlnNlyqA",
+      "twitter_id": 18166778
+    },
+    "id": {
+      "bioguide": "J000289",
+      "govtrack": 412226,
+      "thomas": "01868"
+    }
+  },
+  {
+    "social": {
+      "facebook": "115356957005",
+      "youtube": "RepHankJohnson",
+      "facebook_id": "115356957005",
+      "twitter": "RepHankJohnson",
+      "youtube_id": "UCqMici9I7nz_i-PN7eSYjwQ",
+      "twitter_id": 24745957
+    },
+    "id": {
+      "bioguide": "J000288",
+      "govtrack": 412199,
+      "thomas": "01843"
+    }
+  },
+  {
+    "social": {
+      "facebook": "15083070102",
+      "youtube": "RepWalterJones",
+      "facebook_id": "15083070102",
+      "twitter": "RepWalterJones",
+      "youtube_id": "UCZdvBD1F5FXAQyJFD2aTiWA",
+      "twitter_id": 26778110
+    },
+    "id": {
+      "bioguide": "J000255",
+      "govtrack": 400209,
+      "thomas": "00612"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSamJohnson",
+      "youtube": "RepSamJohnson",
+      "facebook_id": "52454091867",
+      "twitter": "SamsPressShop",
+      "youtube_id": "UCmzL7gzMX6-bgS9HNt8a8TA",
+      "twitter_id": 249288197
+    },
+    "id": {
+      "bioguide": "J000174",
+      "govtrack": 400206,
+      "thomas": "00603"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanEBJtx30",
+      "youtube": "RepEddieBJohnson",
+      "facebook_id": "84096022067",
+      "twitter": "RepEBJ",
+      "youtube_id": "UCVKp8BtjW708H4eXJJQgUYw",
+      "twitter_id": 168502762
+    },
+    "id": {
+      "bioguide": "J000126",
+      "govtrack": 400204,
+      "thomas": "00599"
+    }
+  },
+  {
+    "social": {
+      "facebook": "169479190984",
+      "youtube": "TX18SJL",
+      "facebook_id": "169479190984",
+      "twitter": "JacksonLeeTX18",
+      "youtube_id": "UCi_S-mOZaEco2Zb9guf_8Iw",
+      "twitter_id": 80612021
+    },
+    "id": {
+      "bioguide": "J000032",
+      "govtrack": 400199,
+      "thomas": "00588"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSteveIsrael",
+      "youtube": "repsteveisrael",
+      "facebook_id": null,
+      "twitter": "RepSteveIsrael",
+      "youtube_id": "UCmhEExgsUcylb_QjqEYfsHg",
+      "twitter_id": 20002401
+    },
+    "id": {
+      "bioguide": "I000057",
+      "govtrack": 400195,
+      "thomas": "01663"
+    }
+  },
+  {
+    "social": {
+      "facebook": "darrellissa",
+      "youtube": "repdarrellissa",
+      "facebook_id": "19463427992",
+      "twitter": "DarrellIssa",
+      "youtube_id": "UCIGKQn89GEpNJ6fDhXGauyw",
+      "twitter_id": 22509548
+    },
+    "id": {
+      "bioguide": "I000056",
+      "govtrack": 400196,
+      "thomas": "01640"
+    }
+  },
+  {
+    "social": {
+      "facebook": "jiminhofe",
+      "youtube": "jiminhofepressoffice",
+      "facebook_id": "55018309421",
+      "twitter": "InhofePress",
+      "youtube_id": "UCk3W3ilX8vGG-300qzNpG7w",
+      "twitter_id": 20546536
+    },
+    "id": {
+      "bioguide": "I000024",
+      "govtrack": 300055,
+      "thomas": "00583"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJaniceHahn",
+      "youtube": "RepJaniceHahn",
+      "facebook_id": "256471267712118",
+      "twitter": "Rep_JaniceHahn",
+      "youtube_id": "UC884guRd5AyTQ9y_GuZ7s9Q",
+      "twitter_id": 339852137
+    },
+    "id": {
+      "bioguide": "H001063",
+      "govtrack": 412498,
+      "thomas": "02089"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorJohnHoeven",
+      "facebook_id": "194483057244478",
+      "instagram_id": 1237544252,
+      "twitter": "SenJohnHoeven",
+      "twitter_id": 382791093,
+      "youtube": "senatorjohnhoevennd",
+      "youtube_id": "UC1kQIC2Q_Fq9_NRqdb6eHiw",
+      "instagram": "senjohnhoeven"
+    },
+    "id": {
+      "bioguide": "H001061",
+      "govtrack": 412494,
+      "thomas": "02079"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRobertHurt",
+      "youtube": "RepRobertHurt",
+      "facebook_id": "120068161395562",
+      "twitter": "RepRobertHurt",
+      "youtube_id": "UCPk3cMrcjfgR9LgQkEuCo7Q",
+      "twitter_id": 234837632
+    },
+    "id": {
+      "bioguide": "H001060",
+      "govtrack": 412484,
+      "thomas": "02069"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepHultgren",
+      "youtube": "rephultgren",
+      "facebook_id": "186221644739359",
+      "twitter": "RepHultgren",
+      "youtube_id": "UCJ6Gvza8hdNmUfoaJEN8dbg",
+      "twitter_id": 237814920
+    },
+    "id": {
+      "bioguide": "H001059",
+      "govtrack": 412422,
+      "thomas": "02015"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepHuizenga",
+      "youtube": "RepHuizenga",
+      "facebook_id": "145764842143763",
+      "twitter": "RepHuizenga",
+      "youtube_id": "UCQPlLLiMnysMmeJ5qUSSjQg",
+      "twitter_id": 233949261
+    },
+    "id": {
+      "bioguide": "H001058",
+      "govtrack": 412437,
+      "thomas": "02028"
+    }
+  },
+  {
+    "social": {
+      "facebook": "congressmanhuelskamp",
+      "youtube": "congressmanhuelskamp",
+      "facebook_id": null,
+      "twitter": "CongHuelskamp",
+      "youtube_id": "UCMMv3kTB9MRVHg8BfgKx6KQ",
+      "twitter_id": 233761277
+    },
+    "id": {
+      "bioguide": "H001057",
+      "govtrack": 412429,
+      "thomas": "02020"
+    }
+  },
+  {
+    "social": {
+      "facebook": "herrerabeutler",
+      "youtube": "RepHerreraBeutler",
+      "facebook_id": "177551525610164",
+      "twitter": "HerreraBeutler",
+      "youtube_id": "UCJEgiA9clfx0amrQUj0aBTQ",
+      "twitter_id": 242926427
+    },
+    "id": {
+      "bioguide": "H001056",
+      "govtrack": 412486,
+      "thomas": "02071"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJoeHeck",
+      "youtube": "repjoeheck",
+      "facebook_id": "155211751194624",
+      "twitter": "RepJoeHeck",
+      "youtube_id": "UC0VvLD0dio-Z8OH_bniqsJA",
+      "twitter_id": 222286905
+    },
+    "id": {
+      "bioguide": "H001055",
+      "govtrack": 412446,
+      "thomas": "02040"
+    }
+  },
+  {
+    "social": {
+      "facebook": "Congresswoman.Hartzler",
+      "facebook_id": "183580061667324",
+      "instagram_id": 787899303,
+      "twitter": "RepHartzler",
+      "twitter_id": 237763317,
+      "youtube": "repvickyhartzler",
+      "youtube_id": "UCAvttUz6qBVEJiFt7p_MZxw",
+      "instagram": "rephartzler"
+    },
+    "id": {
+      "bioguide": "H001053",
+      "govtrack": 412444,
+      "thomas": "02032"
+    }
+  },
+  {
+    "social": {
+      "facebook": "reprichardhanna",
+      "youtube": "reprichardhanna",
+      "facebook_id": "172284859480630",
+      "twitter": "RepRichardHanna",
+      "youtube_id": "UCgfFot8WPIupNxdo8psDbdQ",
+      "twitter_id": 236899846
+    },
+    "id": {
+      "bioguide": "H001051",
+      "govtrack": 412454,
+      "thomas": "02044"
+    }
+  },
+  {
+    "social": {
+      "facebook": "DuncanHunter",
+      "youtube": "CongressmanHunter",
+      "facebook_id": "79072979038",
+      "twitter": "Rep_Hunter",
+      "youtube_id": "UCV9GfB1e4RILcqb_zXYCDSA",
+      "twitter_id": 1305596696
+    },
+    "id": {
+      "bioguide": "H001048",
+      "govtrack": 412283,
+      "thomas": "01909"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanJimHimes",
+      "youtube": "congressmanhimes",
+      "facebook_id": "85767418619",
+      "twitter": "JAHimes",
+      "youtube_id": "UCCeB6czh6nhCHxOMCk_V4yA",
+      "twitter_id": 31611298
+    },
+    "id": {
+      "bioguide": "H001047",
+      "govtrack": 412282,
+      "thomas": "01913"
+    }
+  },
+  {
+    "social": {
+      "facebook": "MartinHeinrich",
+      "facebook_id": "137523189213",
+      "instagram_id": 285288987,
+      "twitter": "MartinHeinrich",
+      "twitter_id": 1099199839,
+      "youtube": "SenMartinHeinrich",
+      "youtube_id": "UCBxh8IK5sMxY0Ln_0G2NYcg",
+      "instagram": "senatormartinheinrich"
+    },
+    "id": {
+      "bioguide": "H001046",
+      "govtrack": 412281,
+      "thomas": "01937"
+    }
+  },
+  {
+    "social": {
+      "facebook": "GreggHarper",
+      "youtube": "congressmanharper",
+      "facebook_id": "48248435938",
+      "twitter": "GreggHarper",
+      "youtube_id": "UC9UIowW9bhstVTiMX8znppQ",
+      "twitter_id": 23712174
+    },
+    "id": {
+      "bioguide": "H001045",
+      "govtrack": 412280,
+      "thomas": "01933"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatorhirono",
+      "youtube": "CongresswomanHirono",
+      "instagram_id": 304094084,
+      "twitter": "MazieHirono",
+      "youtube_id": "UCcoKhxad156flzPYJ8JMFOA",
+      "twitter_id": 92186819,
+      "instagram": "maziehirono"
+    },
+    "id": {
+      "bioguide": "H001042",
+      "govtrack": 412200,
+      "thomas": "01844"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenDeanHeller",
+      "youtube": "SenDeanHeller",
+      "facebook_id": "325751330177",
+      "twitter": "SenDeanHeller",
+      "youtube_id": "UCTS6f940sIirkO6ICyx4ksw",
+      "twitter_id": 266133081
+    },
+    "id": {
+      "bioguide": "H001041",
+      "govtrack": 412218,
+      "thomas": "01863"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBrianHiggins",
+      "youtube": "CongressmanHiggins",
+      "facebook_id": "88144056440",
+      "twitter": "RepBrianHiggins",
+      "youtube_id": "UCSGbv85HaaYYOrPGePtxwag",
+      "twitter_id": 33576489
+    },
+    "id": {
+      "bioguide": "H001038",
+      "govtrack": 400641,
+      "thomas": "01794"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepHensarling",
+      "youtube": "repjebhensarling",
+      "facebook_id": "7875604788",
+      "twitter": "RepHensarling",
+      "youtube_id": "UCjZWXpz6wypzbL8nK0JNEvg",
+      "twitter_id": 18566912
+    },
+    "id": {
+      "bioguide": "H001036",
+      "govtrack": 400175,
+      "thomas": "01749"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMikeHonda",
+      "facebook_id": "15675385380",
+      "instagram_id": 1243895733,
+      "twitter": "RepMikeHonda",
+      "twitter_id": 16583468,
+      "youtube": "RepMikeHonda",
+      "youtube_id": "UC_WqGAzksPJbvjkhlK08xcw",
+      "instagram": "repmikehonda"
+    },
+    "id": {
+      "bioguide": "H001034",
+      "govtrack": 400185,
+      "thomas": "01634"
+    }
+  },
+  {
+    "social": {
+      "facebook": "WhipHoyer",
+      "facebook_id": "282861997886",
+      "instagram_id": 51616645,
+      "twitter": "WhipHoyer",
+      "twitter_id": 22012091,
+      "youtube": "LeaderHoyer",
+      "youtube_id": "UCvxgqX65cdhHNjJn64cgY9g",
+      "instagram": "repstenyhoyer"
+    },
+    "id": {
+      "bioguide": "H000874",
+      "govtrack": 400189,
+      "thomas": "00566"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanRubenHinojosa",
+      "youtube": "RepRubenHinojosa",
+      "facebook_id": "402891225161",
+      "twitter": "USRepRHinojosa",
+      "youtube_id": "UCUsbGRi-OlpTxoucZiQ2xCg",
+      "twitter_id": 239905257
+    },
+    "id": {
+      "bioguide": "H000636",
+      "govtrack": 400179,
+      "thomas": "01490"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatororrinhatch",
+      "twitter_id": 262756641,
+      "twitter": "SenOrrinHatch",
+      "youtube_id": "UCQUPyPV_SR435OsPiFNIWPQ",
+      "youtube": "SenatorOrrinHatch"
+    },
+    "id": {
+      "bioguide": "H000338",
+      "govtrack": 300052,
+      "thomas": "01351"
+    }
+  },
+  {
+    "social": {
+      "facebook": "95696782238",
+      "youtube": "RepAlceeHastings",
+      "facebook_id": "95696782238",
+      "twitter": "RepHastingsFL",
+      "youtube_id": "UCaXXiR3YjMuPIlIGRGNnm8A",
+      "twitter_id": 2433737761
+    },
+    "id": {
+      "bioguide": "H000324",
+      "govtrack": 400170,
+      "thomas": "00511"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMorganGriffith",
+      "youtube": "RepMorganGriffith",
+      "facebook_id": "141893975868919",
+      "twitter": "RepMGriffith",
+      "youtube_id": "UCzxqD7EY_Rdvbc0spbaYkJA",
+      "twitter_id": 234057152
+    },
+    "id": {
+      "bioguide": "G000568",
+      "govtrack": 412485,
+      "thomas": "02070"
+    }
+  },
+  {
+    "social": {
+      "facebook": "143059759084016",
+      "youtube": "TGowdySC",
+      "facebook_id": "143059759084016",
+      "twitter": "TGowdySC",
+      "youtube_id": "UCVvxvugtuNZSygB4z4aVfsg",
+      "twitter_id": 237348797
+    },
+    "id": {
+      "bioguide": "G000566",
+      "govtrack": 412473,
+      "thomas": "02058"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repgosar",
+      "youtube": "repgosar",
+      "facebook_id": "104329699641957",
+      "twitter": "RepGosar",
+      "youtube_id": "UC5orqw_9acsKWSRbrqTDXBw",
+      "twitter_id": 240760644
+    },
+    "id": {
+      "bioguide": "G000565",
+      "govtrack": 412397,
+      "thomas": "01992"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepChrisGibson",
+      "youtube": "repchrisgibson",
+      "facebook_id": "190238567659779",
+      "twitter": "RepChrisGibson",
+      "youtube_id": "UCby83MnVnhenAV8F7vZkf-w",
+      "twitter_id": 234937222
+    },
+    "id": {
+      "bioguide": "G000564",
+      "govtrack": 412453,
+      "thomas": "02043"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBobGibbs",
+      "youtube": "RepBobGibbs",
+      "facebook_id": "191159267565100",
+      "twitter": "RepBobGibbs",
+      "youtube_id": "UC4J-kVbeE32Up-b_wTLEUmA",
+      "twitter_id": 234822928
+    },
+    "id": {
+      "bioguide": "G000563",
+      "govtrack": 412463,
+      "thomas": "02049"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenCoryGardner",
+      "facebook_id": "160924893954206",
+      "instagram_id": 1643152643,
+      "twitter": "SenCoryGardner",
+      "youtube_id": "UC7Vi5vAFb7piu_BNwrYDBxQ",
+      "twitter_id": 235217558,
+      "instagram": "sencorygardner"
+    },
+    "id": {
+      "bioguide": "G000562",
+      "govtrack": 412406,
+      "thomas": "01998"
+    }
+  },
+  {
+    "social": {
+      "facebook": "reptomgraves",
+      "facebook_id": "104548906262119",
+      "instagram_id": 241591770,
+      "twitter": "RepTomGraves",
+      "twitter_id": 190328374,
+      "youtube": "CongressmanGraves",
+      "youtube_id": "UCBxeA4MWCmfUox57bUTEH0g",
+      "instagram": "reptomgraves"
+    },
+    "id": {
+      "bioguide": "G000560",
+      "govtrack": 412388,
+      "thomas": "01979"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repgaramendi",
+      "youtube": "garamendiCA10",
+      "facebook_id": "182567716746",
+      "twitter": "RepGaramendi",
+      "youtube_id": "UCRym1qsO72C39gX6pBu4icg",
+      "twitter_id": 88806753
+    },
+    "id": {
+      "bioguide": "G000559",
+      "govtrack": 412382,
+      "thomas": "01973"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repalgreen",
+      "youtube": "RepAlGreen",
+      "facebook_id": "136237609724391",
+      "twitter": "RepAlGreen",
+      "youtube_id": "UCFtgMZm1YUXaZ8OtOj-GDjA",
+      "twitter_id": 156333623
+    },
+    "id": {
+      "bioguide": "G000553",
+      "govtrack": 400653,
+      "thomas": "01803"
+    }
+  },
+  {
+    "social": {
+      "facebook": "50375006903",
+      "youtube": "GohmertTX01",
+      "facebook_id": "50375006903",
+      "twitter": "RepLouieGohmert",
+      "youtube_id": "UC0HMa6X3iMhMq96kkRLLTog",
+      "twitter_id": 22055226
+    },
+    "id": {
+      "bioguide": "G000552",
+      "govtrack": 400651,
+      "thomas": "01801"
+    }
+  },
+  {
+    "social": {
+      "facebook": "Rep.Grijalva",
+      "youtube": "raulgrijalvaaz07",
+      "facebook_id": "73539896233",
+      "twitter": "RepraulGrijalva",
+      "youtube_id": "UC8JZLnXS21bhNbcvpoM8O7g",
+      "twitter_id": 28602948
+    },
+    "id": {
+      "bioguide": "G000551",
+      "govtrack": 400162,
+      "thomas": "01708"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repscottgarrett",
+      "facebook_id": "6756553401",
+      "instagram_id": 367865919,
+      "twitter": "RepGarrett",
+      "twitter_id": 960696949,
+      "youtube": "repscottgarrett",
+      "youtube_id": "UC5DG4Otnhpd3ZnUiEairZTg",
+      "instagram": "repscottgarrett"
+    },
+    "id": {
+      "bioguide": "G000548",
+      "govtrack": 400145,
+      "thomas": "01737"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepGutierrez",
+      "youtube": "repluisgutierrez",
+      "facebook_id": "91052833204",
+      "twitter": "LuisGutierrez",
+      "youtube_id": "UCLooufcInrRP1FQn_WY9yDA",
+      "twitter_id": 322013313
+    },
+    "id": {
+      "bioguide": "G000535",
+      "govtrack": 400163,
+      "thomas": "00478"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepGeneGreen",
+      "youtube": "RepGeneGreen",
+      "facebook_id": "128735131872",
+      "twitter": "RepGeneGreen",
+      "youtube_id": "UCc6B7e8ontd_yKsPt_6w2oA",
+      "twitter_id": 111635527
+    },
+    "id": {
+      "bioguide": "G000410",
+      "govtrack": 400160,
+      "thomas": "00462"
+    }
+  },
+  {
+    "social": {
+      "facebook": "grassley",
+      "youtube": "senchuckgrassley",
+      "facebook_id": "106480645796",
+      "twitter": "ChuckGrassley",
+      "youtube_id": "UCiCPRkcLMInpDeOqGkMTt4w",
+      "twitter_id": 10615232
+    },
+    "id": {
+      "bioguide": "G000386",
+      "govtrack": 300048,
+      "thomas": "00457"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepKayGranger",
+      "youtube": "RepKayGranger",
+      "facebook_id": "49640749719",
+      "twitter": "RepKayGranger",
+      "youtube_id": "UCsRMtemAkyLh78MPES6gMVQ",
+      "twitter_id": 161743731
+    },
+    "id": {
+      "bioguide": "G000377",
+      "govtrack": 400157,
+      "thomas": "01487"
+    }
+  },
+  {
+    "social": {
+      "facebook": "USSenatorLindseyGraham",
+      "youtube": "USSenLindseyGraham",
+      "facebook_id": "257937783228",
+      "twitter": "GrahamBlog",
+      "youtube_id": "UClLGZMA5Ei2Z8fR1PLEx6yQ",
+      "twitter_id": 14845376
+    },
+    "id": {
+      "bioguide": "G000359",
+      "govtrack": 300047,
+      "thomas": "00452"
+    }
+  },
+  {
+    "social": {
+      "facebook": "BobGoodlatte",
+      "youtube": "RepBobGoodlatte",
+      "facebook_id": "6459789414",
+      "twitter": "RepGoodlatte",
+      "youtube_id": "UCvjZ1XhXidxiyfm2ICEbNKg",
+      "twitter_id": 37920978
+    },
+    "id": {
+      "bioguide": "G000289",
+      "govtrack": 400154,
+      "thomas": "00446"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBillFlores",
+      "youtube": "RepBillFlores",
+      "facebook_id": "146176682102245",
+      "twitter": "RepBillFlores",
+      "youtube_id": "UCA7MgQ_ccBlCqoxV56B6nmA",
+      "twitter_id": 237312687
+    },
+    "id": {
+      "bioguide": "F000461",
+      "govtrack": 412480,
+      "thomas": "02065"
+    }
+  },
+  {
+    "social": {
+      "facebook": "BlakeFarenthold",
+      "youtube": "BlakeFarenthold",
+      "facebook_id": "186894244673001",
+      "twitter": "Farenthold",
+      "youtube_id": "UC-xQNCjaivVnqozyXtjcqww",
+      "twitter_id": 17896154,
+      "instagram": "Farenthold"
+    },
+    "id": {
+      "bioguide": "F000460",
+      "govtrack": 412482,
+      "thomas": "02067"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repchuck",
+      "youtube": "repchuck",
+      "facebook_id": "189998554345168",
+      "twitter": "RepChuck",
+      "youtube_id": "UCTtRrJkM-R-f2K0byCMvHgw",
+      "twitter_id": 235190657
+    },
+    "id": {
+      "bioguide": "F000459",
+      "govtrack": 412476,
+      "thomas": "02061"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepFincherTN08",
+      "youtube": "CongressmanFincher",
+      "facebook_id": "128861763849209",
+      "twitter": "RepFincherTN08",
+      "youtube_id": "UCDOY7qdLPB7nQuQSWrQPalw",
+      "twitter_id": 249219716,
+      "instagram": "RepFincherTN08"
+    },
+    "id": {
+      "bioguide": "F000458",
+      "govtrack": 412479,
+      "thomas": "02064"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repjohnfleming",
+      "youtube": "larep04",
+      "facebook_id": "372154186772",
+      "twitter": "RepFleming",
+      "youtube_id": "UCLr9rukyGH_m3fNkpYc4djg",
+      "twitter_id": 84620376
+    },
+    "id": {
+      "bioguide": "F000456",
+      "govtrack": 412275,
+      "thomas": "01924"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMarciaLFudge",
+      "facebook_id": "279006440801",
+      "instagram_id": 1395168201,
+      "twitter": "RepMarciaFudge",
+      "twitter_id": 153486399,
+      "youtube": "marcialfudge",
+      "youtube_id": "UClmYIIhIcL-WwtBAy1Dhokg",
+      "instagram": "repmarciafudge"
+    },
+    "id": {
+      "bioguide": "F000455",
+      "govtrack": 412327,
+      "thomas": "01895"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepFitzpatrick",
+      "youtube": "RepFitzpatrickPA8",
+      "facebook_id": "132077153521454",
+      "twitter": "RepFitzpatrick",
+      "youtube_id": "UCyhzr8XFw5gpQfDx63YI8_Q",
+      "twitter_id": 237944147
+    },
+    "id": {
+      "bioguide": "F000451",
+      "govtrack": 400646,
+      "thomas": "01797"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepVirginiaFoxx",
+      "youtube": "repvirginiafoxx",
+      "facebook_id": null,
+      "twitter": "VirginiaFoxx",
+      "youtube_id": "UCggineJcxJn80TRXxdQbx6w",
+      "twitter_id": 16256269
+    },
+    "id": {
+      "bioguide": "F000450",
+      "govtrack": 400643,
+      "thomas": "01791"
+    }
+  },
+  {
+    "social": {
+      "facebook": "jefffortenberry",
+      "youtube": "JeffFortenberry",
+      "facebook_id": "48426842354",
+      "twitter": "JeffFortenberry",
+      "youtube_id": "UCbWUvw3gQhbFyJzt1Nh6cAA",
+      "twitter_id": 18805303
+    },
+    "id": {
+      "bioguide": "F000449",
+      "govtrack": 400640,
+      "thomas": "01793"
+    }
+  },
+  {
+    "social": {
+      "facebook": "TrentFranks",
+      "facebook_id": "209486545087",
+      "twitter": "RepTrentFranks",
+      "twitter_id": 24773493
+    },
+    "id": {
+      "bioguide": "F000448",
+      "govtrack": 400141,
+      "thomas": "01707"
+    }
+  },
+  {
+    "social": {
+      "facebook": "randyforbes",
+      "youtube": "RepRandyForbes",
+      "facebook_id": "356330225020",
+      "twitter": "Randy_Forbes",
+      "youtube_id": "UCf1z2I7fvtDFTTiV1962Olw",
+      "twitter_id": 15160884
+    },
+    "id": {
+      "bioguide": "F000445",
+      "govtrack": 400137,
+      "thomas": "01683"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatorjeffflake",
+      "youtube": "flakeoffice",
+      "facebook_id": null,
+      "twitter": "JeffFlake",
+      "youtube_id": "UCPSnRxko_G21KzwgXmOZaeQ",
+      "twitter_id": 16056306
+    },
+    "id": {
+      "bioguide": "F000444",
+      "govtrack": 400134,
+      "thomas": "01633"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatorfeinstein",
+      "youtube": "SenatorFeinstein",
+      "facebook_id": "334887279867783",
+      "twitter": "SenFeinstein",
+      "youtube_id": "UCtVC--6LR0ff2aOP8THpuEw",
+      "twitter_id": 476256944
+    },
+    "id": {
+      "bioguide": "F000062",
+      "govtrack": 300043,
+      "thomas": "01332"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repfattah",
+      "facebook_id": "165961823475034",
+      "instagram_id": 1560430361,
+      "twitter": "ChakaFattah",
+      "twitter_id": 48086014,
+      "youtube": "ChakaFattah",
+      "youtube_id": "UCkTfk-NcVzE1hk-svI6mclw",
+      "instagram": "chakafattah"
+    },
+    "id": {
+      "bioguide": "F000043",
+      "govtrack": 400130,
+      "thomas": "00371"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSamFarr",
+      "youtube": "CongressmanSamFarr",
+      "facebook_id": "7018136294",
+      "twitter": "RepSamFarr",
+      "youtube_id": "UCoSsBwU28xzKM8lKeeHXEzQ",
+      "twitter_id": 158398519,
+      "instagram": "RepSamFarr"
+    },
+    "id": {
+      "bioguide": "F000030",
+      "govtrack": 400129,
+      "thomas": "00368"
+    }
+  },
+  {
+    "social": {
+      "facebook": "reneeellmers",
+      "youtube": "repreneeellmers",
+      "facebook_id": "167641493275000",
+      "twitter": "RepReneeEllmers",
+      "youtube_id": "UCHlEm6WDK8UWn5STL_fZm_g",
+      "twitter_id": 213634439
+    },
+    "id": {
+      "bioguide": "E000291",
+      "govtrack": 412457,
+      "thomas": "02036"
+    }
+  },
+  {
+    "social": {
+      "facebook": "107297211756",
+      "youtube": "RepDonnaFEdwards",
+      "facebook_id": "107297211756",
+      "twitter": "RepDonnaEdwards",
+      "youtube_id": "UCIz4aCNtg77Cg9U8v0JRCBA",
+      "twitter_id": 82649553
+    },
+    "id": {
+      "bioguide": "E000290",
+      "govtrack": 412263,
+      "thomas": "01894"
+    }
+  },
+  {
+    "social": {
+      "facebook": "Keith.Ellison",
+      "youtube": "RepKeithEllison",
+      "facebook_id": "7997462059",
+      "twitter": "KeithEllison",
+      "youtube_id": "UCR_QMi3wGy7xPUZxaIRi9QA",
+      "twitter_id": 14135426
+    },
+    "id": {
+      "bioguide": "E000288",
+      "govtrack": 412215,
+      "thomas": "01857"
+    }
+  },
+  {
+    "social": {
+      "facebook": "mikeenzi",
+      "youtube": "senatorenzi",
+      "facebook_id": "23068049436",
+      "twitter": "SenatorEnzi",
+      "youtube_id": "UCipEXEDAKVPj_B0cQjaikEA",
+      "twitter_id": 291756142
+    },
+    "id": {
+      "bioguide": "E000285",
+      "govtrack": 300041,
+      "thomas": "01542"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepAnnaEshoo",
+      "youtube": "RepAnnaEshoo",
+      "facebook_id": "174979964227",
+      "twitter": "RepAnnaEshoo",
+      "youtube_id": "UCjRvhco2d59GBgA78IIIaYQ",
+      "twitter_id": 249348006,
+      "instagram": "RepAnnaEshoo"
+    },
+    "id": {
+      "bioguide": "E000215",
+      "govtrack": 400124,
+      "thomas": "00355"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepEliotLEngel",
+      "youtube": "engel2161",
+      "facebook_id": "103355984852",
+      "twitter": "RepEliotEngel",
+      "youtube_id": "UCZ-ctBF-a6CYPJWDoBV_JyA",
+      "twitter_id": 164007407
+    },
+    "id": {
+      "bioguide": "E000179",
+      "govtrack": 400122,
+      "thomas": "00344"
+    }
+  },
+  {
+    "social": {
+      "facebook": "ScottDesJarlaisTN04",
+      "facebook_id": null,
+      "instagram_id": 260930821,
+      "twitter": "DesJarlaisTN04",
+      "twitter_id": 235312723,
+      "youtube": "ScottDesJarlaisTN04",
+      "youtube_id": "UCvjuSLoi3hS0ECQvJLhwOkA",
+      "instagram": "desjarlaistn04"
+    },
+    "id": {
+      "bioguide": "D000616",
+      "govtrack": 412477,
+      "thomas": "02062"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJeffDuncan",
+      "facebook_id": "187268144624279",
+      "instagram_id": 382897929,
+      "twitter": "RepJeffDuncan",
+      "twitter_id": 240393970,
+      "youtube": "congjeffduncan",
+      "youtube_id": "UC1tuXL6ymImdpKYGEAH83QA",
+      "instagram": "repjeffduncan"
+    },
+    "id": {
+      "bioguide": "D000615",
+      "govtrack": 412472,
+      "thomas": "02057"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSeanDuffy",
+      "facebook_id": "119657691436457",
+      "instagram_id": 367550700,
+      "twitter": "RepSeanDuffy",
+      "twitter_id": 234022257,
+      "youtube": "RepSeanDuffy",
+      "youtube_id": "UChq-eV2HnV7Kr2zmj0yua7g",
+      "instagram": "repseanduffy"
+    },
+    "id": {
+      "bioguide": "D000614",
+      "govtrack": 412488,
+      "thomas": "02072"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJeffDenham",
+      "facebook_id": "133714040028137",
+      "instagram_id": 380008060,
+      "twitter": "RepJeffDenham",
+      "twitter_id": 248699486,
+      "youtube": "repjeffdenham",
+      "youtube_id": "UCm59PEM_tgTvhm5-wIfnrRg",
+      "instagram": "repjeffdenham"
+    },
+    "id": {
+      "bioguide": "D000612",
+      "govtrack": 412403,
+      "thomas": "01995"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanTedDeutch",
+      "youtube": "congressmanteddeutch",
+      "facebook_id": "112179098816942",
+      "twitter": "RepTedDeutch",
+      "youtube_id": "UC1JlTLRUDkzhM2htvI9QJTA",
+      "twitter_id": 137794015
+    },
+    "id": {
+      "bioguide": "D000610",
+      "govtrack": 412385,
+      "thomas": "01976"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatordonnelly",
+      "facebook_id": "168059529893610",
+      "instagram_id": 280911627,
+      "twitter": "SenDonnelly",
+      "twitter_id": 216503958,
+      "youtube": "sendonnelly",
+      "youtube_id": "UC7H5Lz0BUaTRlWXk9QsIwsg",
+      "instagram": "sendonnelly"
+    },
+    "id": {
+      "bioguide": "D000607",
+      "govtrack": 412205,
+      "thomas": "01850"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanDent",
+      "facebook_id": "69862092533",
+      "youtube_id": "UCoC_r0R2M_74UVrH4A44awQ",
+      "youtube": "CongressmanDent"
+    },
+    "id": {
+      "bioguide": "D000604",
+      "govtrack": 400648,
+      "thomas": "01799"
+    }
+  },
+  {
+    "social": {
+      "facebook": "mdiazbalart",
+      "facebook_id": "119538428117878",
+      "instagram_id": 316477657,
+      "twitter": "MarioDB",
+      "twitter_id": 37094727,
+      "youtube": "MarioDiazBalart",
+      "youtube_id": "UCpEEd0Plxx5D78pI4a4mFTQ",
+      "instagram": "repmariodb"
+    },
+    "id": {
+      "bioguide": "D000600",
+      "govtrack": 400108,
+      "thomas": "01717"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorDurbin",
+      "youtube": "SenatorDurbin",
+      "facebook_id": "180436795325335",
+      "twitter": "SenatorDurbin",
+      "youtube_id": "UCkbixlNCxcKAffEhe3X5-lw",
+      "twitter_id": 247334603
+    },
+    "id": {
+      "bioguide": "D000563",
+      "govtrack": 300038,
+      "thomas": "00326"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanDuncan",
+      "youtube": "RepJohnDuncan",
+      "facebook_id": "102385999834718",
+      "twitter": "RepJohnDuncanJr",
+      "youtube_id": "UCCpcKqQfp9gVkeD1t7uYLKQ",
+      "twitter_id": 1883356866
+    },
+    "id": {
+      "bioguide": "D000533",
+      "govtrack": 400116,
+      "thomas": "00322"
+    }
+  },
+  {
+    "social": {
+      "facebook": "usrepmikedoyle",
+      "youtube": "CongressmanDoyle",
+      "facebook_id": "79663724861",
+      "twitter": "USRepMikeDoyle",
+      "youtube_id": "UCni9vINmgerEeVXhKCC9qbA",
+      "twitter_id": 39249305
+    },
+    "id": {
+      "bioguide": "D000482",
+      "govtrack": 400114,
+      "thomas": "00316"
+    }
+  },
+  {
+    "social": {
+      "facebook": "lloyddoggett",
+      "youtube": "doggett",
+      "facebook_id": "154050553704",
+      "twitter": "RepLloydDoggett",
+      "youtube_id": "UCN-kiLKyHPcfRVZ28sAHS_g",
+      "twitter_id": 153944899
+    },
+    "id": {
+      "bioguide": "D000399",
+      "govtrack": 400111,
+      "thomas": "00303"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanRosaDeLauro",
+      "youtube": "rosadelauro",
+      "facebook_id": "181302611907634",
+      "twitter": "RosaDeLauro",
+      "youtube_id": "UC9ROfGBm7kSLCEDYwFF6McQ",
+      "twitter_id": 140519774
+    },
+    "id": {
+      "bioguide": "D000216",
+      "govtrack": 400103,
+      "thomas": "00281"
+    }
+  },
+  {
+    "social": {
+      "facebook": "DianaDeGette",
+      "youtube": "RepDianaDeGette",
+      "facebook_id": "110757973488",
+      "twitter": "RepDianaDeGette",
+      "youtube_id": "UCWFQCRTHwsHg9P1Hf-EQtew",
+      "twitter_id": 28599820
+    },
+    "id": {
+      "bioguide": "D000197",
+      "govtrack": 400101,
+      "thomas": "01479"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepPeterDeFazio",
+      "youtube": "PeterDeFazio",
+      "facebook_id": "94324364811",
+      "twitter": "RepPeterDeFazio",
+      "youtube_id": "UCIF3HunhsVgTv7L2grnq2Rg",
+      "twitter_id": 252249233
+    },
+    "id": {
+      "bioguide": "D000191",
+      "govtrack": 400100,
+      "thomas": "00279"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatorchriscoons",
+      "facebook_id": "254950754518205",
+      "instagram_id": 25194715,
+      "twitter": "SenCoonsOffice",
+      "twitter_id": 435500714,
+      "youtube": "senatorchriscoons",
+      "youtube_id": "UC2lOVbsddn1HIkcDnmCw6tA",
+      "instagram": "senatorchriscoons"
+    },
+    "id": {
+      "bioguide": "C001088",
+      "govtrack": 412390,
+      "thomas": "01984"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRickCrawford",
+      "facebook_id": "143344975723788",
+      "instagram_id": 389864684,
+      "twitter": "RepRickCrawford",
+      "twitter_id": 233693291,
+      "youtube": "RepRickCrawford",
+      "youtube_id": "UCLKAkVl4BHRK73lmDiIgPYg",
+      "instagram": "reprickcrawford"
+    },
+    "id": {
+      "bioguide": "C001087",
+      "govtrack": 412400,
+      "thomas": "01989"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanDavidCicilline",
+      "youtube": "RepDavidCicilline",
+      "facebook_id": "186949061341027",
+      "twitter": "RepCicilline",
+      "youtube_id": "UC3sCl46o8hYP69LnidNltuw",
+      "twitter_id": 462143773
+    },
+    "id": {
+      "bioguide": "C001084",
+      "govtrack": 412470,
+      "thomas": "02055"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJudyChu",
+      "youtube": "RepJudyChu",
+      "facebook_id": "41228315130",
+      "twitter": "RepJudyChu",
+      "youtube_id": "UCfcbYOvdEXZNelM8T05nK-w",
+      "twitter_id": 193732179
+    },
+    "id": {
+      "bioguide": "C001080",
+      "govtrack": 412379,
+      "thomas": "01970"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanGerryConnolly",
+      "youtube": "repconnolly",
+      "facebook_id": "177164035838",
+      "twitter": "GerryConnolly",
+      "youtube_id": "UC4WG9PlmoOeSLIuyVjs-RSA",
+      "twitter_id": 78445977
+    },
+    "id": {
+      "bioguide": "C001078",
+      "govtrack": 412272,
+      "thomas": "01959"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repmikecoffman",
+      "youtube": "CongressmanCoffman",
+      "facebook_id": "366142384492",
+      "twitter": "RepMikeCoffman",
+      "youtube_id": "UCBCe9Os3VRutyBw3aLhYq5g",
+      "twitter_id": 19407835
+    },
+    "id": {
+      "bioguide": "C001077",
+      "govtrack": 412271,
+      "thomas": "01912"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanJasonChaffetz",
+      "facebook_id": "390419731073316",
+      "instagram_id": 217804604,
+      "twitter": "JasonInTheHouse",
+      "twitter_id": 17800215,
+      "youtube": "JasonChaffetz",
+      "youtube_id": "UCPRdJWDBUYfZaMYaPQfoNnQ",
+      "instagram": "jasoninthehouse"
+    },
+    "id": {
+      "bioguide": "C001076",
+      "govtrack": 412270,
+      "thomas": "01956"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanAndreCarson",
+      "youtube": "repandrecarson",
+      "facebook_id": "123884330964019",
+      "twitter": "RepAndreCarson",
+      "youtube_id": "UCprUnnEgM2VUGmAKSaZXCSw",
+      "twitter_id": 199325935
+    },
+    "id": {
+      "bioguide": "C001072",
+      "govtrack": 412258,
+      "thomas": "01889"
+    }
+  },
+  {
+    "social": {
+      "facebook": "bobcorker",
+      "facebook_id": "109251415789533",
+      "instagram_id": 390025816,
+      "twitter": "SenBobCorker",
+      "twitter_id": 73303753,
+      "youtube": "senatorcorker",
+      "youtube_id": "UCm7if_szz7DxfcdYGrywHSA",
+      "instagram": "senbobcorker"
+    },
+    "id": {
+      "bioguide": "C001071",
+      "govtrack": 412248,
+      "thomas": "01825"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorBobCasey",
+      "youtube": "SenatorBobCasey",
+      "facebook_id": "107749545944874",
+      "twitter": "SenBobCasey",
+      "youtube_id": "UCtVssXhx-KuZa-hSvnsnJ0A",
+      "twitter_id": 171598736
+    },
+    "id": {
+      "bioguide": "C001070",
+      "govtrack": 412246,
+      "thomas": "01828"
+    }
+  },
+  {
+    "social": {
+      "facebook": "joecourtney",
+      "youtube": "repcourtney",
+      "facebook_id": "330408799230",
+      "twitter": "RepJoeCourtney",
+      "youtube_id": "UCGVIfe1T2hO1Lx7ap5Wkv1w",
+      "twitter_id": 85396297
+    },
+    "id": {
+      "bioguide": "C001069",
+      "govtrack": 412193,
+      "thomas": "01836"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanSteveCohen",
+      "youtube": "repcohen",
+      "facebook_id": "111456965545421",
+      "twitter": "RepCohen",
+      "youtube_id": "UC_NJlnsOBjOameUwZk0rvsA",
+      "twitter_id": 162069635
+    },
+    "id": {
+      "bioguide": "C001068",
+      "govtrack": 412236,
+      "thomas": "01878"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repyvettedclarke",
+      "youtube": "repyvetteclarke",
+      "facebook_id": "135031389892682",
+      "twitter": "YvetteClarke",
+      "youtube_id": "UC8SuQiuL2P9fUHAxuRoTdUQ",
+      "twitter_id": 240812994
+    },
+    "id": {
+      "bioguide": "C001067",
+      "govtrack": 412221,
+      "thomas": "01864"
+    }
+  },
+  {
+    "social": {
+      "facebook": "152569121550",
+      "youtube": "henrycuellar",
+      "facebook_id": "152569121550",
+      "twitter": "RepCuellar",
+      "youtube_id": "UCVgEOdJx3tyILO9EjZ-heEQ",
+      "twitter_id": 210926192
+    },
+    "id": {
+      "bioguide": "C001063",
+      "govtrack": 400657,
+      "thomas": "01807"
+    }
+  },
+  {
+    "social": {
+      "facebook": "mike.conaway",
+      "youtube": "mikeconaway11",
+      "facebook_id": "203482063021985",
+      "twitter": "ConawayTX11",
+      "youtube_id": "UCR3dhwhVfxmmqv6ct2Xa1-g",
+      "twitter_id": 295685416
+    },
+    "id": {
+      "bioguide": "C001062",
+      "govtrack": 400655,
+      "thomas": "01805"
+    }
+  },
+  {
+    "social": {
+      "facebook": "emanuelcleaverii",
+      "youtube": "repcleaver",
+      "facebook_id": "7954512692",
+      "twitter": "RepCleaver",
+      "youtube_id": "UCVC-7CLFjXczoihr5FxDLsw",
+      "twitter_id": 163570705
+    },
+    "id": {
+      "bioguide": "C001061",
+      "govtrack": 400639,
+      "thomas": "01790"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJimCosta",
+      "twitter": "RepJimCosta",
+      "youtube": "RepJimCostaCA20",
+      "twitter_id": 245451804,
+      "youtube_id": "UCVgXX23eJEai6GiBOKO6dvA"
+    },
+    "id": {
+      "bioguide": "C001059",
+      "govtrack": 400618,
+      "thomas": "01774"
+    }
+  },
+  {
+    "social": {
+      "facebook": "sen.johncornyn",
+      "youtube": "senjohncornyn",
+      "facebook_id": "75755694423",
+      "twitter": "JohnCornyn",
+      "youtube_id": "UCyQwLQavlOaJ64YuY_VMtiQ",
+      "twitter_id": 13218102
+    },
+    "id": {
+      "bioguide": "C001056",
+      "govtrack": 300027,
+      "thomas": "01692"
+    }
+  },
+  {
+    "social": {
+      "facebook": "TomColeOK04",
+      "youtube": "reptomcole",
+      "facebook_id": "146497782066300",
+      "twitter": "TomColeOK04",
+      "youtube_id": "UCvqzPm_YnNkfEHpm3SEMJMQ",
+      "twitter_id": 23124635,
+      "instagram": "TomColeOK04"
+    },
+    "id": {
+      "bioguide": "C001053",
+      "govtrack": 400077,
+      "thomas": "01742"
+    }
+  },
+  {
+    "social": {
+      "facebook": "judgecarter",
+      "facebook_id": "1287257083",
+      "instagram_id": 456560563,
+      "twitter": "JudgeCarter",
+      "twitter_id": 18030431,
+      "youtube": "repjohncarter",
+      "youtube_id": "UC9pkaOrhPfouzkJ8oAdI-1w",
+      "instagram": "repcarter"
+    },
+    "id": {
+      "bioguide": "C001051",
+      "govtrack": 400068,
+      "thomas": "01752"
+    }
+  },
+  {
+    "social": {
+      "facebook": "109135405838588",
+      "facebook_id": "109135405838588",
+      "youtube_id": "UCB3yVQzlxhx3brOwaWtiXoQ",
+      "youtube": "WilliamLacyClay"
+    },
+    "id": {
+      "bioguide": "C001049",
+      "govtrack": 400074,
+      "thomas": "01654"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanCulberson",
+      "youtube": "johnculbersontx07",
+      "facebook_id": "1751723339",
+      "twitter": "CongCulberson",
+      "youtube_id": "UCv9NX2RA2jQQniHohgqy_KQ",
+      "twitter_id": 24183358
+    },
+    "id": {
+      "bioguide": "C001048",
+      "govtrack": 400089,
+      "thomas": "01670"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senshelley",
+      "facebook_id": "8057864757",
+      "instagram_id": 1640447624,
+      "twitter": "SenCapito",
+      "twitter_id": 193794406,
+      "youtube": "UCbiXdR4XQ3vD9Xp5lfR9QXw",
+      "youtube_id": "UCbiXdR4XQ3vD9Xp5lfR9QXw",
+      "instagram": "sencapito"
+    },
+    "id": {
+      "bioguide": "C001047",
+      "govtrack": 400061,
+      "thomas": "01676"
+    }
+  },
+  {
+    "social": {
+      "facebook": "200388204657",
+      "youtube": "RepAnderCrenshaw",
+      "facebook_id": "200388204657",
+      "twitter": "AnderCrenshaw",
+      "youtube_id": "UCr3i3We3fsHJdUufmqDL7_w",
+      "twitter_id": 20209807
+    },
+    "id": {
+      "bioguide": "C001045",
+      "govtrack": 400086,
+      "thomas": "01643"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repjoecrowley",
+      "youtube": "RepJoeCrowley",
+      "facebook_id": "176197712425090",
+      "twitter": "RepJoeCrowley",
+      "youtube_id": "UCni23wivejzkS9G1L_XEBQw",
+      "twitter_id": 111635980
+    },
+    "id": {
+      "bioguide": "C001038",
+      "govtrack": 400087,
+      "thomas": "01604"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMichaelCapuano",
+      "facebook_id": "151168844937573",
+      "youtube_id": "UCvzAdbimlJksgZjEMQn0kuw",
+      "youtube": "RepMikeCapuano"
+    },
+    "id": {
+      "bioguide": "C001037",
+      "govtrack": 400063,
+      "thomas": "01564"
+    }
+  },
+  {
+    "social": {
+      "facebook": "loiscapps",
+      "youtube": "reploiscapps",
+      "facebook_id": "168989481141",
+      "twitter": "RepLoisCapps",
+      "youtube_id": "UClsN2ngC28cgeqAY7mW1qKQ",
+      "twitter_id": 292990703
+    },
+    "id": {
+      "bioguide": "C001036",
+      "govtrack": 400062,
+      "thomas": "01471"
+    }
+  },
+  {
+    "social": {
+      "facebook": "susancollins",
+      "youtube": "SenatorSusanCollins",
+      "facebook_id": "7593313361",
+      "twitter": "SenatorCollins",
+      "youtube_id": "UC6GYaBx5kT2r4PN8KENxC-w",
+      "twitter_id": 19726613
+    },
+    "id": {
+      "bioguide": "C001035",
+      "govtrack": 300025,
+      "thomas": "01541"
+    }
+  },
+  {
+    "social": {
+      "facebook": "elijahcummings",
+      "youtube": "ElijahECummings",
+      "facebook_id": "291368465380",
+      "twitter": "RepCummings",
+      "youtube_id": "UCMasH4jR80RdkqyuF0neFZg",
+      "twitter_id": 787373558
+    },
+    "id": {
+      "bioguide": "C000984",
+      "govtrack": 400090,
+      "thomas": "00256"
+    }
+  },
+  {
+    "social": {
+      "facebook": "mikecrapo",
+      "facebook_id": "80335332266",
+      "instagram_id": 329357214,
+      "twitter": "MikeCrapo",
+      "twitter_id": 600463589,
+      "youtube": "senatorcrapo",
+      "youtube_id": "UCMHzKHg1BE7dEcFjnayw1lA",
+      "instagram": "mikecrapo"
+    },
+    "id": {
+      "bioguide": "C000880",
+      "govtrack": 300030,
+      "thomas": "00250"
+    }
+  },
+  {
+    "social": {
+      "facebook": "JimCooper",
+      "facebook_id": null,
+      "instagram_id": 1037212884,
+      "twitter": "RepJimCooper",
+      "twitter_id": 22523087,
+      "youtube": "RepJimCooper",
+      "youtube_id": "UCjplyIIQbNZcl013AyDfPNg",
+      "instagram": "repjimcooper"
+    },
+    "id": {
+      "bioguide": "C000754",
+      "govtrack": 400081,
+      "thomas": "00231"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanConyers",
+      "youtube": "JCMI14",
+      "facebook_id": "206947066849",
+      "twitter": "RepJohnConyers",
+      "youtube_id": "UCzlwBp7_m0t3f2UiFubvWgg",
+      "twitter_id": 138770045
+    },
+    "id": {
+      "bioguide": "C000714",
+      "govtrack": 400080,
+      "thomas": "00229"
+    }
+  },
+  {
+    "social": {
+      "facebook": "180671148633644",
+      "youtube": "SenatorCoats",
+      "facebook_id": "180671148633644",
+      "twitter": "SenDanCoats",
+      "youtube_id": "UCipTNiqJBYHutxpMxo0UOYw",
+      "twitter_id": 212262370
+    },
+    "id": {
+      "bioguide": "C000542",
+      "govtrack": 402675,
+      "thomas": "00209"
+    }
+  },
+  {
+    "social": {
+      "facebook": "jameseclyburn",
+      "youtube": "repjamesclyburn",
+      "facebook_id": "127744320598870",
+      "twitter": "Clyburn",
+      "youtube_id": "UCIyU_UA_JEa14gvAwhquKqg",
+      "twitter_id": 188019606
+    },
+    "id": {
+      "bioguide": "C000537",
+      "govtrack": 400075,
+      "thomas": "00208"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSteveChabot",
+      "facebook_id": "204705339555378",
+      "instagram_id": 481906395,
+      "twitter": "RepSteveChabot",
+      "twitter_id": 237750442,
+      "youtube": "congressmanchabot",
+      "youtube_id": "UCJpzm2DZDE1B6ruQLQc7q4g",
+      "instagram": "repstevechabot"
+    },
+    "id": {
+      "bioguide": "C000266",
+      "govtrack": 400071,
+      "thomas": "00186"
+    }
+  },
+  {
+    "social": {
+      "facebook": "tomcarper",
+      "youtube": "senatorcarper",
+      "facebook_id": "124891107521733",
+      "twitter": "SenatorCarper",
+      "youtube_id": "UCgLnvbKwu4B3navofj6Qvvw",
+      "twitter_id": 249787913
+    },
+    "id": {
+      "bioguide": "C000174",
+      "govtrack": 300019,
+      "thomas": "00179"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatorbencardin",
+      "youtube": "senatorcardin",
+      "facebook_id": "120421834675191",
+      "twitter": "SenatorCardin",
+      "youtube_id": "UCiQaJnMzlfzzG3VESgyZChA",
+      "twitter_id": 109071031
+    },
+    "id": {
+      "bioguide": "C000141",
+      "govtrack": 400064,
+      "thomas": "00174"
+    }
+  },
+  {
+    "social": {
+      "youtube": "SenatorCantwell",
+      "twitter": "SenatorCantwell",
+      "youtube_id": "UCN52UDqKgvHRk39ncySrIMw",
+      "twitter_id": 117501995
+    },
+    "id": {
+      "bioguide": "C000127",
+      "govtrack": 300018,
+      "thomas": "00172"
+    }
+  },
+  {
+    "social": {
+      "facebook": "70063393423",
+      "youtube": "RepKenCalvert",
+      "facebook_id": "70063393423",
+      "twitter": "KenCalvert",
+      "youtube_id": "UC5MEj7YOX_QdKoqD_HRxP3A",
+      "twitter_id": 22545491
+    },
+    "id": {
+      "bioguide": "C000059",
+      "govtrack": 400057,
+      "thomas": "00165"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenBlumenthal",
+      "youtube": "SenatorBlumenthal",
+      "facebook_id": "289987304364966",
+      "twitter": "SenBlumenthal",
+      "youtube_id": "UCHH-fn3_LVt0Q4od56rOi5g",
+      "twitter_id": 278124059
+    },
+    "id": {
+      "bioguide": "B001277",
+      "govtrack": 412490,
+      "thomas": "02076"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepLarryBucshon",
+      "youtube": "RepLarryBucshon",
+      "facebook_id": "135670516492974",
+      "twitter": "RepLarryBucshon",
+      "youtube_id": "UC0bIliQs0LKZabNwvZ3gnhQ",
+      "twitter_id": 234812598
+    },
+    "id": {
+      "bioguide": "B001275",
+      "govtrack": 412427,
+      "thomas": "02018"
+    }
+  },
+  {
+    "social": {
+      "facebook": "155220881193244",
+      "youtube": "RepMoBrooks",
+      "facebook_id": "155220881193244",
+      "twitter": "RepMoBrooks",
+      "youtube_id": "UCgsPSY0MpuQJq8vEqYUSt-g",
+      "twitter_id": 237299871
+    },
+    "id": {
+      "bioguide": "B001274",
+      "govtrack": 412395,
+      "thomas": "01987"
+    }
+  },
+  {
+    "social": {
+      "facebook": "DianeBlackTN06",
+      "facebook_id": "186436274719648",
+      "instagram_id": 371192551,
+      "twitter": "RepDianeBlack",
+      "twitter_id": 110545675,
+      "youtube": "RepDianeBlack",
+      "youtube_id": "UCREZGYWeFh6-gfodmoWVUFg",
+      "instagram": "repdianeblack"
+    },
+    "id": {
+      "bioguide": "B001273",
+      "govtrack": 412478,
+      "thomas": "02063"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanDan",
+      "facebook_id": "124163654317596",
+      "twitter": "CongressmanDan",
+      "twitter_id": 242761889
+    },
+    "id": {
+      "bioguide": "B001271",
+      "govtrack": 412436,
+      "thomas": "02027"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepKarenBass",
+      "youtube": "RepKarenBass",
+      "facebook_id": "190867440939405",
+      "twitter": "RepKarenBass",
+      "youtube_id": "UCQZg7oxkV3Yag2emYPLhT2g",
+      "twitter_id": 239949176
+    },
+    "id": {
+      "bioguide": "B001270",
+      "govtrack": 412404,
+      "thomas": "01996"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanLouBarletta",
+      "youtube": "reploubarletta",
+      "facebook_id": "192357174108435",
+      "twitter": "RepLouBarletta",
+      "youtube_id": "UChViw1Iv0nY1b3Qq9Q0vDBQ",
+      "twitter_id": 239871673
+    },
+    "id": {
+      "bioguide": "B001269",
+      "govtrack": 412469,
+      "thomas": "02054"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatorbennet",
+      "youtube": "SenatorBennet",
+      "facebook_id": "97172997732",
+      "twitter": "SenBennetCo",
+      "youtube_id": "UCXB3cljpMwTyCUyLr2ZVLow",
+      "twitter_id": 224285242
+    },
+    "id": {
+      "bioguide": "B001267",
+      "govtrack": 412330,
+      "thomas": "01965"
+    }
+  },
+  {
+    "social": {
+      "facebook": "johnbarrasso",
+      "youtube": "barrassowyo",
+      "facebook_id": "21146775942",
+      "twitter": "SenJohnBarrasso",
+      "youtube_id": "UC80PfiCAB2Fe1MFayWlR6GQ",
+      "twitter_id": 202206694
+    },
+    "id": {
+      "bioguide": "B001261",
+      "govtrack": 412251,
+      "thomas": "01881"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanBuchanan",
+      "facebook_id": "67106719910",
+      "instagram_id": 344865327,
+      "twitter": "VernBuchanan",
+      "twitter_id": 20467163,
+      "youtube": "vernbuchanan",
+      "youtube_id": "UCY4DEy41NxOTdcF8_XAVZvw",
+      "instagram": "repvern"
+    },
+    "id": {
+      "bioguide": "B001260",
+      "govtrack": 412196,
+      "thomas": "01840"
+    }
+  },
+  {
+    "social": {
+      "facebook": "GusBilirakis",
+      "youtube": "RepGusBilirakis",
+      "facebook_id": "135445766485586",
+      "twitter": "RepGusBilirakis",
+      "youtube_id": "UC2z1uu1n4-60xXs5x1mvLJw",
+      "twitter_id": 26051676
+    },
+    "id": {
+      "bioguide": "B001257",
+      "govtrack": 412250,
+      "thomas": "01838"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBoustany",
+      "youtube": "boustanyla07",
+      "facebook_id": "197407646951718",
+      "twitter": "RepBoustany",
+      "youtube_id": "UC2S34gtxbiXDloza9EgFAZA",
+      "twitter_id": 249339682
+    },
+    "id": {
+      "bioguide": "B001255",
+      "govtrack": 400636,
+      "thomas": "01787"
+    }
+  },
+  {
+    "social": {
+      "facebook": "congressmangkbutterfield",
+      "youtube": "GKBNC01",
+      "facebook_id": "274687979233940",
+      "twitter": "GKButterfield",
+      "youtube_id": "UCbodCVgLfcbaep49L1M-mqA",
+      "twitter_id": 432676344
+    },
+    "id": {
+      "bioguide": "B001251",
+      "govtrack": 400616,
+      "thomas": "01761"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRobBishop",
+      "youtube": "CongressmanBishop",
+      "facebook_id": null,
+      "twitter": "RepRobBishop",
+      "youtube_id": "UCJC2BXNGQEUom7Tp7FKfxlQ",
+      "twitter_id": 148006729
+    },
+    "id": {
+      "bioguide": "B001250",
+      "govtrack": 400029,
+      "thomas": "01753"
+    }
+  },
+  {
+    "social": {
+      "facebook": "michaelcburgess",
+      "youtube": "michaelcburgessmd",
+      "facebook_id": "6916472567",
+      "twitter": "MichaelCBurgess",
+      "youtube_id": "UCvvO8lo-Nkc31cEEElqQvQw",
+      "twitter_id": 15751083
+    },
+    "id": {
+      "bioguide": "B001248",
+      "govtrack": 400052,
+      "thomas": "01751"
+    }
+  },
+  {
+    "social": {
+      "facebook": "marshablackburn",
+      "youtube": "RepMarshaBlackburn",
+      "facebook_id": "6470828395",
+      "twitter": "MarshaBlackburn",
+      "youtube_id": "UCvNnmu5mUm7xr8QXBlbtQ9w",
+      "twitter_id": 278145569
+    },
+    "id": {
+      "bioguide": "B001243",
+      "govtrack": 400032,
+      "thomas": "01748"
+    }
+  },
+  {
+    "social": {
+      "facebook": "JohnBoozman",
+      "youtube": "BoozmanPressOffice",
+      "facebook_id": "7686715735",
+      "twitter": "JohnBoozman",
+      "youtube_id": "UC9vWHKL5OfIYh6kIV0rF2yw",
+      "twitter_id": 5558312
+    },
+    "id": {
+      "bioguide": "B001236",
+      "govtrack": 400040,
+      "thomas": "01687"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRobertBrady",
+      "facebook_id": "118845109487",
+      "instagram_id": 1405678385,
+      "twitter": "RepBrady",
+      "twitter_id": 148453195,
+      "youtube": "BradyPA01",
+      "youtube_id": "UCHbTbPH6iCtaA_AKPwDy04A",
+      "instagram": "repbrady"
+    },
+    "id": {
+      "bioguide": "B001227",
+      "govtrack": 400047,
+      "thomas": "01469"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorRichardBurr",
+      "youtube": "SenatorRichardBurr",
+      "facebook_id": "132653626787856",
+      "twitter": "SenatorBurr",
+      "youtube_id": "UCOLLZpp-1womBSFDV2uLfag",
+      "twitter_id": 21157904
+    },
+    "id": {
+      "bioguide": "B001135",
+      "govtrack": 400054,
+      "thomas": "00153"
+    }
+  },
+  {
+    "social": {
+      "youtube": "SherrodBrownOhio",
+      "twitter": "SenSherrodBrown",
+      "youtube_id": "UCgy8jfERh-t_ixkKKoCmglQ",
+      "twitter_id": 43910797
+    },
+    "id": {
+      "bioguide": "B000944",
+      "govtrack": 400050,
+      "thomas": "00136"
+    }
+  },
+  {
+    "social": {
+      "facebook": "kevinbrady",
+      "facebook_id": "9307301412",
+      "instagram_id": 337613850,
+      "twitter": "RepKevinBrady",
+      "twitter_id": 19926675,
+      "youtube": "KBrady8",
+      "youtube_id": "UC6Ng0uMQEBVgXO_HF0NbfXA",
+      "instagram": "repkevinbrady"
+    },
+    "id": {
+      "bioguide": "B000755",
+      "govtrack": 400046,
+      "thomas": "01468"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatorboxer",
+      "facebook_id": "116513005087055",
+      "instagram_id": 554053812,
+      "twitter": "SenatorBoxer",
+      "twitter_id": 15442036,
+      "youtube": "SenatorBoxer",
+      "youtube_id": "UCWDQBlCBh67UgfNvSXDvbmw",
+      "instagram": "senatorboxer"
+    },
+    "id": {
+      "bioguide": "B000711",
+      "govtrack": 300011,
+      "thomas": "00116"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorBlunt",
+      "facebook_id": "142473042477322",
+      "instagram_id": 21185436,
+      "twitter": "RoyBlunt",
+      "twitter_id": 21269970,
+      "youtube": "SenatorBlunt",
+      "youtube_id": "UCFeLRzjhThTmaWzuh5qjpGA",
+      "instagram": "royblunt"
+    },
+    "id": {
+      "bioguide": "B000575",
+      "govtrack": 400034,
+      "thomas": "01464"
+    }
+  },
+  {
+    "social": {
+      "youtube": "RepBlumenauer",
+      "twitter": "BlumenauerMedia",
+      "youtube_id": "UCuziVoKuGn7feNA5VrpxsBQ",
+      "twitter_id": 137823987
+    },
+    "id": {
+      "bioguide": "B000574",
+      "govtrack": 400033,
+      "thomas": "00099"
+    }
+  },
+  {
+    "social": {
+      "facebook": "sanfordbishop",
+      "youtube": "RepSanfordBishop",
+      "facebook_id": "366739521606",
+      "twitter": "SanfordBishop",
+      "youtube_id": "UCxF9veLBrkr_CqVq5eFYVGg",
+      "twitter_id": 249410485
+    },
+    "id": {
+      "bioguide": "B000490",
+      "govtrack": 400030,
+      "thomas": "00091"
+    }
+  },
+  {
+    "social": {
+      "facebook": "XavierBecerra",
+      "facebook_id": "90311772229",
+      "instagram_id": 1216529275,
+      "twitter": "RepBecerra",
+      "twitter_id": 133832049,
+      "youtube": "XavierBecerra",
+      "youtube_id": "UCoY0rJzkgkl1TmoKTUKTI6w",
+      "instagram": "repbecerra"
+    },
+    "id": {
+      "bioguide": "B000287",
+      "govtrack": 400021,
+      "thomas": "00070"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJoeBarton",
+      "youtube": "repjoebarton",
+      "facebook_id": "15617630596",
+      "twitter": "RepJoeBarton",
+      "youtube_id": "UC9zg5RmxfNdBfz4iZuzvWXg",
+      "twitter_id": 19929362
+    },
+    "id": {
+      "bioguide": "B000213",
+      "govtrack": 400018,
+      "thomas": "00062"
+    }
+  },
+  {
+    "social": {
+      "facebook": "kellyayottenh",
+      "facebook_id": "123436097729198",
+      "youtube_id": "UCe_jD6bQuBwAo4CxwUm_ztw",
+      "youtube": "SenatorAyotte"
+    },
+    "id": {
+      "bioguide": "A000368",
+      "govtrack": 412493,
+      "thomas": "02075"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repjustinamash",
+      "facebook_id": "173604349345646",
+      "youtube_id": "UCeg6HhoCXrS8xpON9dxtZgA",
+      "youtube": "repjustinamash"
+    },
+    "id": {
+      "bioguide": "A000367",
+      "govtrack": 412438,
+      "thomas": "02029"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatorlamaralexander",
+      "facebook_id": "89927603836",
+      "instagram_id": 1156775647,
+      "twitter": "SenAlexander",
+      "twitter_id": 76649729,
+      "youtube": "lamaralexander",
+      "youtube_id": "UChDLBjn5RWqgMmCSswT05IQ",
+      "instagram": "senlamaralexander"
+    },
+    "id": {
+      "bioguide": "A000360",
+      "govtrack": 300002,
+      "thomas": "01695"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RobertAderholt",
+      "youtube": "RobertAderholt",
+      "facebook_id": "19787529402",
+      "twitter": "Robert_Aderholt",
+      "youtube_id": "UC71CAgpg1gbLTew_pfTneGA",
+      "twitter_id": 76452765
+    },
+    "id": {
+      "bioguide": "A000055",
+      "govtrack": 400004,
+      "thomas": "01460"
+    }
+  },
+  {
+    "social": {
+      "facebook": "congresswomanbrown",
+      "youtube": "CongresswomanBrown",
+      "facebook_id": "179120958813519",
+      "twitter": "RepCorrineBrown",
+      "youtube_id": "UC6-GswVFgN05YYkPGVx2KEQ",
+      "twitter_id": 292935209
+    },
+    "id": {
+      "bioguide": "B000911",
+      "govtrack": 400048,
+      "thomas": "00132"
+    }
+  },
+  {
+    "social": {
+      "facebook": "JohnCarneyDE",
+      "facebook_id": "156024857781159",
+      "instagram_id": 623634991,
+      "twitter": "JohnCarneyde",
+      "twitter_id": 237770636,
+      "youtube": "RepJohnCarney",
+      "youtube_id": "UCT9yU36lD-zOTJKhmX_w_dA",
+      "instagram": "johncarneyde"
+    },
+    "id": {
+      "bioguide": "C001083",
+      "govtrack": 412407,
+      "thomas": "01999"
+    }
+  },
+  {
+    "social": {
+      "facebook": "madeleine.bordallo",
+      "facebook_id": "161729837225622"
+    },
+    "id": {
+      "bioguide": "B001245",
+      "govtrack": 400041,
+      "thomas": "01723"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepDelBene",
+      "facebook_id": "483962224987343",
+      "twitter": "RepDelBene",
+      "youtube_id": "UCd00b7TpKDZIr-Ujhaktvjg",
+      "twitter_id": 995193054
+    },
+    "id": {
+      "bioguide": "D000617",
+      "govtrack": 412505,
+      "thomas": "02096"
+    }
+  },
+  {
+    "social": {
+      "facebook": "congresswomanbonamici",
+      "youtube": "RepSuzanneBonamici",
+      "facebook_id": "252633384817156",
+      "twitter": "RepBonamici",
+      "youtube_id": "UC0IkAeEiwgzSRTD1TDSvuBw",
+      "twitter_id": 558769636
+    },
+    "id": {
+      "bioguide": "B001278",
+      "govtrack": 412501,
+      "thomas": "02092"
+    }
+  },
+  {
+    "social": {
+      "youtube": "sencochran",
+      "twitter": "SenThadCochran",
+      "youtube_id": "UCTnKP_ye7nI5DEn_zreaa3g",
+      "twitter_id": 555474658
+    },
+    "id": {
+      "bioguide": "C000567",
+      "govtrack": 300023,
+      "thomas": "00213"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorAngusSKingJr",
+      "youtube": "SenatorAngusKing",
+      "facebook_id": "142803045874943",
+      "twitter": "SenAngusKing",
+      "youtube_id": "UCpp6lGvrmt0XU_lnD4Ak0gA",
+      "twitter_id": 1068481578
+    },
+    "id": {
+      "govtrack": 412545,
+      "bioguide": "K000383"
+    }
+  },
+  {
+    "social": {
+      "facebook": "MarkAmodeiNV2",
+      "youtube": "markamodeinv2",
+      "facebook_id": "307227745970624",
+      "twitter": "MarkAmodeiNV2",
+      "youtube_id": "UCjOGx2iqSn1r3BQxaVgYhYw",
+      "twitter_id": 402719755,
+      "instagram": "MarkAmodeiNV2"
+    },
+    "id": {
+      "bioguide": "A000369",
+      "govtrack": 412500,
+      "thomas": "02090"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepLujanGrisham",
+      "facebook_id": "191640657646128",
+      "instagram_id": 379143191,
+      "twitter": "RepLujanGrisham",
+      "twitter_id": 1061385474,
+      "youtube": "RepLujanGrisham",
+      "youtube_id": "UCS_N-wEnUBEbVYCD-CXpNjw",
+      "instagram": "replujangrisham"
+    },
+    "id": {
+      "bioguide": "L000580",
+      "govtrack": 412558,
+      "thomas": "02146"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepDeSantis",
+      "youtube": "RepRonDeSantis",
+      "facebook_id": "464253846966014",
+      "twitter": "RepDeSantis",
+      "youtube_id": "UCRM1qBatq45tZxRqYeUa02g",
+      "twitter_id": 1058807868
+    },
+    "id": {
+      "bioguide": "D000621",
+      "govtrack": 412526,
+      "thomas": "02116"
+    }
+  },
+  {
+    "social": {
+      "facebook": "congressmanjohndelaney",
+      "youtube": "repjohndelaney",
+      "facebook_id": "324527257655694",
+      "twitter": "RepJohnDelaney",
+      "youtube_id": "UC-Sz2M53ZYi_8MvapFKZJiw",
+      "twitter_id": 937723303
+    },
+    "id": {
+      "bioguide": "D000620",
+      "govtrack": 412544,
+      "thomas": "02133"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanEricSwalwell",
+      "facebook_id": "450130878375355",
+      "instagram_id": 338799200,
+      "twitter": "RepSwalwell",
+      "twitter_id": 942156122,
+      "youtube": "ericswalwell",
+      "youtube_id": "UCKvwsFNGD4sDkE_9g-2ft0w",
+      "instagram": "repswalwell"
+    },
+    "id": {
+      "bioguide": "S001193",
+      "govtrack": 412514,
+      "thomas": "02104"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanMarkwayneMullin",
+      "facebook_id": "453637624684399",
+      "twitter": "RepMullin",
+      "twitter_id": 1060370282
+    },
+    "id": {
+      "bioguide": "M001190",
+      "govtrack": 412568,
+      "thomas": "02156"
+    }
+  },
+  {
+    "social": {
+      "facebook": "301936109927957",
+      "facebook_id": "301936109927957",
+      "instagram_id": 1328567154,
+      "twitter": "RepJoeKennedy",
+      "youtube_id": "UCgfHlaGqxD8p-2V_YlNIqrA",
+      "twitter_id": 1055907624,
+      "instagram": "repkennedy"
+    },
+    "id": {
+      "bioguide": "K000379",
+      "govtrack": 412543,
+      "thomas": "02172"
+    }
+  },
+  {
+    "social": {
+      "facebook": "congresswomansusanwbrooks",
+      "facebook_id": "517697358277175",
+      "instagram_id": 365798183,
+      "twitter": "SusanWBrooks",
+      "twitter_id": 1074101017,
+      "youtube": "SusanWBrooks",
+      "youtube_id": "UCMd7LzaBcbQ06aKHoj9KkSQ",
+      "instagram": "susanwbrooks"
+    },
+    "id": {
+      "bioguide": "B001284",
+      "govtrack": 412539,
+      "thomas": "02129"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJackieWalorski",
+      "youtube": "repwalorski",
+      "facebook_id": "466876036704525",
+      "twitter": "RepWalorski",
+      "youtube_id": "UC8fsSDjVJ_VnCF3ccx3Lkng",
+      "twitter_id": 1065995022
+    },
+    "id": {
+      "bioguide": "W000813",
+      "govtrack": 412538,
+      "thomas": "02128"
+    }
+  },
+  {
+    "social": {
+      "facebook": "reptomrice",
+      "youtube": "RepTomRice",
+      "facebook_id": "403403083083104",
+      "twitter": "RepTomRice",
+      "youtube_id": "UCEmPVQphMGoXAfWJli68BEw",
+      "twitter_id": 1058345042
+    },
+    "id": {
+      "bioguide": "R000597",
+      "govtrack": 412572,
+      "thomas": "02160"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repgracemeng",
+      "facebook_id": "195734010571362",
+      "twitter": "RepGraceMeng",
+      "youtube_id": "UCHg516zJKbIBtXFAJ0nu3XQ",
+      "twitter_id": 1051127714
+    },
+    "id": {
+      "bioguide": "M001188",
+      "govtrack": 412560,
+      "thomas": "02148"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepLukeMesser",
+      "youtube": "RepLukeMesser",
+      "facebook_id": "367444640018564",
+      "twitter": "RepLukeMesser",
+      "youtube_id": "UC9NKMvZuY2koTf1iVurxicw",
+      "twitter_id": 1045853744
+    },
+    "id": {
+      "bioguide": "M001189",
+      "govtrack": 412540,
+      "thomas": "02130"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSeanMaloney",
+      "facebook_id": "551199354892891",
+      "twitter": "RepSeanMaloney",
+      "youtube_id": "UCNiVzzf4Vz-vCMPBcnjGuXQ",
+      "twitter_id": 1072467470
+    },
+    "id": {
+      "bioguide": "M001185",
+      "govtrack": 412562,
+      "thomas": "02150"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanDennyHeck",
+      "youtube": "RepDennyHeck",
+      "facebook_id": "547907568553615",
+      "twitter": "RepDennyHeck",
+      "youtube_id": "UCU89cl5_yhHzo-oTHiEyaRg",
+      "twitter_id": 1068499286
+    },
+    "id": {
+      "bioguide": "H001064",
+      "govtrack": 412584,
+      "thomas": "02170"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanGeorgeHolding",
+      "youtube": "repholding",
+      "facebook_id": "384164668340890",
+      "twitter": "RepHolding",
+      "youtube_id": "UCx6IgBfJmIhXSXymnPr78hw",
+      "twitter_id": 1058460818
+    },
+    "id": {
+      "bioguide": "H001065",
+      "govtrack": 412553,
+      "thomas": "02143"
+    }
+  },
+  {
+    "social": {
+      "facebook": "UsRepRickNolan",
+      "youtube": "USRepRickNolan",
+      "facebook_id": "388085277945339",
+      "twitter": "USRepRickNolan",
+      "youtube_id": "UCmGkPQXVR8GzVAPXN54AoXg",
+      "twitter_id": 1055685948
+    },
+    "id": {
+      "bioguide": "N000127",
+      "govtrack": 408211,
+      "thomas": "00867"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMarkTakano",
+      "youtube": "RepMarkTakano",
+      "facebook_id": "262447300551014",
+      "twitter": "RepMarkTakano",
+      "youtube_id": "UCJg4F1irmSFeKoXZBaZbX2w",
+      "twitter_id": 1037321378
+    },
+    "id": {
+      "bioguide": "T000472",
+      "govtrack": 412520,
+      "thomas": "02110"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepHakeemJeffries",
+      "facebook_id": "118349138343701",
+      "twitter": "RepJeffries",
+      "youtube_id": "UCYVmbsjoNbQ4j-PCQIYgpWQ",
+      "twitter_id": 467823431
+    },
+    "id": {
+      "bioguide": "J000294",
+      "govtrack": 412561,
+      "thomas": "02149"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepDaveJoyce",
+      "facebook_id": "404318572981934",
+      "instagram_id": 360743678,
+      "twitter": "RepDaveJoyce",
+      "twitter_id": 976969338,
+      "youtube": "repdavejoyce",
+      "youtube_id": "UCTu9xz2VYk-jtQv0TVsLyYA",
+      "instagram": "repdavejoyce"
+    },
+    "id": {
+      "bioguide": "J000295",
+      "govtrack": 412566,
+      "thomas": "02154"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepLowenthal",
+      "youtube": "RepLowenthal",
+      "facebook_id": "392631677490897",
+      "twitter": "RepLowenthal",
+      "youtube_id": "UC-GgROtn5Hxm1H9a6qvy_Wg",
+      "twitter_id": 1055730738
+    },
+    "id": {
+      "bioguide": "L000579",
+      "govtrack": 412521,
+      "thomas": "02111"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepresentativeDougCollins",
+      "youtube": "repdougcollins",
+      "facebook_id": "505646972800006",
+      "twitter": "RepDougCollins",
+      "youtube_id": "UCgKTZXOJX2UwAdLNZ4MQdig",
+      "twitter_id": 1060487274
+    },
+    "id": {
+      "bioguide": "C001093",
+      "govtrack": 412531,
+      "thomas": "02121"
+    }
+  },
+  {
+    "social": {
+      "facebook": "TXRandy14",
+      "youtube": "TXRandy14",
+      "facebook_id": "128891177274584",
+      "twitter": "TXRandy14",
+      "youtube_id": "UCJSZRrAcd5i1bHLjR66PZdg",
+      "twitter_id": 1058051748
+    },
+    "id": {
+      "bioguide": "W000814",
+      "govtrack": 412574,
+      "thomas": "02161"
+    }
+  },
+  {
+    "social": {
+      "facebook": "derek.kilmer",
+      "facebook_id": "450819048314124",
+      "twitter": "RepDerekKilmer",
+      "twitter_id": 1058917562
+    },
+    "id": {
+      "bioguide": "K000381",
+      "govtrack": 412583,
+      "thomas": "02169"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepTulsiGabbard",
+      "youtube": "tulsipress",
+      "facebook_id": "392284484191405",
+      "twitter": "TulsiPress",
+      "youtube_id": "UCkQmC0YfIU4388Tu0_k4esA",
+      "twitter_id": 1064206014
+    },
+    "id": {
+      "bioguide": "G000571",
+      "govtrack": 412532,
+      "thomas": "02122"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SteveDainesMT",
+      "facebook_id": "185361254941832",
+      "instagram_id": 371125857,
+      "twitter": "SteveDaines",
+      "twitter_id": 11651202,
+      "youtube": "SteveDainesMT",
+      "youtube_id": "UC-ny-W5mEUGytiyMdXbQ20Q",
+      "instagram": "stevedaines"
+    },
+    "id": {
+      "bioguide": "D000618",
+      "govtrack": 412549,
+      "thomas": "02138"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanTedYoho",
+      "youtube": "RepTedYoho",
+      "facebook_id": "563532937006022",
+      "twitter": "RepTedYoho",
+      "youtube_id": "UCGmDQgEgP2Z0NjavmnS9Hwg",
+      "twitter_id": 1071900114
+    },
+    "id": {
+      "bioguide": "Y000065",
+      "govtrack": 412525,
+      "thomas": "02115"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepEsty",
+      "youtube": "RepEsty",
+      "facebook_id": "292076514228382",
+      "twitter": "RepEsty",
+      "youtube_id": "UCJoc9OfUHVbx0Z7V055sbCA",
+      "twitter_id": 1060984272
+    },
+    "id": {
+      "bioguide": "E000293",
+      "govtrack": 412524,
+      "thomas": "02114"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanAnnieKuster",
+      "youtube": "RepKuster",
+      "facebook_id": "115543081952049",
+      "twitter": "RepAnnieKuster",
+      "youtube_id": "UCYAD_Eti2b5gXSicbgPsBYA",
+      "twitter_id": 1058717720
+    },
+    "id": {
+      "bioguide": "K000382",
+      "govtrack": 412557,
+      "thomas": "02145"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepDanKildee",
+      "facebook_id": "484166588292670",
+      "instagram_id": 582887115,
+      "twitter": "RepDanKildee",
+      "twitter_id": 1045110018,
+      "youtube": "RepDanKildee",
+      "youtube_id": "UC_KpQ-n3IT5dL5ul21XA9Yw",
+      "instagram": "repdankildee"
+    },
+    "id": {
+      "bioguide": "K000380",
+      "govtrack": 412546,
+      "thomas": "02134"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanMattCartwright",
+      "facebook_id": "248507065275406",
+      "twitter": "RepCartwright",
+      "youtube_id": "UCnAOvexSGLBnYidaFzguhTQ",
+      "twitter_id": 776664410
+    },
+    "id": {
+      "bioguide": "C001090",
+      "govtrack": 412571,
+      "thomas": "02159"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorTomCotton",
+      "youtube": "RepTomCotton",
+      "facebook_id": "120355701459307",
+      "twitter": "SenTomCotton",
+      "youtube_id": "UCXEk6mokWBajIpNatbjnwSg",
+      "twitter_id": 968650362
+    },
+    "id": {
+      "bioguide": "C001095",
+      "govtrack": 412508,
+      "thomas": "02098"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepCheri",
+      "youtube": "RepCheri",
+      "facebook_id": "581909665168588",
+      "twitter": "RepCheri",
+      "youtube_id": "UCrkOYuIsVeb4dvKeeO7jnaA",
+      "twitter_id": 1092979962
+    },
+    "id": {
+      "bioguide": "B001286",
+      "govtrack": 412537,
+      "thomas": "02127"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepAmiBera",
+      "youtube": "repamibera",
+      "facebook_id": "528662157146886",
+      "twitter": "RepBera",
+      "youtube_id": "UClJCTCo53Zk6b4kUL-bbdzg",
+      "twitter_id": 950783972
+    },
+    "id": {
+      "bioguide": "B001287",
+      "govtrack": 412512,
+      "thomas": "02102"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanBillFoster",
+      "youtube": "RepBillFoster",
+      "facebook_id": "102918290599",
+      "twitter": "RepBillFoster",
+      "youtube_id": "UCicixINQr_-3cFHI2bJzFpQ",
+      "twitter_id": 1080509366
+    },
+    "id": {
+      "bioguide": "F000454",
+      "govtrack": 412257,
+      "thomas": "01888"
+    }
+  },
+  {
+    "social": {
+      "facebook": "congressmanpittenger",
+      "youtube": "CongressmanPittenger",
+      "facebook_id": "376142742468386",
+      "twitter": "RepPittenger",
+      "youtube_id": "UCPr1MiyBx6K6wH3zgMWFtMQ",
+      "twitter_id": 950328072
+    },
+    "id": {
+      "bioguide": "P000606",
+      "govtrack": 412551,
+      "thomas": "02141"
+    }
+  },
+  {
+    "social": {
+      "facebook": "Repmarkmeadows",
+      "youtube": "RepMarkMeadows",
+      "facebook_id": "409882952423501",
+      "twitter": "RepMarkMeadows",
+      "youtube_id": "UCu1unBO6gQdCz3qok5LPFGQ",
+      "twitter_id": 963480595
+    },
+    "id": {
+      "bioguide": "M001187",
+      "govtrack": 412552,
+      "thomas": "02142"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepLoisFrankel",
+      "youtube": "reploisfrankel",
+      "facebook_id": "138220153003017",
+      "twitter": "RepLoisFrankel",
+      "youtube_id": "UCEk5viAhxaW_2OK20-yBwzQ",
+      "twitter_id": 1077121945
+    },
+    "id": {
+      "bioguide": "F000462",
+      "govtrack": 412529,
+      "thomas": "02119"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRichHudson",
+      "youtube": "RepRichHudson",
+      "facebook_id": "212153802255530",
+      "twitter": "RepRichHudson",
+      "youtube_id": "UC9Q1qCvnQR7rHERjTjJl5Pg",
+      "twitter_id": 935033864
+    },
+    "id": {
+      "bioguide": "H001067",
+      "govtrack": 412550,
+      "thomas": "02140"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanMarcVeasey",
+      "facebook_id": "394849110600016",
+      "instagram_id": 676925345,
+      "twitter": "RepVeasey",
+      "twitter_id": 1074129612,
+      "youtube": "marcveasey",
+      "youtube_id": "UC2CRp1KF5uljZyhDRPR-72Q",
+      "instagram": "repveasey"
+    },
+    "id": {
+      "bioguide": "V000131",
+      "govtrack": 412579,
+      "thomas": "02166"
+    }
+  },
+  {
+    "social": {
+      "facebook": "USCongressmanFilemonVela",
+      "facebook_id": "510462622331477",
+      "twitter": "RepFilemonVela",
+      "twitter_id": 1083448909
+    },
+    "id": {
+      "bioguide": "V000132",
+      "govtrack": 412580,
+      "thomas": "02167"
+    }
+  },
+  {
+    "social": {
+      "facebook": "Rep.ScottPerry",
+      "facebook_id": "376801102416184",
+      "instagram_id": 519463466,
+      "twitter": "RepScottPerry",
+      "twitter_id": 18773159,
+      "youtube": "RepScottPerry",
+      "youtube_id": "UCzgrU5PT_HHRgf5hXPen4dQ",
+      "instagram": "repscottperry"
+    },
+    "id": {
+      "bioguide": "P000605",
+      "govtrack": 412569,
+      "thomas": "02157"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanRaulRuizMD",
+      "youtube": "repraulruiz",
+      "facebook_id": "245244468941114",
+      "twitter": "CongressmanRuiz",
+      "youtube_id": "UCSDk-cyNPCo1iy6rweSPmBw",
+      "twitter_id": 1089859058
+    },
+    "id": {
+      "bioguide": "R000599",
+      "govtrack": 412519,
+      "thomas": "02109"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMattSalmon",
+      "youtube": "repmattsalmon",
+      "facebook_id": "149561218527414",
+      "twitter": "RepMattSalmon",
+      "youtube_id": "UCDzGvCYeZMWvULdQIaWQung",
+      "twitter_id": 1072382221
+    },
+    "id": {
+      "bioguide": "S000018",
+      "govtrack": 400606,
+      "thomas": "01009"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepPaulCook",
+      "youtube": "RepPaulCook",
+      "facebook_id": "464458413604093",
+      "twitter": "RepPaulCook",
+      "youtube_id": "UCqK--hf5cuvg7BR_oisyRiA",
+      "twitter_id": 1074412920
+    },
+    "id": {
+      "bioguide": "C001094",
+      "govtrack": 412513,
+      "thomas": "02103"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanKevinCramer",
+      "youtube": "kevincramer",
+      "facebook_id": "498751820147706",
+      "twitter": "RepKevinCramer",
+      "youtube_id": "UCqUPdO9XaAW-dvwwXKbIVdA",
+      "twitter_id": 1048784496
+    },
+    "id": {
+      "bioguide": "C001096",
+      "govtrack": 412555,
+      "thomas": "02144"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepChrisCollins",
+      "facebook_id": "467047586692268",
+      "instagram_id": 379808544,
+      "twitter": "RepChrisCollins",
+      "twitter_id": 1058256326,
+      "youtube": "RepChrisCollins",
+      "youtube_id": "UCSwQQJaKI4TzuYDUwHwwnxQ",
+      "instagram": "repchriscollins"
+    },
+    "id": {
+      "bioguide": "C001092",
+      "govtrack": 412563,
+      "thomas": "02151"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepAnnWagner",
+      "facebook_id": "215485388588143",
+      "twitter": "RepAnnWagner",
+      "youtube_id": "UCy2v2DXXvQnbRc8Zx77Dnsg",
+      "twitter_id": 1051446626
+    },
+    "id": {
+      "bioguide": "W000812",
+      "govtrack": 412548,
+      "thomas": "02137"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatorelizabethwarren",
+      "youtube": "senelizabethwarren",
+      "facebook_id": "131559043673264",
+      "twitter": "SenWarren",
+      "youtube_id": "UCTH9zV8Imw09J5bOoTR18_A",
+      "twitter_id": 970207298
+    },
+    "id": {
+      "bioguide": "W000817",
+      "govtrack": 412542,
+      "thomas": "02182"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepKirkpatrick",
+      "youtube": "repannkirkpatrick",
+      "facebook_id": "152493768236405",
+      "twitter": "RepKirkpatrick",
+      "youtube_id": "UCBaTLi-KBQ9SW3R0setKu0g",
+      "twitter_id": 1090002997
+    },
+    "id": {
+      "bioguide": "K000368",
+      "govtrack": 412286,
+      "thomas": "01907"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRodneyDavis",
+      "youtube": "RepRodneyDavis",
+      "facebook_id": "323631667743052",
+      "twitter": "RodneyDavis",
+      "youtube_id": "UCiGPTfpwRxqQp0Bam5S8zwA",
+      "twitter_id": 993153006
+    },
+    "id": {
+      "bioguide": "D000619",
+      "govtrack": 412536,
+      "thomas": "02126"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepChrisStewart",
+      "youtube": "repchrisstewart",
+      "facebook_id": "242042855928904",
+      "twitter": "RepChrisStewart",
+      "youtube_id": "UCKYqzTvmQVWys-WhrCkbyPw",
+      "twitter_id": 1072008757,
+      "instagram": "repChrisStewart"
+    },
+    "id": {
+      "bioguide": "S001192",
+      "govtrack": 412581,
+      "thomas": "02168"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepAndyBarr",
+      "youtube": "RepAndyBarr",
+      "facebook_id": "457461137635018",
+      "twitter": "RepAndyBarr",
+      "youtube_id": "UCVL2s6x7f7H0ZJ-uwU0pQ6Q",
+      "twitter_id": 1089334250
+    },
+    "id": {
+      "bioguide": "B001282",
+      "govtrack": 412541,
+      "thomas": "02131"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorTedCruz",
+      "youtube": "sentedcruz",
+      "facebook_id": "315496455229328",
+      "twitter": "SenTedCruz",
+      "youtube_id": "UCOTZ-6H1rri1lSsj6IzhUyw",
+      "twitter_id": 1074480192
+    },
+    "id": {
+      "bioguide": "C001098",
+      "govtrack": 412573,
+      "thomas": "02175"
+    }
+  },
+  {
+    "social": {
+      "facebook": "280757931935749",
+      "youtube": "dannykdavis07",
+      "facebook_id": "280757931935749",
+      "twitter": "RepDannyDavis",
+      "youtube_id": "UCdhrT09_XMr31tuI8OcKsjQ",
+      "twitter_id": 789244177
+    },
+    "id": {
+      "bioguide": "D000096",
+      "govtrack": 400093,
+      "thomas": "01477"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanPatrickMurphy",
+      "youtube": "RepPatrickMurphyFL",
+      "facebook_id": "317735028342371",
+      "twitter": "RepMurphyFL",
+      "youtube_id": "UCcsbPwHksrcVLP5TZH0qkAQ",
+      "twitter_id": 1128781184,
+      "instagram": "PatrickMurphyFL"
+    },
+    "id": {
+      "bioguide": "M001191",
+      "govtrack": 412527,
+      "thomas": "02117"
+    }
+  },
+  {
+    "social": {
+      "facebook": "118514606128",
+      "facebook_id": "118514606128",
+      "twitter": "RepSamGraves",
+      "twitter_id": 29766367
+    },
+    "id": {
+      "bioguide": "G000546",
+      "govtrack": 400158,
+      "thomas": "01656"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanJimBridenstine",
+      "facebook_id": "460003650715961",
+      "instagram_id": 295797332,
+      "twitter": "RepJBridenstine",
+      "twitter_id": 1092757885,
+      "youtube": "RepJimBridenstine",
+      "youtube_id": "UC4uUpWvIK-fiOfTG_D3rX8g",
+      "instagram": "repjbridenstine"
+    },
+    "id": {
+      "bioguide": "B001283",
+      "govtrack": 412567,
+      "thomas": "02155"
+    }
+  },
+  {
+    "social": {
+      "facebook": "TammyBaldwin",
+      "youtube": "witammybaldwin",
+      "facebook_id": "7357041101",
+      "twitter": "SenatorBaldwin",
+      "youtube_id": "UC_XjYCRbbI2_TDDjJidwk0Q",
+      "twitter_id": 1074518754
+    },
+    "id": {
+      "bioguide": "B001230",
+      "govtrack": 400013,
+      "thomas": "01558"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRobWoodall",
+      "youtube": "RobWoodallGA07",
+      "facebook_id": "172573036140374",
+      "twitter": "RepRobWoodall",
+      "youtube_id": "UC7MSlu8zV6Mf8wYzek2Cb-w",
+      "twitter_id": 2382685057
+    },
+    "id": {
+      "bioguide": "W000810",
+      "govtrack": 412416,
+      "thomas": "02008"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRogerWilliams",
+      "facebook_id": "322383274535068",
+      "twitter": "RepRWilliams",
+      "youtube_id": "UCBtfmMMQarjtLB9U_pWMOhw",
+      "twitter_id": 1077446982
+    },
+    "id": {
+      "bioguide": "W000816",
+      "govtrack": 412578,
+      "thomas": "02165"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSusanDavis",
+      "facebook_id": "103767526332478",
+      "twitter": "RepSusanDavis",
+      "twitter_id": 432771620
+    },
+    "id": {
+      "bioguide": "D000598",
+      "govtrack": 400097,
+      "thomas": "01641"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanTammyDuckworth",
+      "facebook_id": "112300955610529",
+      "instagram_id": 1387939090,
+      "twitter": "RepDuckworth",
+      "twitter_id": 1058520120,
+      "youtube": "repduckworth",
+      "youtube_id": "UCYRWRvUxtjaHnFMCbdd94tg",
+      "instagram": "repduckworth"
+    },
+    "id": {
+      "bioguide": "D000622",
+      "govtrack": 412533,
+      "thomas": "02123"
+    }
+  },
+  {
+    "social": {
+      "facebook": "betoorourketx16",
+      "youtube": "betoorourketx16",
+      "facebook_id": "460776160654909",
+      "twitter": "RepBetoORourke",
+      "youtube_id": "UClxfjz6tgqTbwYwQNy0VURg",
+      "twitter_id": 1134292500
+    },
+    "id": {
+      "bioguide": "O000170",
+      "govtrack": 412575,
+      "thomas": "02162"
+    }
+  },
+  {
+    "social": {
+      "facebook": "senatordebfischer",
+      "youtube": "senatordebfischer",
+      "facebook_id": "531623656856934",
+      "twitter": "SenatorFischer",
+      "youtube_id": "UCrbEfZaG_WhB0PBHI1hefPQ",
+      "twitter_id": 1071402577
+    },
+    "id": {
+      "bioguide": "F000463",
+      "govtrack": 412556,
+      "thomas": "02179"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepHuffman",
+      "youtube": "rephuffman",
+      "facebook_id": "200227780116038",
+      "twitter": "RepHuffman",
+      "youtube_id": "UCJU6SP1ppp1ZhSiqZLiFgDA",
+      "twitter_id": 1071102246
+    },
+    "id": {
+      "bioguide": "H001068",
+      "govtrack": 412511,
+      "thomas": "02101"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorHeidiHeitkamp",
+      "facebook_id": "501810613175643",
+      "instagram_id": 1146260729,
+      "twitter": "SenatorHeitkamp",
+      "twitter_id": 1061029050,
+      "youtube": "senatorheidiheitkamp",
+      "youtube_id": "UCsIiu6s5KJ_VYzpT_b1Jh4g",
+      "instagram": "senatorheitkamp"
+    },
+    "id": {
+      "bioguide": "H001069",
+      "govtrack": 412554,
+      "thomas": "02174"
+    }
+  },
+  {
+    "social": {
+      "facebook": "AndyHarrisMD",
+      "youtube": "RepAndyHarris",
+      "facebook_id": "508912729153334",
+      "twitter": "RepAndyHarrisMD",
+      "youtube_id": "UCvUuV7FiJfJi1yux4qozgMg",
+      "twitter_id": 960962340
+    },
+    "id": {
+      "bioguide": "H001052",
+      "govtrack": 412434,
+      "thomas": "02026"
+    }
+  },
+  {
+    "social": {
+      "facebook": "DonaldPayneJr",
+      "facebook_id": "360976767343741",
+      "twitter": "RepDonaldPayne",
+      "twitter_id": 1155335864
+    },
+    "id": {
+      "bioguide": "P000604",
+      "govtrack": 412506,
+      "thomas": "02097"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanScottPeters",
+      "facebook_id": "449337038470352",
+      "twitter": "RepScottPeters",
+      "youtube_id": "UCQK77QJxW7Xr-S3zqeMd-0g",
+      "twitter_id": 1135486501
+    },
+    "id": {
+      "bioguide": "P000608",
+      "govtrack": 412523,
+      "thomas": "02113"
+    }
+  },
+  {
+    "social": {
+      "facebook": "keithrothfus",
+      "youtube": "reprothfus",
+      "facebook_id": "133803223451004",
+      "twitter": "KeithRothfus",
+      "youtube_id": "UCPe5SCZKXEyUAMNUprj46Pg",
+      "twitter_id": 1155212191
+    },
+    "id": {
+      "bioguide": "R000598",
+      "govtrack": 412570,
+      "thomas": "02158"
+    }
+  },
+  {
+    "social": {
+      "facebook": "326420614138023",
+      "facebook_id": "326420614138023",
+      "instagram_id": 378492005,
+      "twitter": "JoaquinCastrotx",
+      "twitter_id": 231510077,
+      "youtube": "JoaquinCastroTX",
+      "youtube_id": "UCsRxWnFdRiV2od1O5v5nEeQ",
+      "instagram": "joaquincastrotx"
+    },
+    "id": {
+      "bioguide": "C001091",
+      "govtrack": 412576,
+      "thomas": "02163"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBradWenstrup",
+      "facebook_id": "124462944390458",
+      "instagram_id": 305496379,
+      "twitter": "RepBradWenstrup",
+      "twitter_id": 518644221,
+      "youtube": "repbradwenstrup",
+      "youtube_id": "UCaK7SeUvmHdHTMtF3HXb-jA",
+      "instagram": "repbradwenstrup"
+    },
+    "id": {
+      "bioguide": "W000815",
+      "govtrack": 412564,
+      "thomas": "02152"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanDavidValadao",
+      "youtube": "congressmanvaladao",
+      "facebook_id": "105596689621089",
+      "twitter": "RepDavidValadao",
+      "youtube_id": "UCWqOVVxQd6IV4mfYMi95LqA",
+      "twitter_id": 1128514404
+    },
+    "id": {
+      "bioguide": "V000129",
+      "govtrack": 412515,
+      "thomas": "02105"
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanSinema",
+      "youtube": "repsinema",
+      "facebook_id": "233846963416149",
+      "twitter": "RepSinema",
+      "youtube_id": "UC4NzhW7D4lQdukSGWmFnK9w",
+      "twitter_id": 1080844782
+    },
+    "id": {
+      "bioguide": "S001191",
+      "govtrack": 412509,
+      "thomas": "02099"
+    }
+  },
+  {
+    "social": {
+      "youtube": "SenatorVitter",
+      "youtube_id": "UCUZnGspUWNGGbK3FTdrciLA"
+    },
+    "id": {
+      "bioguide": "V000127",
+      "govtrack": 400418,
+      "thomas": "01609"
+    }
+  },
+  {
+    "social": {
+      "youtube": "SenatorBillCassidy",
+      "youtube_id": "UCCEyGhUzxgkxFzWCY-rxz8g"
+    },
+    "id": {
+      "bioguide": "C001075",
+      "govtrack": 412269,
+      "thomas": "01925"
+    }
+  },
+  {
+    "social": {
+      "facebook": "rfrelinghuysen",
+      "youtube": "RepFrelinghuysen",
+      "facebook_id": "191509977669708",
+      "twitter": "USRepRodney",
+      "youtube_id": "UCePp5KwEKTtu3GM6gkVIkmg",
+      "twitter_id": 1382011333
+    },
+    "id": {
+      "bioguide": "F000372",
+      "govtrack": 400142,
+      "thomas": "00414"
+    }
+  },
+  {
+    "social": {
+      "youtube": "SenatorFranken",
+      "youtube_id": "UCMFNp5ybWmz6IlSXmPacTOw"
+    },
+    "id": {
+      "bioguide": "F000457",
+      "govtrack": 412378,
+      "thomas": "01969"
+    }
+  },
+  {
+    "social": {
+      "youtube": "BrettGuthrie",
+      "twitter": "RepGuthrie",
+      "youtube_id": "UCdJhDw-YbdH0RHfWK0sIfiw",
+      "twitter_id": 1908143071
+    },
+    "id": {
+      "bioguide": "G000558",
+      "govtrack": 412278,
+      "thomas": "01922"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepLaMalfa",
+      "twitter_id": 1069124515,
+      "twitter": "RepLaMalfa",
+      "youtube_id": "UCUzz1XDn862fxirervSB2Yw",
+      "youtube": "RepLaMalfa"
+    },
+    "id": {
+      "bioguide": "L000578",
+      "govtrack": 412510,
+      "thomas": "02100"
+    }
+  },
+  {
+    "social": {
+      "facebook": "USRepKathyCastor",
+      "youtube": "RepKathyCastor",
+      "facebook_id": "181810465190906",
+      "twitter": "USRepKCastor",
+      "youtube_id": "UC_irxhmLqVenTFPxDxznG6g",
+      "twitter_id": 1880674038
+    },
+    "id": {
+      "bioguide": "C001066",
+      "govtrack": 412195,
+      "thomas": "01839"
+    }
+  },
+  {
+    "social": {
+      "youtube": "senatorklobuchar",
+      "youtube_id": "UCvdeJsDsV51tFb_hVqvtYGA"
+    },
+    "id": {
+      "bioguide": "K000367",
+      "govtrack": 412242,
+      "thomas": "01826"
+    }
+  },
+  {
+    "social": {
+      "youtube": "SenatorIsakson",
+      "twitter": "SenatorIsakson",
+      "youtube_id": "UCO80zDwuLZHtGr-KOfl_XCQ",
+      "twitter_id": 78403308
+    },
+    "id": {
+      "bioguide": "I000055",
+      "govtrack": 400194,
+      "thomas": "01608"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repcardenas",
+      "facebook_id": "485493954794945",
+      "instagram_id": 1483357690,
+      "twitter": "RepCardenas",
+      "twitter_id": 1222257180,
+      "youtube": "repcardenas",
+      "youtube_id": "UCm6ug1-yvYGL0F6DvYxfFBA",
+      "instagram": "repcardenas"
+    },
+    "id": {
+      "bioguide": "C001097",
+      "govtrack": 412517,
+      "thomas": "02107"
+    }
+  },
+  {
+    "social": {
+      "youtube": "1529tjw",
+      "twitter": "RepTimWalz",
+      "youtube_id": "UCAaYwb6XgcSVZ-5s3ei2g6g",
+      "twitter_id": 1262814457
+    },
+    "id": {
+      "bioguide": "W000799",
+      "govtrack": 412214,
+      "thomas": "01856"
+    }
+  },
+  {
+    "social": {
+      "facebook": "repmarkpocan",
+      "facebook_id": "436881033058309",
+      "instagram_id": 1422301608,
+      "twitter": "RepMarkPocan",
+      "twitter_id": 1206227149,
+      "youtube": "repmarkpocan",
+      "youtube_id": "UCz5b47WER_u3dUGV_Zi70dQ",
+      "instagram": "repmarkpocan"
+    },
+    "id": {
+      "bioguide": "P000607",
+      "govtrack": 412585,
+      "thomas": "02171"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJuanVargas",
+      "youtube": "RepJuanVargas",
+      "facebook_id": "176942192453747",
+      "twitter": "RepJuanVargas",
+      "youtube_id": "UCpMthf8y7bEMJH_td0dznRQ",
+      "twitter_id": 1260172386
+    },
+    "id": {
+      "bioguide": "V000130",
+      "govtrack": 412522,
+      "thomas": "02112"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorKaine",
+      "youtube": "SenatorTimKaine",
+      "facebook_id": "482778861771212",
+      "twitter": "SenKaineOffice",
+      "youtube_id": "UC27LgTZlUnBQoNEQFZdn9LA",
+      "twitter_id": 1267940407
+    },
+    "id": {
+      "bioguide": "K000384",
+      "govtrack": 412582,
+      "thomas": "02176"
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenBrianSchatz",
+      "youtube": "senbrianschatz",
+      "facebook_id": "357806137657533",
+      "twitter": "SenBrianSchatz",
+      "youtube_id": "UC8-mSYp2WqBiB_5iwtwKfow",
+      "twitter_id": 1262099252
+    },
+    "id": {
+      "bioguide": "S001194",
+      "govtrack": 412507,
+      "thomas": "02173"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSarbanes",
+      "twitter": "RepSarbanes",
+      "twitter_id": 364415553
+    },
+    "id": {
+      "govtrack": 412212,
+      "bioguide": "S001168"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJuliaBrownley",
+      "youtube": "RepJuliaBrownley",
+      "facebook_id": "330504617051234",
+      "twitter": "JuliaBrownley26",
+      "youtube_id": "UCFrC4Ouk5R6xQztS9PZin_A",
+      "twitter_id": 1243902714
+    },
+    "id": {
+      "govtrack": 412516,
+      "bioguide": "B001285"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepThomasMassie",
+      "youtube": "repthomasmassie",
+      "facebook_id": "452480994776070",
+      "twitter": "RepThomasMassie",
+      "youtube_id": "UCpmXOtvvXC3GE8o9VxYNK7g",
+      "twitter_id": 975200486
+    },
+    "id": {
+      "thomas": "02094",
+      "bioguide": "M001184"
+    }
+  },
+  {
+    "social": {
+      "facebook": "reprobinkelly",
+      "facebook_id": "150380975141321",
+      "twitter": "RepRobinKelly",
+      "youtube_id": "UCLhcNPX2nNQLNzwKW0nEykg",
+      "twitter_id": 1339931490
+    },
+    "id": {
+      "thomas": "02190",
+      "bioguide": "K000385"
+    }
+  },
+  {
+    "social": {
+      "facebook": "KirstenGillibrand",
+      "twitter": "SenGillibrand",
+      "youtube": "KirstenEGillibrand",
+      "youtube_id": "UCVEloQogVsmnkd5vxJInmYg"
+    },
+    "id": {
+      "thomas": "01866",
+      "bioguide": "G000555"
+    }
+  },
+  {
+    "social": {
+      "youtube": "SenatorJamesRisch",
+      "twitter": "SenatorRisch",
+      "youtube_id": "UCncKW8xyT5UbPNO27YuQnBA",
+      "twitter_id": 1096059529
+    },
+    "id": {
+      "bioguide": "R000584",
+      "thomas": "01896",
+      "govtrack": 412322
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJoyceBeatty",
+      "twitter_id": 1531521632,
+      "twitter": "RepBeatty",
+      "youtube_id": "UCtVl3kb7Xvt3pY7l6x-M6LA",
+      "instagram_id": 554027718,
+      "instagram": "repbeatty"
+    },
+    "id": {
+      "bioguide": "B001281",
+      "thomas": "02153",
+      "govtrack": 412565
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepSanfordSC",
+      "youtube": "RepSanfordSC",
+      "facebook_id": "118387985037658",
+      "twitter": "RepSanfordSC",
+      "youtube_id": "UCS33edNAxXe2pyFbnUUcZWA",
+      "twitter_id": 1499993378
+    },
+    "id": {
+      "bioguide": "S000051",
+      "thomas": "01012",
+      "govtrack": 400607
+    }
+  },
+  {
+    "social": {
+      "facebook": "repjasonsmith",
+      "youtube": "RepJasonSmith",
+      "facebook_id": "544741092252764",
+      "twitter": "RepJasonSmith",
+      "youtube_id": "UCzj9-27Lr4gcqopmZAobXXg",
+      "twitter_id": 1623308912
+    },
+    "id": {
+      "bioguide": "S001195",
+      "thomas": "02191",
+      "govtrack": 412596
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepChrisSmith",
+      "youtube": "USRepChrisSmith",
+      "facebook_id": "371621772908416",
+      "twitter": "RepChrisSmith",
+      "youtube_id": "UCtCNUDo3-I1gsd_03ppDfZg",
+      "twitter_id": 1289319271
+    },
+    "id": {
+      "bioguide": "S000522",
+      "thomas": "01071",
+      "govtrack": 400380
+    }
+  },
+  {
+    "social": {
+      "facebook": "chrismurphyct",
+      "youtube": "senchrismurphy",
+      "facebook_id": "19437978960",
+      "twitter": "ChrisMurphyCT",
+      "youtube_id": "UCbcEa40PIFpLpdDe06n3F3Q",
+      "twitter_id": 150078976
+    },
+    "id": {
+      "bioguide": "M001169",
+      "thomas": "01837",
+      "govtrack": 412194
+    }
+  },
+  {
+    "social": {
+      "youtube": "SenCoryBooker",
+      "twitter": "SenBookerOfc",
+      "youtube_id": "UC6FlymqNS1VettnVZa7goPA",
+      "twitter_id": 2167097881
+    },
+    "id": {
+      "bioguide": "B001288",
+      "thomas": "02194",
+      "govtrack": 412598
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanClark",
+      "facebook_id": "1408040802774787",
+      "twitter": "RepKClark",
+      "youtube_id": "UCgaI52w7QKI8LtkSeCCmSuw",
+      "twitter_id": 2293131060
+    },
+    "id": {
+      "bioguide": "C001101",
+      "thomas": "02196",
+      "govtrack": 412600
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepByrne",
+      "facebook_id": "1374832002773142",
+      "instagram_id": 944262792,
+      "twitter": "RepByrne",
+      "youtube_id": "UCRUXmqQbrKo0T6xi_GT7TEA",
+      "twitter_id": 2253968388,
+      "instagram": "repbyrne"
+    },
+    "id": {
+      "bioguide": "B001289",
+      "thomas": "02197",
+      "govtrack": 412601
+    }
+  },
+  {
+    "social": {
+      "facebook": "repdavidjolly",
+      "facebook_id": "712496765463007",
+      "twitter": "USRepDavidJolly",
+      "youtube_id": "UCmZt80RWeJF6F-cBw7zjP0g",
+      "twitter_id": 2482022082
+    },
+    "id": {
+      "bioguide": "J000296",
+      "thomas": "02199",
+      "govtrack": 412603
+    }
+  },
+  {
+    "social": {
+      "youtube_id": "UCWjNmgE01hGoME_jkj6VpRQ"
+    },
+    "id": {
+      "bioguide": "G000556",
+      "thomas": "01914",
+      "govtrack": 412276
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepNewhouse",
+      "twitter": "RepNewhouse",
+      "twitter_id": 2930635215
+    },
+    "id": {
+      "bioguide": "N000189",
+      "thomas": "02275",
+      "govtrack": 412660
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepEvanJenkins",
+      "twitter": "RepEvanJenkins",
+      "twitter_id": 2953713339,
+      "instagram": "RepEvanJenkins"
+    },
+    "id": {
+      "bioguide": "J000297",
+      "thomas": "02278",
+      "govtrack": 412663
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRatcliffe",
+      "instagram_id": 1679501092,
+      "twitter": "RepRatcliffe",
+      "twitter_id": 2847221717,
+      "instagram": "rep_ratcliffe"
+    },
+    "id": {
+      "bioguide": "R000601",
+      "thomas": "02268",
+      "govtrack": 412653
+    }
+  },
+  {
+    "social": {
+      "facebook": "reploudermilk",
+      "twitter": "RepLoudermilk",
+      "twitter_id": 2914163523
+    },
+    "id": {
+      "bioguide": "L000583",
+      "thomas": "02238",
+      "govtrack": 412624
+    }
+  },
+  {
+    "social": {
+      "facebook": "congressmanbuddycarter",
+      "twitter": "RepBuddyCarter",
+      "twitter_id": 2973870195
+    },
+    "id": {
+      "bioguide": "C001103",
+      "thomas": "02236",
+      "govtrack": 412622
+    }
+  },
+  {
+    "social": {
+      "facebook": "repcurbelo",
+      "twitter": "RepCurbelo",
+      "twitter_id": 2853309155
+    },
+    "id": {
+      "bioguide": "C001107",
+      "thomas": "02235",
+      "govtrack": 412621
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanTomMacArthur",
+      "twitter": "RepTomMacArthur",
+      "twitter_id": 2962994194
+    },
+    "id": {
+      "bioguide": "M001193",
+      "thomas": "02258",
+      "govtrack": 412643
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBost",
+      "twitter": "RepBost",
+      "twitter_id": 2964877294
+    },
+    "id": {
+      "bioguide": "B001295",
+      "thomas": "02243",
+      "govtrack": 412629
+    }
+  },
+  {
+    "social": {
+      "facebook": "repfrankguinta",
+      "twitter": "RepFrankGuinta",
+      "twitter_id": 236960387
+    },
+    "id": {
+      "bioguide": "G000570",
+      "thomas": "02038",
+      "govtrack": 412447
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongresswomanAdams",
+      "twitter": "RepAdams",
+      "twitter_id": 2916086925
+    },
+    "id": {
+      "bioguide": "A000370",
+      "thomas": "02201",
+      "govtrack": 412607
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBarbaraComstock",
+      "twitter": "RepComstock",
+      "twitter_id": 2933760046
+    },
+    "id": {
+      "bioguide": "C001105",
+      "thomas": "02273",
+      "govtrack": 412658
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBradAshford",
+      "twitter": "RepBradAshford",
+      "twitter_id": 2964351843
+    },
+    "id": {
+      "bioguide": "A000373",
+      "thomas": "02257",
+      "govtrack": 412642
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepPoliquin",
+      "twitter": "RepPoliquin",
+      "twitter_id": 2932617195
+    },
+    "id": {
+      "bioguide": "P000611",
+      "thomas": "02247",
+      "govtrack": 412633
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMoolenaar",
+      "twitter": "RepMoolenaar",
+      "twitter_id": 2696643955
+    },
+    "id": {
+      "bioguide": "M001194",
+      "thomas": "02248",
+      "govtrack": 412634
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepEliseStefanik",
+      "twitter": "RepStefanik",
+      "twitter_id": 2962813893
+    },
+    "id": {
+      "bioguide": "S001196",
+      "thomas": "02263",
+      "govtrack": 412648
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanRyanCostello",
+      "twitter": "RepRyanCostello",
+      "twitter_id": 2953922782,
+      "instagram": "RepRyanCostello"
+    },
+    "id": {
+      "bioguide": "C001106",
+      "thomas": "02266",
+      "govtrack": 412651
+    }
+  },
+  {
+    "social": {
+      "facebook": "1579216395649220",
+      "facebook_id": "1579216395649220",
+      "twitter": "RepDavidRouzer",
+      "twitter_id": 834069080
+    },
+    "id": {
+      "bioguide": "R000603",
+      "thomas": "02256",
+      "govtrack": 412641
+    }
+  },
+  {
+    "social": {
+      "facebook": "USRepresentativeGaryPalmer",
+      "instagram_id": 1551536636,
+      "twitter": "USRepGaryPalmer",
+      "twitter_id": 2861616083,
+      "instagram": "usrepgarypalmer"
+    },
+    "id": {
+      "bioguide": "P000609",
+      "thomas": "02221",
+      "govtrack": 412608
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMcSally",
+      "twitter": "RepMcSally",
+      "twitter_id": 2964949642
+    },
+    "id": {
+      "bioguide": "M001197",
+      "thomas": "02225",
+      "govtrack": 412611
+    }
+  },
+  {
+    "social": {
+      "facebook": "reptomemmer",
+      "instagram_id": 1565640999,
+      "twitter": "RepTomEmmer",
+      "twitter_id": 2914515430,
+      "instagram": "reptomemmer"
+    },
+    "id": {
+      "bioguide": "E000294",
+      "thomas": "02253",
+      "govtrack": 412639
+    }
+  },
+  {
+    "social": {
+      "facebook": "reprussell",
+      "twitter": "RepRussell",
+      "twitter_id": 2966758114
+    },
+    "id": {
+      "bioguide": "R000604",
+      "thomas": "02265",
+      "govtrack": 412650
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanRalphAbraham",
+      "twitter": "RepAbraham",
+      "twitter_id": 2962891515
+    },
+    "id": {
+      "bioguide": "A000374",
+      "thomas": "02244",
+      "govtrack": 412630
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepDavidYoung",
+      "twitter": "RepDavidYoung",
+      "twitter_id": 314205957
+    },
+    "id": {
+      "bioguide": "Y000066",
+      "thomas": "02242",
+      "govtrack": 412628
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepLeeZeldin",
+      "twitter": "RepLeeZeldin",
+      "twitter_id": 2750127259
+    },
+    "id": {
+      "bioguide": "Z000017",
+      "thomas": "02261",
+      "govtrack": 412646
+    }
+  },
+  {
+    "social": {
+      "facebook": "repgwengraham",
+      "facebook_id": null,
+      "twitter": "RepGwenGraham",
+      "twitter_id": 2962681881
+    },
+    "id": {
+      "bioguide": "G000575",
+      "thomas": "02234",
+      "govtrack": 412620
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepJohnKatko",
+      "twitter": "RepJohnKatko",
+      "twitter_id": 2966765501
+    },
+    "id": {
+      "bioguide": "K000386",
+      "thomas": "02264",
+      "govtrack": 412649
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanRyanZinke",
+      "twitter": "RepRyanZinke",
+      "twitter_id": 2953494478
+    },
+    "id": {
+      "bioguide": "Z000018",
+      "thomas": "02254",
+      "govtrack": 412640
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepWesterman",
+      "twitter": "RepWesterman",
+      "twitter_id": 2852998461
+    },
+    "id": {
+      "bioguide": "W000821",
+      "thomas": "02224",
+      "govtrack": 412610
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepFrenchHill",
+      "twitter": "RepFrenchHill",
+      "twitter_id": 2953974395
+    },
+    "id": {
+      "bioguide": "H001072",
+      "thomas": "02223",
+      "govtrack": 412609
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBrianBabin",
+      "twitter": "RepBrianBabin",
+      "twitter_id": 2929491549
+    },
+    "id": {
+      "bioguide": "B001291",
+      "thomas": "02270",
+      "govtrack": 412655
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanAlexMooney",
+      "twitter": "RepAlexMooney",
+      "twitter_id": 2964526557
+    },
+    "id": {
+      "bioguide": "M001195",
+      "thomas": "02277",
+      "govtrack": 412662
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanDaveTrott",
+      "twitter": "repdavetrott",
+      "twitter_id": 2869746172
+    },
+    "id": {
+      "bioguide": "T000475",
+      "thomas": "02250",
+      "govtrack": 412636
+    }
+  },
+  {
+    "social": {
+      "facebook": "repkenbuck",
+      "twitter": "RepKenBuck",
+      "twitter_id": 2862577383
+    },
+    "id": {
+      "bioguide": "B001297",
+      "thomas": "02233",
+      "govtrack": 412619
+    }
+  },
+  {
+    "social": {
+      "facebook": "congressmanrodblum",
+      "twitter": "RepRodBlum",
+      "twitter_id": 2965083477
+    },
+    "id": {
+      "bioguide": "B001294",
+      "thomas": "02241",
+      "govtrack": 412627
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMikeBishop",
+      "twitter": "RepMikeBishop",
+      "twitter_id": 2914571740
+    },
+    "id": {
+      "bioguide": "B001293",
+      "thomas": "02249",
+      "govtrack": 412635
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepKathleenRice",
+      "twitter": "RepKathleenRice",
+      "twitter_id": 2970462034
+    },
+    "id": {
+      "bioguide": "R000602",
+      "thomas": "02262",
+      "govtrack": 412647
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepCurtClawson",
+      "twitter": "RepCurtClawson",
+      "twitter_id": 2730150631
+    },
+    "id": {
+      "bioguide": "C001102",
+      "thomas": "02200",
+      "govtrack": 412604
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepDebbieDingell",
+      "facebook_id": null,
+      "twitter": "RepDebDingell",
+      "twitter_id": 2970279814
+    },
+    "id": {
+      "bioguide": "D000624",
+      "thomas": "02251",
+      "govtrack": 412637
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepNormaTorres",
+      "twitter": "NormaJTorres",
+      "twitter_id": 236279233
+    },
+    "id": {
+      "bioguide": "T000474",
+      "thomas": "02231",
+      "govtrack": 412617
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorSasse",
+      "facebook_id": null,
+      "twitter_id": 2962923040,
+      "twitter": "SenSasse",
+      "instagram_id": 1636974433,
+      "instagram": "senatorsasse"
+    },
+    "id": {
+      "bioguide": "S001197",
+      "thomas": "02289",
+      "govtrack": 412671
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepresentativeSteveKnight",
+      "twitter": "SteveKnight25",
+      "twitter_id": 2974648323
+    },
+    "id": {
+      "bioguide": "K000387",
+      "thomas": "02228",
+      "govtrack": 412614
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenDanSullivan",
+      "instagram_id": 1660873387,
+      "twitter": "SenDanSullivan",
+      "twitter_id": 2891210047,
+      "instagram": "sen_dansullivan"
+    },
+    "id": {
+      "bioguide": "S001198",
+      "thomas": "02290",
+      "govtrack": 412665
+    }
+  },
+  {
+    "social": {
+      "facebook": "repmialove",
+      "twitter": "repmialove",
+      "twitter_id": 2976598347
+    },
+    "id": {
+      "bioguide": "L000584",
+      "thomas": "02271",
+      "govtrack": 412656
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanRickAllen",
+      "facebook_id": null,
+      "twitter_id": 2964287128,
+      "twitter": "reprickallen",
+      "instagram_id": 1666787116,
+      "instagram": "reprickallen"
+    },
+    "id": {
+      "bioguide": "A000372",
+      "thomas": "02239",
+      "govtrack": 412625
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorMikeRounds",
+      "twitter": "SenatorRounds",
+      "twitter_id": 2955485182
+    },
+    "id": {
+      "bioguide": "R000605",
+      "thomas": "02288",
+      "govtrack": 412669
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMimiWalters",
+      "instagram_id": 301820337,
+      "twitter": "RepMimiWalters",
+      "twitter_id": 47798449,
+      "instagram": "rep_mimiwalters"
+    },
+    "id": {
+      "bioguide": "W000820",
+      "thomas": "02232",
+      "govtrack": 412618
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanBoyle",
+      "twitter": "RepBrendanBoyle",
+      "twitter_id": 231108733
+    },
+    "id": {
+      "bioguide": "B001296",
+      "thomas": "02267",
+      "govtrack": 412652
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanJodyHice",
+      "facebook_id": null,
+      "twitter": "congressmanhice",
+      "twitter_id": 2975091705
+    },
+    "id": {
+      "bioguide": "H001071",
+      "thomas": "02237",
+      "govtrack": 412623
+    }
+  },
+  {
+    "social": {
+      "facebook": "reppeteaguilar",
+      "facebook_id": null,
+      "twitter": "reppeteaguilar",
+      "twitter_id": 3018670151
+    },
+    "id": {
+      "bioguide": "A000371",
+      "thomas": "02229",
+      "govtrack": 412615
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepRubenGallego",
+      "facebook_id": null,
+      "twitter": "RepRubenGallego",
+      "twitter_id": 2966570782
+    },
+    "id": {
+      "bioguide": "G000574",
+      "thomas": "02226",
+      "govtrack": 412612
+    }
+  },
+  {
+    "social": {
+      "facebook": "SenatorDavidPerdue",
+      "facebook_id": null,
+      "twitter_id": 2863210809,
+      "twitter": "sendavidperdue",
+      "instagram_id": 1650058430,
+      "instagram": "sendavidperdue"
+    },
+    "id": {
+      "bioguide": "P000612",
+      "thomas": "02286",
+      "govtrack": 412666
+    }
+  },
+  {
+    "social": {
+      "facebook": "repstaceyplaskett",
+      "facebook_id": null,
+      "twitter": "staceyplaskett",
+      "twitter_id": 2724095695
+    },
+    "id": {
+      "bioguide": "P000610",
+      "thomas": "02274",
+      "govtrack": 412659
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepBonnieWatsonColeman",
+      "facebook_id": null,
+      "youtube_id": "UCrxEaX0VKZKwg3930du2D5A"
+    },
+    "id": {
+      "bioguide": "W000822",
+      "thomas": "02259",
+      "govtrack": 412644
+    }
+  },
+  {
+    "social": {
+      "facebook": "HurdOnTheHill",
+      "facebook_id": null,
+      "twitter": "hurdonthehill",
+      "twitter_id": 2963445730
+    },
+    "id": {
+      "bioguide": "H001073",
+      "thomas": "02269",
+      "govtrack": 412654
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepTedLieu",
+      "facebook_id": null,
+      "twitter": "RepTedLieu",
+      "twitter_id": 3044993235
+    },
+    "id": {
+      "bioguide": "L000582",
+      "thomas": "02230",
+      "govtrack": 412616
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanGarretGraves",
+      "facebook_id": null,
+      "twitter": "RepGarretGraves",
+      "twitter_id": 2951574214
+    },
+    "id": {
+      "bioguide": "G000577",
+      "thomas": "02245",
+      "govtrack": 412631
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMarkDeSaulnier",
+      "facebook_id": null,
+      "twitter": "RepDeSaulnier",
+      "twitter_id": 2968007206
+    },
+    "id": {
+      "bioguide": "D000623",
+      "thomas": "02227",
+      "govtrack": 412613
+    }
+  },
+  {
+    "social": {
+      "facebook": "repmarktakai",
+      "facebook_id": null,
+      "twitter_id": 2975350155,
+      "twitter": "RepMarkTakai",
+      "instagram_id": 1664061527,
+      "instagram": "repmarktakai"
+    },
+    "id": {
+      "bioguide": "T000473",
+      "thomas": "02240",
+      "govtrack": 412626
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepMarkWalker",
+      "facebook_id": null,
+      "twitter_id": 2966205003,
+      "twitter": "RepMarkWalker",
+      "instagram_id": 1638422078,
+      "instagram": "repmarkwalker"
+    },
+    "id": {
+      "bioguide": "W000819",
+      "thomas": "02255",
+      "govtrack": 412670
+    }
+  },
+  {
+    "social": {
+      "facebook": "CongressmanSethMoulton",
+      "facebook_id": null,
+      "twitter": "teammoulton",
+      "twitter_id": 3091316093
+    },
+    "id": {
+      "bioguide": "M001196",
+      "thomas": "02246",
+      "govtrack": 412632
+    }
+  },
+  {
+    "social": {
+      "facebook": "repdonbeyer",
+      "facebook_id": null,
+      "twitter": "repdonbeyer",
+      "twitter_id": 2962868158
+    },
+    "id": {
+      "bioguide": "B001292",
+      "thomas": "02272",
+      "govtrack": 412657
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepGrothman",
+      "facebook_id": null,
+      "twitter": "RepGrothman",
+      "twitter_id": 2976606250
+    },
+    "id": {
+      "bioguide": "G000576",
+      "thomas": "02276",
+      "govtrack": 412661
+    }
+  },
+  {
+    "social": {
+      "facebook": "DonaldNorcrossNJ",
+      "twitter": "DonaldNorcross",
+      "youtube_id": "UC7kXK_PyDiOT8YrdP0jYZHw",
+      "twitter_id": 3122099613,
+      "instagram": "donald_norcross"
+    },
+    "id": {
+      "bioguide": "N000188",
+      "thomas": "02202",
+      "govtrack": 412606
+    }
+  },
+  {
+    "social": {
+      "facebook": "395759603917487",
+      "facebook_id": "395759603917487",
+      "twitter": "RepLawrence",
+      "twitter_id": 2863006655
+    },
+    "id": {
+      "bioguide": "L000581",
+      "thomas": "02252",
+      "govtrack": 412638
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepDaveBrat",
+      "twitter": "RepDaveBrat",
+      "twitter_id": 2560169238
+    },
+    "id": {
+      "bioguide": "B001290",
+      "thomas": "02203",
+      "govtrack": 412605
+    }
+  },
+  {
+    "social": {
+      "facebook": "reptrentkelly",
+      "twitter": "reptrentkelly",
+      "twitter_id": 3317799825
+    },
+    "id": {
+      "govtrack": 412673,
+      "bioguide": "K000388"
+    }
+  },
+  {
+    "social": {
+      "facebook": "RepDold",
+      "twitter": "RepDold",
+      "twitter_id": 245408102
+    },
+    "id": {
+      "bioguide": "D000613",
+      "thomas": "02013",
+      "govtrack": 412420
+    }
+  },
+  {
+    "social": {
+      "youtube": "RepDanaRohrabacher",
+      "youtube_id": "UCFr7qO61vGJyyBJ7B_gB1_Q"
+    },
+    "id": {
+      "bioguide": "R000409",
+      "thomas": "00979",
+      "govtrack": 400343
+    }
+  },
+  {
+    "social": {
+      "facebook": "Rep-Daniel-M-Donovan-867632656644580",
+      "facebook_id": "867632656644580",
+      "twitter": "RepDanDonovan",
+      "twitter_id": 3353670647
+    },
+    "id": {
+      "bioguide": "D000625",
+      "thomas": "02293",
+      "govtrack": 412672
+    }
+  }
+]
